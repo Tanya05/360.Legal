@@ -48,21 +48,21 @@ def striprtf(text):
    ))
    # Translation of some special characters.
    specialchars = {
-      'par': '\n',
-      'sect': '\n\n',
-      'page': '\n\n',
-      'line': '\n',
-      'tab': '\t',
-      'emdash': '\u2014',
-      'endash': '\u2013',
-      'emspace': '\u2003',
-      'enspace': '\u2002',
-      'qmspace': '\u2005',
-      'bullet': '\u2022',
-      'lquote': '\u2018',
-      'rquote': '\u2019',
-      'ldblquote': '\201C',
-      'rdblquote': '\u201D',
+      'par': ' ',
+      'sect': ' ',
+      'page': ' ',
+      'line': ' ',
+      'tab': ' ',
+      'emdash': ' ',
+      'endash': ' ',
+      'emspace': ' ',
+      'enspace': ' ',
+      'qmspace': ' ',
+      'bullet': ' ',
+      'lquote': '"',
+      'rquote': '"',
+      'ldblquote': '"',
+      'rdblquote': '"',
    }
    stack = []
    ignorable = False       # Whether this group (and all inside it) are "ignorable".
@@ -83,7 +83,7 @@ def striprtf(text):
          curskip = 0
          if char == '~':
             if not ignorable:
-                out.append('\xA0')
+                out.append(' ')
          elif char in '{}\\':
             if not ignorable:
                out.append(char)
