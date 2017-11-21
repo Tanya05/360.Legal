@@ -16,7 +16,7 @@ word_tokens=tokenizer.tokenize(txt)
 
 #Get stopwords library from nltk and add days and months to reduce number of tokens.
 stop_words = set(stopwords.words('english'))
-stop_words.update([u'january', u'febuary', u'march', u'april', u'may', u'june', u'july', u'august', u'september', u'october', u'november', u'december' ])
+stop_words.update([u'january', u'february', u'march', u'april', u'may', u'june', u'july', u'august', u'september', u'october', u'november', u'december' ])
 stop_words.update([u'monday', u'tuesday', u'wednesday', u'thursday', u'friday', u'saturday', u'sunday'])
 final_tokens=[]
 
