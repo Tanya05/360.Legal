@@ -3,6 +3,8 @@ import string
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import RegexpTokenizer
+from nltk import PorterStemmer
+import unicodedata
 
 #Read documents and convert to txt by using function striprtf
 txt = open("./cases_2017/1.rtf").read()
@@ -22,5 +24,5 @@ final_tokens=[]
 #remove stopwords
 for word in word_tokens:
 	if word.lower() not in stop_words:
-		final_tokens.append(word.lower())
+		final_tokens.append(PorterStemmer().stem(word.lower()).encode())
 print final_tokens
