@@ -4,7 +4,6 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import RegexpTokenizer
 from nltk import PorterStemmer
-import unicodedata
 
 #Read documents and convert to txt by using function striprtf
 txt = open("./cases_2017/1.rtf").read()
