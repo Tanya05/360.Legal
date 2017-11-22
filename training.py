@@ -1,12 +1,10 @@
 import rtftotext as rtf #file containing function to convert rtf files to txt files
-import string
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.tokenize import RegexpTokenizer
 from nltk import PorterStemmer
 import string
 import os
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
 
@@ -36,9 +34,10 @@ for dirpath, dirs, files in os.walk(path):
     #os.walk() generates the file names in a directory tree by walking the tree
     for f in files:
         fname = os.path.join(dirpath, f) #creates filename as path+file
-        #print "fname=", fname
         with open(fname) as pearl:
             text = pearl.read()
+            if f[-3:] == 'rtf':
+                text=rtf.striprtf(text)
             stripped_text = tokenize(text)
             token_dict[f] = stripped_text.translate(None, string.punctuation)
             #stored text corresponding to file in dictionary
