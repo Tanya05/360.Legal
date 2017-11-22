@@ -23,18 +23,30 @@ def tokenize(text):
     stop_words.update([u'monday', u'tuesday', u'wednesday', u'thursday', u'friday', u'saturday', u'sunday'])
     #setting regexp so that only words taken and punctuation and digits removed
     tokenizer = RegexpTokenizer(r'[a-zA-Z][^\s]*\b')
-    word_tokens=tokenizer.tokenize(txt) #tokenizing
-    final_tokens = []
+    word_tokens=tokenizer.tokenize(text) #tokenizing
     #removing stop words and stemming
+    final_tokens = []
     for word in word_tokens:
-    if word.lower() not in stop_words:
-        final_tokens.append(PorterStemmer().stem(word.lower()).encode())
-    return final_tokens
+        if word.lower() not in stop_words:
+            final_tokens.append(PorterStemmer().stem(word.lower()).encode())
+    stripped_text = " ".join(final_tokens)
+    return stripped_text
 
 for dirpath, dirs, files in os.walk(path):
+    #os.walk() generates the file names in a directory tree by walking the tree
     for f in files:
-        fname = os.path.join(dirpath, f)
-        print "fname=", fname
+        fname = os.path.join(dirpath, f) #creates filename as path+file
+        #print "fname=", fname
         with open(fname) as pearl:
             text = pearl.read()
-            token_dict[f] = text.lower().translate(None, string.punctuation)
+            stripped_text = tokenize(text)
+            token_dict[f] = stripped_text.translate(None, string.punctuation)
+            #stored text corresponding to file in dictionary
+
+tfidf = TfidfVectorizer(tokenizer=tokenize)
+tfs = tfidf.fit_transform(token_dict.values())
+
+for file in token_dict:
+    print token_dict[file]
+
+print tfs
