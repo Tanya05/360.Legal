@@ -4,17 +4,19 @@ from nltk.tokenize import RegexpTokenizer
 from nltk import PorterStemmer
 import string
 import os
-
+from re import sub
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
 
 path = './cases_2017'
 token_dict = {}
 
-
 #function to tokenize, remove stop words and stem the remaining
 def tokenize(text):
     #setting stop words (defining the corpus of stop words)
+    
+    #Remove non ascii characters 
+    text=sub(r'[^\x00-\x7f]',r' ',text)
     stop_words = set(stopwords.words('english'))
     #following added to remove dates
     stop_words.update([u'january', u'february', u'march', u'april', u'may', u'june', u'july', u'august', u'september', u'october', u'november', u'december' ])
@@ -25,16 +27,17 @@ def tokenize(text):
     #removing stop words and stemming
     final_tokens = []
     for word in word_tokens:
-        if word.lower() not in stop_words:
-            final_tokens.append(PorterStemmer().stem(word.lower()).encode())
+        if (word.lower() not in stop_words):
+            final_tokens.append(str(PorterStemmer().stem(word.lower())))
     stripped_text = " ".join(final_tokens)
+    # print stripped_text
     return stripped_text
 
 for dirpath, dirs, files in os.walk(path):
     #os.walk() generates the file names in a directory tree by walking the tree
     for f in files:
         fname = os.path.join(dirpath, f) #creates filename as path+file
-        #print "fname=", fname
+        print "fname=", fname
         with open(fname) as pearl:
             text = pearl.read()
             stripped_text = tokenize(text)

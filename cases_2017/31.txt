@@ -1,0 +1,187 @@
+HIGH COURT OF AUSTRALIA
+
+KIEFEL CJ,
+BELL, GAGELER, KEANE, NETTLE, GORDON AND EDELMAN JJ
+
+
+
+PLAINTIFF S195/2016	PLAINTIFF
+
+AND
+
+MINISTER FOR IMMIGRATION AND BORDER 
+PROTECTION & ORS	DEFENDANTS
+
+
+Plaintiff S195/2016 v Minister for Immigration and Border Protection
+[2017] HCA 31
+17 August 2017
+S195/2016
+
+ORDER
+
+The questions stated by the parties in the special case dated 14 March 2017 and referred for consideration by the Full Court be answered as follows:
+
+Question 1
+
+Was the designation of [Papua New Guinea] as a regional processing country on 9 October 2012 beyond the power conferred by s 198AB(1) of the [Migration Act 1958 (Cth)] by reason of the [decision in Namah v Pato (2016) SC1497]?
+
+Answer
+
+No.
+
+Question 2
+
+Was entry into:
+
+(a) 	the 2013 Memorandum of Understanding;
+
+(b) 	the Regional Resettlement Arrangement;
+
+
+(c)	the 2014 Administrative Arrangements; and
+
+(d)	the Broadspectrum Contract,
+
+beyond the power of the Commonwealth conferred by s 61 of the Constitution and/or s 198AHA of the [Migration Act 1958 (Cth)] by reason of the [decision in Namah v Pato (2016) SC1497]?
+
+Answer
+
+No.
+
+Question 3
+
+Was the direction made by the Minister on 29 July 2013 beyond the power conferred by s 198AD(5) of the [Migration Act 1958 (Cth)] by reason of the [decision in Namah v Pato (2016) SC1497]?
+
+Answer
+
+No.
+
+Question 4
+
+Was the taking of the plaintiff to [Papua New Guinea] on 21 August 2013 beyond the power conferred by s 198AD of the [Migration Act 1958 (Cth)] by reason of the [decision in Namah v Pato (2016) SC1497]?
+
+Answer
+
+No.
+
+Question 5
+
+Is the authority for the Commonwealth to undertake conduct in respect of regional processing arrangements in [Papua New Guinea] conferred by s 198AHA of the [Migration Act 1958 (Cth)] dependent on whether those arrangements are lawful under the law of [Papua New Guinea]?
+
+Answer
+
+No.
+
+
+
+Question 6
+
+Is the Commonwealth precluded from assisting [Papua New Guinea] to take action pursuant to the orders outlined at paragraph 35 [of the special case] by reason of the [decision in Namah v Pato (2016) SC1497]?
+
+Answer
+
+No.
+
+Question 7
+
+Who should pay the costs of the special case?
+
+Answer
+
+The plaintiff.
+
+
+Representation
+
+T Molomby SC with J Williams for the plaintiff (instructed by O'Brien Solicitors)
+
+S P Donaghue QC, Solicitor-General of the Commonwealth and G R Kennett SC with A M Mitchelmore and P D Herzfeld for the first and second defendants (instructed by Australian Government Solicitor)
+
+S B Lloyd SC with H Younan for the third defendant (instructed by Corrs Chambers Westgarth)
+
+
+
+
+
+
+
+
+
+Notice:  This copy of the Court's Reasons for Judgment is subject to formal revision prior to publication in the Commonwealth Law Reports.
+
+
+
+CATCHWORDS
+
+Plaintiff S195/2016 v Minister for Immigration and Border Protection
+
+Migration  Regional processing  Where plaintiff "unauthorised maritime arrival"  Where plaintiff taken to regional processing centre in Papua New Guinea pursuant to s 198AD of Migration Act 1958 (Cth)  Where Commonwealth entered into arrangements with Papua New Guinea and took other actions in relation to regional processing functions  Where Supreme Court of Papua New Guinea held treatment of unauthorised maritime arrivals at Manus Island regional processing centre contrary to law of Papua New Guinea  Whether Commonwealth had power to enter into arrangements  Whether certain past and potential future actions of Commonwealth, its officers, and Minister invalid under Constitution or s 198AHA of Migration Act 1958 (Cth) by reason of Supreme Court decision  Whether arrangements entered into by Commonwealth not "arrangement[s]" for purpose of s 198AHA by reason of Supreme Court decision.
+
+Constitutional law (Cth)  Legislative and executive power  Whether Constitution denies Commonwealth legislative or executive power to authorise or to take part in activity in another country that is unlawful under domestic law of that country.
+
+Words and phrases  "domestic law of another country", "ministerial designation", "ministerial direction", "regional processing arrangements", "regional processing country", "regional resettlement arrangement", "unauthorised maritime arrival".
+
+Migration Act 1958 (Cth), ss 198AB(1), 198AD, 198AHA.
+
+
+
+
+KIEFEL CJ, BELL, GAGELER, KEANE, NETTLE, GORDON AND EDELMAN JJ.
+Background
+1 	The plaintiff is an Iranian national who claims to be a refugee within the meaning of Art 1 of the Refugees Convention1.  On 24 July 2013, he entered the migration zone at Christmas Island and became an "unauthorised maritime arrival" ("UMA") within the meaning of the Migration Act 1958 (Cth) ("the Act").  On 26 August 2013, he was taken by officers of the Commonwealth under s 198AD(2) to the Independent State of Papua New Guinea ("PNG"), which a predecessor of the Minister for Immigration and Border Protection ("the Minister") had on 9 October 2012 designated a "regional processing country" under s 198AB(1) ("the Ministerial Designation").  The plaintiff's taking to PNG was in accordance with a direction made by the Minister on 29 July 2013 under s 198AD(5) ("the Ministerial Direction").
+2 	The constitutional validity of ss 198AB and 198AD, and the statutory validity of the Ministerial Designation and the Ministerial Direction, were considered and upheld by this Court in Plaintiff S156/2013 v Minister for Immigration and Border Protection2.  The constitutional validity of s 198AHA, another provision of central relevance to the resolution of this case, was subsequently considered and upheld by this Court in Plaintiff M68/2015 v Minister for Immigration and Border Protection3.
+3 	Having been taken to PNG, the plaintiff became subject under PNG law to general directions of the PNG Minister for Foreign Affairs and Immigration ("the PNG Minister") which required him to reside at the Manus Regional Processing Centre ("the Manus RPC"), where he remains.  The Manus RPC has at all relevant times been operated by Broadspectrum (Australia) Pty Ltd ("Broadspectrum") (formerly known as Transfield Services (Australia) Pty Ltd) in accordance with the terms of a contract entered into between Broadspectrum and the Commonwealth entitled "Contract in relation to the Provision of Garrison and Welfare Services at Regional Processing Countries" ("the Broadspectrum Contract").
+4 	The plaintiff applied to the Immigration and Citizenship Service Authority of PNG to be recognised as a refugee under PNG law.  That application was unsuccessful.  On 12 December 2016, the PNG Minister determined that the plaintiff was not a refugee, ordered his removal from PNG and directed that he be kept in custody pending removal.  No step has yet been taken to implement the order or the direction.
+5 	In the meantime, on 26 April 2016, the Supreme Court of PNG gave judgment in Namah v Pato4 ("the Namah Decision").  It will be appropriate to refer to the Namah Decision in some more detail in due course.  Suffice it at this point to note that the Supreme Court found that treatment of UMAs at the Manus RPC contravened provisions of the Constitution of PNG.  
+The special case 
+6 	By special case in a proceeding commenced in this Court's original jurisdiction by the plaintiff against the Commonwealth, the Minister and Broadspectrum, questions have been stated by the parties for the opinion of the Full Court concerning the effect, if any, of the Namah Decision on the validity under the Australian Constitution and under the Act of actions which have been taken, or which might be taken, by the Commonwealth or the Minister or other officers of the Commonwealth in relation to regional processing in PNG.  Five questions, one of which is in four parts, identify seven specific past actions and one potential future action for consideration in light of the Namah Decision.  
+7 	Grouping the past actions thematically and in broadly chronological order, the first, identified in Question 2(b), was the entry into by the Commonwealth (represented by the Prime Minister) on 19 July 2013 of a "Regional Resettlement Arrangement between Australia and Papua New Guinea" ("the Regional Resettlement Arrangement") under which PNG agreed to accept UMAs from Australia "for processing and, if successful in their application for refugee status, resettlement".  The Regional Resettlement Arrangement provided and continues to provide for transferred UMAs to be accommodated in a regional processing centre to be managed and administered by PNG under PNG law, with support from Australia. 
+8 	The second of the past actions, identified in Question 2(a), was the entry into by the Commonwealth (represented by the High Commissioner to PNG) on 5 August 2013 of a "Memorandum of Understanding between the Government of the Independent State of Papua New Guinea and the Government of Australia, relating to the Transfer to, and Assessment and Settlement in, Papua New Guinea of Certain Persons, and Related Issues" ("the 2013 Memorandum of Understanding").  The 2013 Memorandum of Understanding superseded a similarly styled memorandum of understanding entered into by the Commonwealth (then represented by the Minister for Trade and Competitiveness) on 8 September 2012.  The 2013 Memorandum of Understanding provides  as did the 2012 memorandum of understanding  for Australia to transfer UMAs to PNG, for PNG to accept UMAs transferred from Australia, for PNG for that purpose to "host" a processing centre in Manus Province, for Australia to bear the direct costs agreed by the parties to arise out of its implementation, and for the Government of Australia and the Government of PNG each to "conduct all activities in respect of this MOU in accordance with its Constitution and all relevant domestic laws".
+9 	The third of the past actions, identified in Question 2(c), was the entry into by the Commonwealth (represented by a Deputy Secretary of the Department of Immigration and Border Protection) on 17 July 2014 of "Administrative Arrangements for Regional Processing and Settlement in Papua New Guinea (PNG)" ("the 2014 Administrative Arrangements").  The 2014 Administrative Arrangements made and continue to make detailed provision for the implementation of the Regional Resettlement Arrangement and the 2013 Memorandum of Understanding.  They provide for a regional processing centre in PNG to be established by Australia and managed by an administrator appointed under PNG law, for the management of the centre to be supported by contracted service providers, and for the management of the relevant contracts to be the responsibility of Australia.  They provide for staff involved in the operation of the centre to be subject to the laws of PNG.  They acknowledge that those staff may include Australian and PNG officers as well as contracted service providers.
+10 	The fourth of the past actions, identified in Question 2(d), was the entry into by the Commonwealth (represented by the Department of Immigration and Border Protection) of the Broadspectrum Contract.  The Broadspectrum Contract was first entered into on 24 March 2014 and has since been amended.  Under it, Broadspectrum relevantly agreed and continues to agree with the Commonwealth to provide a range of services in respect of UMAs transferred to PNG, including accommodation and security services at the Manus RPC.  Broadspectrum also relevantly agreed and continues to agree with the Commonwealth to perform its contractual obligations at the Manus RPC in compliance with PNG law and not to permit any act or omission that might cause the Commonwealth to be in breach of the Regional Resettlement Arrangement or the 2013 Memorandum of Understanding.
+11 	The fifth, sixth and seventh of the past actions identified by the parties for consideration in light of the Namah Decision were the Ministerial Designation and the Ministerial Direction, the validity of which was previously upheld in Plaintiff S156/2013, and the taking of the plaintiff to PNG under s 198AD(2).  They are the subject-matters of Questions 1, 3 and 4 respectively.
+12 	Also raised for consideration by the special case is the effect, if any, of the Namah Decision on the validity of such future action as the Commonwealth might take, whether by its officers or through the provision of services for which it has contracted, to assist PNG in removing the plaintiff from PNG and in keeping him in custody pending removal pursuant to the order made and direction given by the PNG Minister on 12 December 2016.  That is the subject-matter of Question 6.
+13 	Finally, Question 5 of the special case raises for consideration what appears on its face to be a more general question as to whether the authority for the Commonwealth to undertake conduct in respect of regional processing arrangements in PNG conferred by s 198AHA of the Act depends on whether those arrangements are lawful under the law of PNG.  That question is apparently intended by the parties not to be confined to a consideration of the effect of the Namah Decision.  No point has been taken about the standing of the plaintiff to raise a question cast in such general terms or about the appropriateness of answering it in order to resolve rights and duties in issue in the proceeding. 
+Sources of authority
+14 	The first three of the past actions identified by the parties for consideration in light of the Namah Decision  the entry into by the Commonwealth of the Regional Resettlement Arrangement, the 2013 Memorandum of Understanding and the 2014 Administrative Arrangements  were all undertaken in the exercise of the non-statutory executive power of the Commonwealth conferred by s 61 of the Constitution.  
+15 	The fifth, sixth and seventh of the past actions identified by the parties for consideration in light of the Namah Decision  the Ministerial Designation, the Ministerial Direction and the taking of the plaintiff to PNG  were made in the exercise of the specific statutory power conferred on the Minister by s 198AB(1) and in the performance of the specific statutory duties imposed by s 198AD(2) and (5) on an "officer" (as defined for the purposes of the Act5) and on the Minister respectively.  
+16 	The fourth of the past actions identified for consideration in light of the Namah Decision  the entry into by the Commonwealth of the Broadspectrum Contract  falls within the scope of the statutory power retrospectively conferred on the Commonwealth by s 198AHA as interpreted in Plaintiff M68/20156, provided only that the 2013 Memorandum of Understanding or the Regional Resettlement Arrangement constituted an "arrangement" within the meaning of that section.  The same is true of such future action as the Commonwealth might take to assist PNG in removing the plaintiff from PNG and in keeping him in custody pending removal pursuant to the order made and direction given by the PNG Minister on 12 December 2016:  removal of a UMA whose application for refugee status in a regional processing country has failed and detaining the UMA for the purpose of removal readily answer the description of action taken "in connection with" the role of that country as a regional processing country so as to be a "regional processing function" within the meaning of s 198AHA.  
+17 	Aside from any consequences flowing from the Namah Decision, the questions stated by the parties do not otherwise raise any issue of whether s 198AHA is a valid law of the Commonwealth insofar as it supports those actions.
+18 	Although s 198AHA is expressed not to limit the executive power of the Commonwealth, if and to the extent that the statutory power s 198AHA confers is available to support the impugned actions, there is no need to consider whether the non-statutory executive power of the Commonwealth conferred by s 61 of the Constitution was separately available.  
+The effect of the Namah Decision 
+19 	The plaintiff's argument for invalidity of the identified past and future actions in light of the Namah Decision was distilled in the course of oral argument into two propositions.  First, as a basis on which to invalidate all of the impugned actions, the plaintiff advanced the novel and sweeping proposition that the Constitution denies to the Commonwealth any legislative or executive power to authorise or take part in activity in another country which is unlawful according to the domestic law of that country.  Second, as a distinct basis on which to invalidate those impugned actions which were in the past or might in the future be authorised by s 198AHA, the plaintiff asserted that the effect of the Namah Decision was to deny the character of an "arrangement" within the meaning of that section to the 2013 Memorandum of Understanding and the Regional Resettlement Arrangement, with the result that the section has not been triggered so as to apply in relation to the regional processing functions of PNG. 
+20 	Neither proposition is tenable.  As to the first, what is telling is that the plaintiff could marshal no authority to support it and made no attempt to anchor it to the text or structure of the Constitution7.  The course of authority in this Court leaves no room for doubt that neither the legislative nor the executive power of the Commonwealth is constitutionally limited by any need to conform to international law8.  Equally there should be no doubt that neither the legislative nor the executive power of the Commonwealth is constitutionally limited by any need to conform to the domestic law of another country.  Whether action taken by a Commonwealth officer in another country complies with the domestic law of that country might have consequences for that officer and for others under the domestic law of that country and might have consequences for Australia under international law in addition to any consequences it may have under Australian law applying extra-territorially.  Absent some express or implied limitation imposed by a law enacted by Parliament, however, the compliance or non-compliance of the action with the domestic law of another country is a circumstance which has no bearing on such statutory authority or executive capacity as the officer might otherwise have to take that action.
+21 	The statutory premise on which the second of the plaintiff's propositions appears to be founded is that an arrangement or understanding which the Commonwealth has entered into with another person or body in relation to the regional processing functions of another country is not an "arrangement" for the purpose of s 198AHA if that other person or body lacked lawful authority or capacity to enter into it.  The premise is contradicted by the express terms of the definition of "arrangement" in s 198AHA(5).  The definition is specifically framed to encompass an arrangement, agreement, understanding, promise or undertaking which is not legally binding.  Even if the 2013 Memorandum of Understanding and the Regional Resettlement Arrangement were beyond the power of PNG under the PNG Constitution, each would remain an arrangement or understanding in fact and, on that basis, each would remain an arrangement within the scope of s 198AHA.
+22 	Both of the plaintiff's propositions appear, in any event, to proceed on a misunderstanding of the Namah Decision.  
+23 	The Namah Decision arose from an application made in the original jurisdiction of the Supreme Court of PNG for declaratory and injunctive relief against the PNG Minister, the National Executive Council and PNG.  The case proceeded on facts asserted by the applicant in a proposed statement of agreed facts which was treated by the Supreme Court as uncontested by reason of the respondents failing to dispute them in a timely way.  The detail of those facts is not recorded in the reasons for judgment of the Supreme Court.  
+24 	The relief granted by the Supreme Court comprised declarations to the effect that treatment of UMAs at the Manus RPC contravened specified provisions of the PNG Constitution and was beyond the power available under specified PNG law.  The relief granted also included an order expressed in terms that "[b]oth the Australian and Papua New Guinea governments shall forthwith take all steps necessary to cease and prevent the continued unconstitutional and illegal detention of the asylum seekers or transferees at the [Manus RPC] and the continued breach of the asylum seekers or transferees Constitutional and human rights".
+25 	The Supreme Court in the Namah Decision plainly held that treatment of UMAs at the Manus RPC as at 26 April 2016 contravened provisions of the Constitution of PNG and was unsupported by PNG law.  The Supreme Court might also be interpreted as having held that the forceful bringing of UMAs to the Manus RPC under the purported authority of PNG law contravened provisions of the Constitution of PNG and was unsupported by PNG law.  What the Supreme Court plainly did not hold was that entry into of the Regional Resettlement Arrangement, the 2013 Memorandum of Understanding or the 2014 Administrative Arrangements was beyond the power of the PNG Minister, the National Executive Council or PNG or contravened any provision of the PNG Constitution.  Each of those instruments, as has already been noted, contains a provision specifically providing for its implementation to comply with PNG law.
+The nature of the statutory authority conferred by s 198AHA
+26 	The more general question raised by the special case as to whether the authority of the Commonwealth to undertake conduct in respect of regional processing arrangements in PNG under s 198AHA depends on whether those arrangements are lawful under the law of PNG is answered by the statement in s 198AHA(3) that s 198AHA(2) "is intended to ensure that the Commonwealth has capacity and authority to take action, without otherwise affecting the lawfulness of that action".  
+27 	As explained in Plaintiff M68/20159:
+"Section 198AHA(3) is important in clarifying that s 198AHA(2) is directed to nothing other than ensuring that the Commonwealth has capacity and authority to take action and that it does not otherwise affect the lawfulness of that action.  That is to say, s 198AHA(2) is directed to nothing other than conferring statutory capacity or authority on the Executive Government to undertake action which is or might be beyond the executive power of the Commonwealth in the absence of statutory authority.  The section has no effect on the civil or criminal liability of the Executive Government or its officers or agents under Australian law or under the law of a foreign country.  The lawfulness or unlawfulness of Executive Government action under Australian law or under the law of a foreign country conversely does not determine whether or not that action falls within the scope of the statutory capacity or authority conferred by the section."
+28 	The answer to the more general question is:  no.
+Answers to questions
+29 	The questions stated and their answers are as follows:
+1.	Was the designation of PNG as a regional processing country on 9 October 2012 beyond the power conferred by s 198AB(1) of the Migration Act by reason of the Namah Decision? 
+Answer:	No.
+2.	Was entry into: 
+(a)	the 2013 Memorandum of Understanding;
+(b)	the Regional Resettlement Arrangement;
+(c)	the 2014 Administrative Arrangements; and
+(d)	the Broadspectrum Contract,
+beyond the power of the Commonwealth conferred by s 61 of the Constitution and/or s 198AHA of the Migration Act by reason of the Namah Decision?
+Answer:	No.
+3.	Was the direction made by the Minister on 29 July 2013 beyond the power conferred by s 198AD(5) of the Migration Act by reason of the Namah Decision?
+Answer:	No.
+4.	Was the taking of the plaintiff to PNG on 21 August 2013 beyond the power conferred by s 198AD of the Migration Act by reason of the Namah Decision?
+Answer:	No.
+5.	Is the authority for the Commonwealth to undertake conduct in respect of regional processing arrangements in PNG conferred by s 198AHA of the Migration Act dependent on whether those arrangements are lawful under the law of PNG?
+Answer:	No.
+6.	Is the Commonwealth precluded from assisting PNG to take action pursuant to the orders outlined at paragraph 35 [of the special case] by reason of the Namah Decision?
+Answer:	No.
+7.	Who should pay the costs of the special case?
+Answer:	The plaintiff.
+
+

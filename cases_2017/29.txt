@@ -1,0 +1,154 @@
+HIGH COURT OF AUSTRALIA
+
+KIEFEL CJ,
+BELL, GAGELER, KEANE, NETTLE, GORDON AND EDELMAN JJ
+
+
+
+JULIAN KNIGHT	PLAINTIFF
+
+AND
+
+THE STATE OF VICTORIA & ANOR	DEFENDANTS
+
+
+Knight v Victoria
+[2017] HCA 29
+17 August 2017
+M251/2015
+
+ORDER
+
+The questions stated by the parties in the amended special case dated 17 February 2017 and referred for consideration by the Full Court be answered as follows:
+
+Question (a)
+
+Is s 74AA of the [Corrections Act 1986 (Vic)] invalid on the ground it is contrary to Ch III of the Constitution?
+
+Answer
+
+No.
+
+Question (b)
+
+Who should pay the costs of the proceeding?
+
+Answer
+
+The plaintiff.
+
+
+
+
+Representation
+
+K L Walker QC and D B Bongiorno with B C Gauntlett for the plaintiff (instructed by Stary Norton Halphen)
+
+R M Niall QC, Solicitor-General for the State of Victoria with G A Hill for the first defendant (instructed by Victorian Government Solicitor)
+
+Submitting appearance for the second defendant
+
+S P Donaghue QC, Solicitor-General of the Commonwealth with G J D del Villar for the Attorney-General of the Commonwealth, intervening (instructed by Australian Government Solicitor)
+
+M G Sexton SC, Solicitor-General for the State of New South Wales with J E Davidson for the Attorney-General for the State of New South Wales, intervening (instructed by Crown Solicitor (NSW))
+
+P J Dunning QC, Solicitor-General of the State of Queensland with A D Keyes for the Attorney-General of the State of Queensland, intervening (instructed by Crown Solicitor (Qld))
+
+P D Quinlan SC, Solicitor-General for the State of Western Australia with H C Richardson for the Attorney-General for the State of Western Australia, intervening (instructed by State Solicitor (WA))
+
+C D Bleby SC, Solicitor-General for the State of South Australia with F J McDonald for the Attorney-General for the State of South Australia, intervening (instructed by Crown Solicitor (SA))
+
+
+
+
+
+
+
+
+
+
+
+Notice:  This copy of the Court's Reasons for Judgment is subject to formal revision prior to publication in the Commonwealth Law Reports.
+
+
+
+CATCHWORDS
+
+Knight v Victoria
+
+Constitutional law (Cth)  Constitution  Ch III  State Supreme Courts  Principle in Kable v Director of Public Prosecutions (NSW) (1996) 189 CLR 51; [1996] HCA 24  Where s 74AA of Corrections Act 1986 (Vic) prevents parole order in respect of plaintiff unless Adult Parole Board satisfied plaintiff in imminent danger of dying or seriously incapacitated and does not have physical ability to harm any person  Where s 74AA identifies plaintiff by name and only applies to plaintiff  Whether s 74AA interferes with sentences imposed by Supreme Court in manner which substantially impairs institutional integrity of Supreme Court  Whether Crump v New South Wales (2012) 247 CLR 1; [2012] HCA 20 distinguishable  Whether necessary or appropriate to decide if function conferred by s 74AA could validly be exercised by division of Adult Parole Board which includes current judicial officer. 
+
+Words and phrases  "enlistment of judicial officers", "institutional integrity", "minimum term", "non-parole period", "parole", "party-specific legislation", "sentencing".
+
+Constitution, Ch III.
+Corrections Act 1986 (Vic), ss 61, 61A, 64, 74, 74AA, 74AAB.
+Corrections Amendment (Parole) Act 2014 (Vic), ss 1, 3.
+Interpretation of Legislation Act 1984 (Vic), ss 4, 6.
+Penalties and Sentences Act 1985 (Vic), s 17.
+Sentencing Act 1991 (Vic), Sched 1, cl 2. 
+
+
+
+1 KIEFEL CJ, BELL, GAGELER, KEANE, NETTLE, GORDON AND EDELMAN JJ.   On 10 November 1988, Julian Knight pleaded guilty in the Supreme Court of Victoria to seven counts of murder and 46 counts of attempted murder.  The Supreme Court sentenced him to imprisonment for life in respect of each count of murder, and imprisonment for 10 years in respect of each count of attempted murder, and fixed a minimum term of 27 years as the term during which he was not to be released on parole.  The minimum term was fixed under s 17 of the Penalties and Sentences Act 1985 (Vic) ("the Sentences Act") and since the enactment of the Sentencing Act 1991 (Vic) has been referred to as a non-parole period.  The non-parole period fixed in respect of Mr Knight expired on or about 8 May 2014. 
+2 	On 2 April 2014, when expiration of the non-parole period was imminent, the Parliament of Victoria enacted the Corrections Amendment (Parole) Act 2014 (Vic) ("the Amending Act").  The Amending Act inserted a new s 74AA into the Corrections Act 1986 (Vic) ("the Corrections Act").  
+3 	The effect of s 74AA of the Corrections Act is to prevent the Adult Parole Board ("the Board") from ordering that Mr Knight be released on parole unless satisfied, amongst other things, that Mr Knight is in imminent danger of dying or is seriously incapacitated and that, as a result, he no longer has the physical ability to do harm to any person.  Mr Knight is not at present in imminent danger of dying.  Nor is he seriously incapacitated.
+4 	By special case in a proceeding brought by Mr Knight against the State of Victoria and the Adult Parole Board in the original jurisdiction of the High Court, a single substantive question has been stated for the opinion of the Full Court.  Is s 74AA invalid on the ground that it is contrary to Ch III of the Constitution?
+5 	In support of an affirmative answer to that question, Mr Knight advances two discrete arguments.  Each seeks in a different way to invoke the principle, associated with Kable v Director of Public Prosecutions (NSW)1, that a law which substantially impairs the institutional integrity of a court so as to be incompatible with its role as a repository of federal jurisdiction under Ch III of the Constitution is invalid2.  The first argument is that the section interferes with the sentences imposed by the Supreme Court.  The second is that the section enlists judicial officers who are members of the Board in a function that is repugnant to or incompatible with the exercise of federal jurisdiction by the courts of which those judicial officers are members.
+6 	The question is to be answered in the negative.  The first argument fails because neither in its legal form nor in its substantial practical operation does the section interfere with the sentences imposed by the Supreme Court.  The second argument fails because the Board has not in fact been constituted, and does not need to be constituted, to include a judicial officer for the purpose of performing the function conferred by the section.  Whether the function conferred by the section would be repugnant to or incompatible with the exercise of federal jurisdiction by the court of which a judicial officer is a member is not appropriate for determination.
+The sentence
+7 	Section 17 of the Sentences Act, in the form in which it stood on 10 November 1988, required a court imposing a sentence of two or more years to fix "as part of the sentence" a lesser term, called a "minimum term", which was to be at least six months less than the term of the sentence, "during which the offender shall not be eligible to be released on parole", unless the court considered that "the nature of the offence and the antecedents of the offender render[ed] the fixing of a minimum term inappropriate".
+8 	When sentencing Mr Knight in the Supreme Court, Hampel J correctly characterised a minimum term not as a period at the end of which the prisoner was to be released but rather as "a period before the expiration of which, having regard to the interest of justice, he cannot be released"3.  His Honour noted that the nature and purpose of a minimum term was that stated in Power v The Queen4:  "to provide for mitigation of the punishment of the prisoner in favour of his rehabilitation through conditional freedom, when appropriate, once the prisoner has served the minimum time that a judge determines justice requires that he must serve having regard to all the circumstances of his offence"5.
+9 	Noting that the prosecution did not contend that a minimum term should not be fixed, Hampel J considered that fixing a minimum term was appropriate having regard to Mr Knight's age and prospects of rehabilitation as well as to other mitigating factors.  In fixing the minimum term at 27 years, Hampel J took into account, on the one hand, the need to ensure that the minimum term did not destroy the punitive effect of the sentences of imprisonment for life and, on the other hand, that an unduly high minimum term would defeat the purpose of Mr Knight's rehabilitation and possible release at a time when he would still be able to adjust to life in the community6.
+The parole regime
+10 	Section 74AA was inserted into the parole regime created by Div 5 of Pt 8 of the Corrections Act.  That regime establishes the Board7, which is to consist of persons appointed by the Governor in Council as well as the Secretary to the Department of Justice and Regulation8.  Persons able to be so appointed to the Board include Judges and Associate Judges of the Supreme Court, Judges of the County Court and Magistrates9.  They also include retired Judges of the Supreme Court or the County Court and retired Magistrates10.  The Governor in Council must appoint a member who is a Judge or retired Judge to be chairperson of the Board11.
+11 	Membership of the Board currently includes a Judge of the County Court, two retired Judges of the County Court, a number of Magistrates and a number of retired Magistrates, some of whom are reserve Magistrates under the Magistrates' Court Act 1989 (Vic).  No Judges or Associate Judges of the Supreme Court are currently members.  The current chairperson of the Board is one of the two retired Judges of the County Court. 
+12 	The central functions of the Board are the making under s 74 and cancellation under s 77 of parole orders, a parole order being an order, by instrument, "that a prisoner serving a prison sentence in respect of which a non-parole period was fixed be released on parole at the time stated in the order (not being before the end of the non-parole period)"12.  In determining whether to make or cancel a parole order, the Board is obliged to give paramount consideration to the safety and protection of the community13.  
+13 	The effect of the Board making a parole order under s 74 is that, unless the Board revokes the order before the time for release stated in the order, the prisoner must be released at that time14.  The period beginning on the day on which the prisoner is released from prison on parole and ending at the end of the prison sentence is the parole period in relation to the prisoner15.  If the parole period elapses without the Board cancelling the parole or the prisoner committing an offence for which he or she is sentenced to imprisonment, the prisoner is regarded as having served the prison sentence and is wholly discharged from the sentence.  But until the parole period so elapses, or until the prisoner is otherwise discharged from the prison sentence, the person released on parole is regarded as being still under sentence16.
+14 	The Board is permitted to exercise its functions in divisions17.  Each division consists of at least three members, at least one of whom must be a Judge, retired Judge, Associate Judge, Magistrate or retired Magistrate, who is to be chairperson of the division18.  Subject to requirements for the existence of particular divisions to perform particular functions19, the chairperson of the Board has discretion to give directions as to the arrangement of the business of the Board and as to the persons who are to constitute divisions of the Board for the purposes of particular matters20.
+15 	One division of the Board, which is required to exist by s 74AAB, is the Serious Violent Offender or Sexual Offender Parole division ("the SVOSO division"), membership of which is required to include the chairperson of the Board21.  The sole function of the SVOSO division is to decide whether or not to release a prisoner on parole in respect of a sexual offence or a serious violent offence, including murder22.  An order under s 74 that a prisoner be released on parole in respect of a sexual offence or a serious violent offence can only be made by the SVOSO division23, and the SVOSO division can only make such an order if another division has recommended that parole be granted and the SVOSO division has considered that recommendation24.
+16 	In performing its functions, the Board is not bound by the rules of natural justice25, is not bound by the rules of evidence or any practices or procedures applicable to courts of record, and may inform itself on any matter as it sees fit26.
+The Amending Act
+17 	The Amending Act stated its purpose as being to amend the Corrections Act "in relation to the conditions for making a parole order for the prisoner Julian Knight"27.  The sole operative provision of the Amending Act was that which inserted s 74AA into the Corrections Act28. 
+18 	Section 74AA is headed "Conditions for making a parole order for Julian Knight".  The section relevantly provides:  
+"(1)	The Board must not make a parole order under section 74 in respect of the prisoner Julian Knight unless an application for the order is made to the Board by or on behalf of the prisoner.
+(2)	The application must be lodged with the secretary of the Board.
+(3)	After considering the application, the Board may make an order under section 74 in respect of the prisoner Julian Knight if, and only if, the Board
+(a)	is satisfied (on the basis of a report prepared by the Secretary to the Department) that the prisoner
+	(i)	is in imminent danger of dying, or is seriously incapacitated, and as a result he no longer has the physical ability to do harm to any person; and
+	(ii)	has demonstrated that he does not pose a risk to the community; and
+(b)	is further satisfied that, because of those circumstances, the making of the order is justified.
+...
+(6)	In this section a reference to the prisoner Julian Knight is a reference to the Julian Knight who was sentenced by the Supreme Court in November 1988 to life imprisonment for each of 7 counts of murder."
+19 	In the Second Reading speech for the Bill for the Amending Act in the Legislative Assembly on 13 March 2014, the Minister for Police and Emergency Services described the Bill as implementing "a key commitment of the Victorian coalition government in relation to community safety  to make certain the government's commitment to protect the community from Julian Knight by keeping him in jail until he can pose no threat to the community"29.  The Minister explained30:
+"Julian Knight committed one of the most heinous crimes in the history of Victoria.  Victorians can rightly expect that the government will do whatever we can to ensure Julian Knight is never released until he can do no harm, and with this bill, this government is delivering on that commitment.
+On 10 November 1988 Julian Knight was sentenced to life imprisonment, with a non-parole period of 27 years.  That non-parole period is due to expire later this year.  This bill means that Julian Knight will never be released except in very restrictive circumstances, essentially mirroring preconditions contained in New South Wales legislation upheld by the High Court in the decision of Crump v New South Wales (2012) 247 CLR 1.  The effect of these provisions are that Julian Knight will die in jail, or will be in such a condition on release that he will be a threat to no-one."
+The Minister concluded that, with the Bill, "the Victorian community can be certain that they are protected forever from the possibility that Julian Knight will one day be free to commit another atrocity"31. 
+The s 74AA application
+20 	On 11 March 2016, Mr Knight lodged with the secretary of the Board an application under s 74AA(1) for the Board to make a parole order under s 74 in respect of him. 
+21 	On 27 July 2016, a division of the Board consisting of a retired Judge of the County Court and two non-judicial members considered the application and decided to require certain reports including a report from the Secretary to the Department of Justice and Regulation under s 74AA(3).  Those reports have not yet been received and the Board has taken no further steps to progress the application. 
+22 	Mr Knight and the defendants are at issue as to whether s 74AAB applies to any parole order that might be made under s 74 in respect of him so as to require that the order be made only by the SVOSO division and after a recommendation of another division that parole be granted.  That issue of statutory construction does not need to be resolved in order to dispose of the arguments advanced on the constitutional question.
+No interference with sentence
+23 	Emphasising that the minimum term of his sentences fixed by Hampel J was, under s 17 of the Sentences Act, "part of" those sentences, Mr Knight argues that s 74AA interferes with the sentence imposed on him in a manner which substantially impairs the institutional integrity of the Supreme Court.  The interference is argued to lie in the practical operation of the section.  That practical operation is said to be to replace a party-specific judicial judgment about eligibility for parole at a particular point in time with a party-specific legislative judgment about the same matter.  
+24 	Acknowledging that the preconditions to the making of a parole order imposed by s 74AA are the same in substance as the preconditions imposed by s 154A of the Crimes (Administration of Sentences) Act 1999 (NSW) ("the Administration of Sentences Act"), the validity of which was upheld in Crump v New South Wales32, Mr Knight seeks to distinguish Crump on the basis that s 74AA has a more specific operation.  What distinguishes s 74AA from s 154A, he argues, is that s 74AA targets him alone.  If and to the extent it cannot be distinguished, he argues, Crump should be reopened and overruled.
+25 	Crump cannot be distinguished and should not be reopened.  That s 74AA has an operation more specific than s 154A of the Administration of Sentences Act is a distinction without a difference.  Section 154A targeted a closed class of prisoners each of whom was at the time of its enactment serving a sentence of imprisonment for life and each of whom answered the description in that section of a "serious offender the subject of a non-release recommendation".  The legal and practical operation of s 154A in respect of each member of that class, including the plaintiff in Crump, was identical in substance to the legal and practical operation of s 74AA in respect of Mr Knight.  The conclusion in Crump that s 154A "did not impeach, set aside, alter or vary the sentence under which the plaintiff suffers his deprivation of liberty"33 applies equally to s 74AA.  That conclusion reflected the nature and purpose of a court's determination of a minimum term of imprisonment in the context of a statutory regime for parole as explained in Power v The Queen34 and as correctly identified by Hampel J to have been applicable to the fixing of a minimum term under s 17 of the Sentences Act. 
+26 	There are circumstances in which the party-specific nature of legislation can be indicative of the tendency of that legislation to interfere with an exercise of judicial power35.  This is not one of them.  
+27 	The sentences of imprisonment for life imposed by Hampel J provide the authority for the imprisonment of Mr Knight during the term of his natural life.  The minimum term of those sentences fixed by Hampel J under s 17 of the Sentences Act as part of those sentences did no more than to set a period during which Mr Knight was not to be eligible to be released on parole.  As Hampel J expressly recognised at the time, the fixing of that minimum term said nothing about whether or not he would be released on parole at the expiration of that minimum term.  
+28 	Whether or not Mr Knight would be released on parole at the expiration of the minimum term was simply outside the scope of the exercise of judicial power constituted by imposition of the sentences.  The sentences imposed by Hampel J could not, and did not, speak to that question.
+29 	By making it more difficult for Mr Knight to obtain a parole order after the expiration of the minimum term, s 74AA does nothing to contradict the minimum term that was fixed.  Nor does it make the sentences of life imprisonment "more punitive or burdensome to liberty"36.  The section did not replace a judicial judgment with a legislative judgment.  It does not intersect at all with the exercise of judicial power that has occurred.
+No necessary enlistment of judicial officers
+30 	Mr Knight's separate argument concerning the enlistment of judicial officers who are members of the Board in a function that is repugnant to or incompatible with the exercise of federal jurisdiction by the courts of which those judicial officers are members seeks to tread a fine line, denying the validity of s 74AA on that basis but maintaining the validity of s 74.
+31 	The argument is advanced in a statutory context in which the function conferred on the Board by s 74AA can be performed by a division of the Board constituted by members who are not current judicial officers and in a factual context in which the division of the Board which to date has been considering the application that has been made under s 74AA(1) includes no members who are current judicial officers.  That context is not relevantly different even if it is assumed that s 74AAB applies so as to require that any parole order that might be made under s 74 as a result of an application under s 74AA(1) be made only by the SVOSO division after considering a recommendation of another division:  there is no statutory requirement and, in circumstances where the chairperson of the Board is a retired Judge, no practical necessity for membership of the SVOSO division to include a current judicial officer.
+32 	As stated in Lambert v Weichelt37, and emphasised since38, "[i]t is not the practice of the Court to investigate and decide constitutional questions unless there exists a state of facts which makes it necessary to decide such a question in order to do justice in the given case and to determine the rights of the parties".
+33 	That approach to the determination of constitutional questions means that it is ordinarily inappropriate for the Court to be drawn into a consideration of whether a legislative provision would have an invalid operation in circumstances which have not arisen and which may never arise if the provision, if invalid in that operation, would be severable and otherwise valid39.  That is so even where the validity of the provision is challenged by a party sufficiently affected by the provision to have standing:  a party will not be permitted to "roam at large" but will be confined to advancing those grounds of challenge which bear on the validity of the provision in its application to that party40.
+34 	Severance of s 74AA, if invalid in any of its potential operations, is governed by s 6 of the Interpretation of Legislation Act 1984 (Vic) ("the Interpretation Act").  That section mirrors s 15A of the Acts Interpretation Act 1901 (Cth) in requiring that every Act "shall be construed as operating to the full extent of, but so as not to exceed" legislative power "to the intent that where a provision of an Act, or the application of any such provision to any person, subject-matter or circumstance, would, but for [that] section, have been construed as being in excess of that power, it shall nevertheless be a valid provision to the extent to which it is not in excess of that power and the remainder of the Act and the application of that provision to other persons, subject-matters or circumstances shall not be affected".  Of numerous cases which have provided examples of provisions expressed in general terms being construed distributively so as to operate validly to the extent that they did not operate to infringe constitutional limitations on legislative power, that closest to the present is Wilson v Minister for Aboriginal and Torres Strait Islander Affairs41, where a reference to "a person"42 nominated by the Minister to prepare a report was construed to exclude a judge of a Ch III court43.     
+35 	Application of s 6 of the Interpretation Act to a provision of another Act can, of course, be displaced by a contrary intention appearing in that other Act44.  But it is obvious that an intention contrary to the application of the section cannot be found merely in an intention that a provision which would otherwise have been construed as being in excess of legislative power should apply to all persons, subject-matters or circumstances to which the provision would otherwise have been construed as applicable.  A contrary intention, if one exists, is rather to be found in an intention that the provision should be wholly invalid if it could not apply to all of the persons, subject-matters or circumstances to which it would otherwise have been construed as applicable:  that the provision "was intended to operate fully and completely according to its terms, or not at all"45.
+36 	If s 74AA were to be invalid in circumstances in which the function conferred by the section was sought to be exercised by a division of the Board which included a judicial officer, s 74AA would be construed in accordance with s 6 of the Interpretation Act to have valid application in circumstances in which the function is sought to be exercised by a division of the Board which did not include a judicial officer.  That is because, although Div 5 of Pt 8 of the Corrections Act plainly intends that judicial officers should be able to participate in performance of the functions of the Board, nothing in the Corrections Act manifests an intention that the Board should be wholly incapable of performing a function in which a judicial officer could not participate.  There is no difficulty construing "the Board" in the provision conferring the function as the Board exercising the function in a division constituted in a manner which does not take the provision beyond legislative power.
+37 	Enlistment of a judicial officer in performance of the function being neither required nor imminent, it is unnecessary and inappropriate to determine whether s 74AA would be invalid in circumstances in which the function conferred by the section might be sought to be exercised by a division of the Board which included a judicial officer.    
+Questions and answers
+38 	The questions formally stated for the opinion of the Full Court and their answers are as follows.
+(a)	Is s 74AA of the Corrections Act invalid on the ground it is contrary to Ch III of the Constitution?
+	Answer:  No.
+(b)	Who should pay the costs of the proceeding?
+	Answer:  The plaintiff.
+
+

@@ -1,0 +1,169 @@
+HIGH COURT OF AUSTRALIA
+
+KIEFEL CJ,
+BELL, GAGELER, NETTLE AND GORDON JJ
+
+
+CHRISTOPHER CHARLES KOANI	APPELLANT
+
+AND
+
+THE QUEEN	RESPONDENT
+
+Koani v The Queen
+[2017] HCA 42
+Date of Order:  17 August 2017
+Date of Publication of Reasons:  18 October 2017
+B20/2017
+
+ORDER
+
+1.	Appeal allowed.
+
+2.	Set aside the order of the Supreme Court of Queensland (Court of Appeal) dated 11 November 2016 and in lieu thereof order that:
+
+(i)	the appellant's appeal to that Court be allowed;
+
+(ii)	the appellant's conviction be quashed and a new trial be had.
+
+On appeal from the Supreme Court of Queensland
+
+Representation
+
+S C Holt QC with B J Power for the appellant (instructed by Legal Aid Queensland)
+
+V A Loury QC with M J Hynes for the respondent (instructed by Office of the Director of Public Prosecutions (Qld))
+
+
+Notice:  This copy of the Court's Reasons for Judgment is subject to formal revision prior to publication in the Commonwealth Law Reports.
+
+
+
+CATCHWORDS 
+
+Koani v The Queen 
+
+Criminal law  Murder and manslaughter  Act causing death  Where appellant convicted of murder  Where death occasioned by discharge of shotgun held by appellant  Where alternative prosecution case for murder put to jury on basis that shotgun may have discharged as result of unwilled act  Whether unwilled, criminally negligent act or omission can result in conviction for murder where jury satisfied accused possessed intention to kill or inflict grievous bodily harm  Whether breach of duty to use reasonable care and to take reasonable precautions in use and management of dangerous thing can found conviction of murder. 
+
+Words and phrases  "act causing death", "breach of duty", "criminally negligent", "intention", "intentional offence", "manslaughter", "murder", "omission", "reasonable care", "unwilled act".
+
+Criminal Code (Q), ss 289, 302(1)(a). 
+
+
+
+
+1 KIEFEL CJ, BELL, GAGELER, NETTLE AND GORDON JJ.   On 17 August 20171, at the conclusion of the hearing, the Court made orders allowing the appeal and setting aside the order of the Court of Appeal of the Supreme Court of Queensland dated 11 November 2016.  The appellant's conviction was quashed and a new trial was ordered.  These are the reasons for making those orders. 
+2 	The question raised by the appeal is whether an unwilled, criminally negligent act can found a conviction for murder under s 302(1)(a) of the Criminal Code (Q) ("the Code") in a case in which the jury is satisfied that the accused possessed the intention to kill or to do some grievous bodily harm.  As will appear, the answer is that criminal responsibility for murder under the Code, as under the common law, cannot be founded upon an unwilled act.  As will also appear, and contrary to the way the matter was left below, identification of the act that gives rise to criminal responsibility for murder under the Code is not determined on a more confined basis than under the common law.  
+Procedural history and the evidence 
+3 	On 28 October 2015, the appellant was arraigned in the Supreme Court of Queensland (Dalton J) on an indictment that charged him with the murder of his de facto partner, Natalie Leaney, at Rochedale South on 10 March 2013.  The appellant pleaded that he was not guilty of murder but guilty of manslaughter.  It was common ground that the death of the deceased was occasioned by a single gunshot wound to the head fired from a shotgun, which the appellant was holding.  The appellant's plea acknowledged that his failure to use reasonable care and to take reasonable precautions in his use or management of the gun was a gross breach of the duty imposed by s 289 of the Code2.  That section provides: 
+"It is the duty of every person who has in the person's charge or under the person's control anything & of such a nature that, in the absence of care or precaution in its use or management, the life, safety, or health, of any person may be endangered, to use reasonable care and take reasonable precautions to avoid such danger, and the person is held to have caused any consequences which result to the life or health of any person by reason of any omission to perform that duty."
+4 	The prosecution declined to accept the appellant's plea in discharge of the indictment and a jury was empanelled and the trial proceeded.  On 4 November 2015 the jury returned a verdict of guilty of murder.  On 19 November 2015, the appellant was sentenced to life imprisonment for this offence. 
+5 	The evidence at the trial was of a deterioration in the relationship between the appellant and the deceased in the days leading up to her death.  The deceased had told a friend that the relationship was over and that the appellant had told her to pack her things.  She said she wanted to leave but she was concerned that the appellant would take her property.  For his part, the appellant had complained to an acquaintance that he had "found out about [the deceased] screwing around".  
+6 	On Saturday 9 March, the deceased told a work colleague that she and the appellant had had a "huge fight" on the previous day.  The next day she sent a message to the same colleague saying that she would not be at work on Monday.  On that day the deceased also sent a text message to a friend complaining that the appellant had locked her in their unit.  The friend, the friend's partner and the appellant were together at a hotel when the message was received.  Following this, the appellant and the deceased exchanged mutually abusive and angry text messages in which the deceased asserted that the lease of the unit was in her name and that she had paid the bond.  
+7 	The appellant returned to the unit, where he was heard arguing with the deceased.  An associate, Shea Fenton, arrived, and on entering the unit saw a broken vase on the floor.  Fenton heard the appellant say that he would rather "go back to jail or something, I'll shoot you".  He saw the appellant pick up a sawnoff shotgun and cartridges from some shelving, open the barrel and load the gun.  The appellant and the deceased continued arguing and Fenton heard the appellant say, "I don't give a fuck, I'll kill you & I'll go back to jail".  The appellant walked towards the deceased and out of Fenton's sight.  Fenton heard a gunshot.  He jumped up, entered the loungeroom and saw that the deceased had been shot.  
+8 	In the immediate aftermath of the discharge of the weapon the appellant showed evident signs of distress.  He rang the Triple 0 emergency number but was too distraught to complete the call.  He was still hysterical when the police arrived.  He told the police that he did not know who had shot the deceased but that it was "over drugs".  He said that he had accidentally locked the deceased in the unit when he went out.  He denied that they had been fighting.  He gave an elaborate, false, account of two men who had come to the unit to rob him of drugs and money.  He said that one was armed with a shotgun which had discharged when he, the appellant, endeavoured to take hold of it.  The police found a knife on the floor near a discharged cartridge.  They found two other discharged cartridges on the other side of the neighbouring fence.  It was the prosecution case that the appellant had placed the knife on the floor and thrown the two shotgun cartridges over the fence to bolster his false account of the robbery.  
+9 	Expert evidence established that the spur of the hammer of the gun had been shortened.  This alteration reduced the grip on the hammer and made it more difficult to control when cocking the gun.  The gun failed the "hammer slip test":  it was prone to discharge when the hammer was released before being fully cocked.  To fully cock the gun it was necessary to pull the hammer back 16.8 millimetres.  The modifications to this gun, however, meant that it would discharge when the hammer was drawn back as little as 10 millimetres.  The rebound safety, which prevents the hammer from falling unless the trigger is simultaneously depressed, was also compromised.  The gun could be deliberately fired when cocked by pulling the trigger or it could be deliberately fired by releasing the hammer when it was pulled back by at least 10 millimetres.  The shortened hammer spur presented the risk that the shooter's finger might slip off it when cocking the gun, thereby releasing the hammer. 
+10 	The firing pin impression on the discharged, fatal cartridge established that the cartridge had been fired from the gun when the gun was in the fully, or almost fully, cocked position.  The gun was between 15 centimetres and 1.25 metres from the deceased, most likely between 45 and 75 centimetres, at the time of discharge.  
+11 	The appellant did not give or call evidence.  
+The way the prosecution case was put at trial
+12 	The prosecution's principal case at trial was that the appellant discharged the gun deliberately in a fit of rage intending to kill the deceased.  The evidence of the capacity of the gun to discharge when not fully cocked as the result of the shooter's finger slipping off the hammer spur led the prosecution to particularise a novel, alternative case:  in the event the jury was not satisfied that the discharge of the gun was occasioned by the appellant's willed act, but was satisfied that the deceased's death was caused by the appellant's failure to use reasonable care and to take reasonable precautions in his use or management of the gun3, and at the time he intended to kill or to do some grievous bodily harm to the deceased, his guilt of murder would be proved.  
+13 	Defence counsel objected to the prosecution's alternative case, submitting that it was not open to "prove the causation by means of a negligent or reckless act and, at the same time, couple that with an intention to cause a specific result".  
+14 	The trial judge considered that there was a real possibility that the jury might find that the appellant intended to kill the deceased and, to this end, he had loaded and presented the gun at her, and commenced cocking it, but that because of the peculiarities of this gun it may have discharged without him deliberately pulling the trigger or releasing the hammer.  Consistently with the way the prosecution case had been particularised, her Honour concluded that under the Code the act for which an accused bears criminal responsibility in a prosecution for murder based on the discharge of a firearm is limited to the pulling of the trigger or another act that deliberately causes the weapon to discharge.  Despite her initial reluctance to accept the analysis of the alternative case, her Honour concluded that "it is legitimate for the Crown ... to use section 289 as a component of its murder case essentially to plug the gap left by a reasonable doubt about a willed act".  Her Honour was fortified in this conclusion by the 1904 decision of the Full Court in R v Macdonald and Macdonald4. 
+The directions 
+15 	The trial judge distributed a flowchart to the jury encapsulating, relevantly, the two ways in which it was open to reason to the appellant's guilt of murder: 
+
+
+R v Koani
+1. Has the Crown satisfied you beyond reasonable doubt that it was by a willed act that the defendant discharged the shot which killed Ms Leaney?
+
+
+
+
+No  
+
+
+Has the Crown satisfied you beyond reasonable doubt that the gun was something that, if care or precaution was not taken in its use or management, the life, safety or health of a person might be endangered? 
+
+Yes
+
+Has the Crown satisfied you beyond reasonable doubt that at the time he discharged the shot, the defendant intended either to kill Ms Leaney, or to do her grievous bodily harm? 
+
+	Yes	 No 
+
+Guilty of murder
+End of deliberations
+
+Not guilty of murder
+Guilty of manslaughter
+End of deliberations 
+
+
+Yes
+
+Has the Crown satisfied you beyond reasonable doubt that the defendant failed to use reasonable care and take reasonable precautions around that danger and that failure caused death?
+Yes
+
+Has the Crown satisfied you beyond reasonable doubt that, at the time the gun discharged, the defendant intended either to kill Ms Leaney, or to do her grievous bodily harm?
+Yes
+
+Guilty of murder
+End of deliberations
+
+No 
+Not guilty of murder
+Not guilty of manslaughter
+End of deliberations
+
+
+No 
+Not guilty of murder  
+Not guilty of manslaughter
+End of deliberations 
+
+
+
+No 
+Not guilty of murder
+Guilty of manslaughter
+End of deliberations 
+
+
+16 	The jury was instructed that the expression "willed act" was a "pretty specific concept" and her Honour instanced the muscular action of squeezing the trigger.  With respect to Question 1, the jury was directed that it was incumbent on the prosecution to exclude beyond reasonable doubt that the gun discharged as the result of the appellant's finger slipping on the shortened spur and releasing the hammer.  
+17 	The oral directions concerning the alternative case concluded in these terms:
+"[I]f you ended up looking at this third question in column 2, you have done it because you had a reasonable doubt about the willed act.  You are satisfied that the gun was dangerous.  You are satisfied there was not proper care taken.  You are satisfied that caused death.  And then the Crown case is, well, if at the time the gun discharged there was an intention to kill or do grievous bodily harm, that still results in a murder conviction.  &  [T]he third question in the second column's almost the same as the intention question in the first column.  So I am certainly not going to go through all that evidence again, but it is the same question really except that the question in the second column, the time you have to be satisfied  and this is very important  is the time the gun discharged.  Okay.  So that is the time you are looking at to find an intention.  So it might just be split seconds after, but it is after the cocking of the gun."  (emphasis added)
+The Court of Appeal
+18 	The appellant appealed against his conviction to the Court of Appeal of the Supreme Court of Queensland (Gotterson JA and Atkinson J; McMurdo P dissenting), contending that it was an error to invite the jury to consider finding him guilty of murder in the event it was not satisfied that the gun was discharged by his willed act.
+19 	The majority approached the determination of the appeal upon a view that the Code does not expressly confine liability for an unlawful killing caused by a breach of the s 289 duty to manslaughter rather than murder5.  In their Honours' view, the fact that a contravention of s 289 does not depend on the existence of murderous intent does not mean that where that intent is present the contravention may not be classified as murder6.  Their Honours saw no incongruity in conduct falling below a standard of objective reasonableness being coupled with a specific intent7.  In this respect, their Honours considered objective reasonableness to be quite distinct from the intention with which acts constituting a breach of duty are carried out8.  They concluded9:
+	"Where a person who holds a murderous intent towards another picks up a gun to shoot the other person and, as a result of a failure on the person's part to take reasonable care and precaution, the gun discharges, it would be incongruous that, because the gun discharged earlier and not in precisely the way the person intended, the person who kills is guilty of manslaughter and not murder.  Such an outcome would be almost paradoxical and would fail sufficiently to take into account the fact that the person unlawfully killed, intending to kill."
+20 	McMurdo P, in dissent, observed that it was for the jury to determine what willed act or acts were done or not done by the appellant and, if done, whether those acts caused the death10.  Her Honour questioned the capacity of a criminally negligent act to result in a conviction for an intentional offence11.  In her Honour's view a breach of the objective standard applicable to the duty imposed by s 289 can support only a conviction for manslaughter under s 303, and not murder under s 302(1)(a)12.  
+Murder under the Code
+21 	It is axiomatic that criminal responsibility is founded on the offender's acts or omissions13.  And it is axiomatic in an offence of specific intent that the act or omission and the intent must coincide14.  Nothing in the scheme of the Code suggests that it is to be interpreted as departing from either principle.  The first is expressly recognised in s 2, which states that an act or omission which renders the person doing the act or making the omission liable to punishment is called an "offence"15.
+22 	A difficulty with the prosecution's alternative case is illustrated by the instructions in the second column of the flowchart.  On this case, the omission which caused the death of the deceased was the appellant's failure to use reasonable care and to take reasonable precautions in his use or management of the gun (the second question).  Nonetheless, the jury was directed that the time at which it was necessary to be satisfied that the appellant possessed the intention to make his omission murder was the time the gun was discharged (the third question).  The temporal shift from the negligent omission to the discharge underscores that the intention of which the jury was required to be satisfied was unrelated to the negligent failure which caused the death of the deceased.  
+23 	Section 23(1)(a) states a general principle of criminal responsibility in these terms: 
+"Subject to the express provisions of this Code relating to negligent acts and omissions, a person is not criminally responsible for 
+(a)	an act or omission that occurs independently of the exercise of the person's will; &"
+24 	A person who causes the death of another, directly or indirectly, is deemed to have killed that other person16.  A killing that is not authorised, justified or excused by law is unlawful17.  An unlawful killing is a crime which is either murder or manslaughter depending on the circumstances of the case18. 
+25 	The only circumstances in which an unlawful killing constitutes the crime of murder are the five circumstances stated in s 302(1); an unlawful killing in any other circumstance is manslaughter19.  Relevantly, s 302(1)(a) provides: 
+"Except as hereinafter set forth, a person who unlawfully kills another under any of the following circumstances, that is to say 
+(a)	if the offender intends to cause the death of the person killed or that of some other person or if the offender intends to do to the person killed or to some other person some grievous bodily harm; 
+& 
+is guilty of 'murder'."
+26 	Section 302(1)(a) is not the statement of a free-standing mental element of criminal responsibility that can be attached to a negligent act or omission.  The elements of the offence of murder for which s 302(1)(a) provides require the prosecution to prove that the unlawful killing was caused by an act or omission of the accused that was done or omitted to be done with the intention thereby of causing death or some grievous bodily harm to some other person.  Section 302(1) is not an express provision of the Code relating to negligent acts or omissions for the purposes of s 23(1)(a):  the offence of murder is not exempted from the rule that a person is not criminally responsible for an act or omission that occurs independently of the exercise of the person's will. 
+27 	Macdonald and Macdonald provides no support for the contrary conclusion.  Mr and Mrs Macdonald were convicted of wilful murder of Mr Macdonald's 14-year-old daughter from a previous marriage in circumstances in which they were found to have intentionally starved the child to death in breach of the duty imposed by s 285 of the Code to provide her with the necessaries of life20.  As Lucas J observed in R v Young, the conduct in Macdonald and Macdonald involved a deliberate, as opposed to a negligent, breach of duty21.  By contrast, it is incongruous, as McMurdo P recognised, to attach a requirement for proof of intent to conduct which is made an offence because it is conduct that falls short of an objectively determined standard of reasonableness22. 
+28 	It was an error of law to leave the prosecution's alternative case for the jury's consideration.  Since there is to be a new trial it is appropriate to say something about the trial judge's ruling on the identification of the "act" to which criminal responsibility attached.
+The act causing death
+29 	As the appellant's submissions in this Court acknowledge, the perceived need to leave the alternative case in order to "plug [a] gap" in the Code was based on a misconception that the "act" to which criminal responsibility attaches under the Code in a firearms case is confined to the act of pulling the trigger or, in the case of this gun, the act of releasing the hammer.  
+30 	Identification of the act for the purpose of attributing criminal responsibility for the consequences of the discharge of a firearm has been variously formulated in decisions concerned with the common law requirement that the accused's act is voluntary23 and in the Griffith Code jurisdictions under provisions equivalent to s 23(1)(a)24.  
+31 	As Windeyer J observed in Vallance v The Queen, to wound a person by discharging a firearm is "a complex act, involving loading the piece, cocking it, presenting it, pressing the trigger"25.  His Honour returned to this analysis in Ryan v The Queen, observing that26:
+	"The conduct which caused the death was of course a complex of acts all done by the applicant  loading the rifle, cocking it, presenting it, pressing the trigger.  But it was the final act, pressing the trigger of the loaded and levelled rifle, which made the conduct lethal."
+32 	The issue in Ryan was whether a reflex action in pressing the trigger of a loaded rifle which was being pointed at the deceased was Ryan's willed act.  Windeyer J considered that phrases such as "reflex action" and "automatic reaction" had no application to the case of a fully conscious man who had put himself in a situation in which he had his finger on the trigger of a loaded rifle levelled at another27.  His Honour held that, in such a circumstance, pressing the trigger in an immediate response to a sudden threat did not deprive the act of its voluntary character.  
+33 	Barwick CJ's preference was for the discharge of the rifle as the act causing death since it would be open to consider that a reflex action, pressing the trigger, was not Ryan's willed act28.  Nonetheless, his Honour emphasised that the choice of the act causing death is a factual one for the jury29, and it was open to find that Ryan's act in presenting the gun in all circumstances might be found to be the act causing death.  In their joint reasons, Taylor and Owen JJ said that it was impossible to isolate the act of pressing the trigger from the other circumstances and to contend that it alone had caused the death of the deceased.  Their Honours doubted that it was open to the jury to conclude that the act causing death was other than voluntary30.  This conclusion took into account that an attempt at resistance by the deceased might have been expected.  Menzies J rejected that the act causing death could be confined to "the mere pressing of the trigger to discharge the rifle"31.  
+34 	The issue arose in R v Falconer in the context of a provision of the Criminal Code (WA) that is in the same terms as s 23(1)(a).  In their joint reasons, Mason CJ, Brennan and McHugh JJ rejected that the act causing death is confined to "merely a muscular movement of the accused's body (the contraction of the trigger finger)"32.  The "act" was characterised as the discharge of the loaded gun33.  Falconer was concerned with non-insane automatism and no more precise analysis of the act giving rise to criminal responsibility was required.  
+35 	As Gaudron J observed in Murray v The Queen, to describe the act causing death in a firearms case as the discharging of the firearm is to conceal a number of difficulties34.  It was Gaudron J's analysis in Murray which led the trial judge to conclude that the "act" for the purposes of attributing criminal responsibility in a firearms case is more narrowly confined under the Code than the "act" causing death which was considered in Ryan.  The trial judge referred in this respect to Gaudron J's statement35: 
+	"Unlike s 18(1) of the Crimes Act 1900 (NSW), as it stood at the time of the decision in Ryan, the definition of murder in s 302(1) of the Code contains no provision permitting a person to be convicted of murder simply for an act done with reckless indifference to human life or done in an attempt to commit or during or immediately after the commission of an act obviously dangerous to human life.  Thus, if the act causing death in this case were to be identified as simply presenting the loaded shotgun, that might constitute manslaughter by negligent act, but it would not constitute murder."  (footnotes omitted)
+36 	In this passage Gaudron J was distinguishing Taylor and Owen JJ's conclusion, which it will be recalled took into account that the circumstances in which the gun was discharged in Ryan included that an attempt at resistance by the deceased might well have been expected36.  
+37 	Gaudron J did not suggest that the act causing death in a firearms case was confined to the pulling of the trigger.  Like Barwick CJ in Ryan, her Honour was of the view that "it is for the jury to determine what act or acts were done by the accused and whether they or any of them caused death"37.  Consistent with that view, her Honour's analysis was posited on the importance of considering the operation of s 23(1)(a) in the context of the precise facts of a given case.  Shortly stated, the facts on Murray's account of the fatal shooting were that he was holding a loaded rifle at waist height, intending to frighten the deceased, when as the result of a sudden movement by the deceased and something striking Murray on the head, the rifle discharged38.  Far from doubting the application of Windeyer J's analysis of the voluntary nature of the "act" in Ryan to criminal responsibility under the Code, Gaudron J expressed her preference for it39.  Indeed, Gaudron J said that the directions given to the jury were unduly favourable to the defence because they excluded consideration of whether, if Murray pressed the trigger as the result of a "reflex or automatic motor action", it was an unwilled act40.  
+38 	Kirby J characterised the relevant "acts" in Murray as "whatever [Murray] did to cause the gun to discharge"41.  Callinan J considered that everything that had relevantly occurred before the "act", including the earlier relations between Murray and his victim, and Murray's acts in placing himself in the position that he did, said much about whether the act was a willed act or not42.  His Honour considered that there may be cases in which a sequence of acts is so interconnected, or an act in the sequence has so inevitable an outcome, that to treat the ultimate act as the "act" for the purposes of s 23(1)(a) would be artificial and unrealistic43.  Gummow and Hayne JJ in their joint reasons cautioned against an overly refined analysis of the "act".  Their Honours observed that the discharge of a gun comprises a number of movements:  loading it, cocking it, presenting it and firing it.  In their Honours' view, there was no basis for a conclusion that, taken as a whole, the set of movements in that case was not willed44.  
+39 	Whether it is necessary to direct the jury in the terms of s 23(1)(a) will depend upon the facts of the case.  Here, the evidence of the peculiarities of the gun was considered to require the direction.  It remains that the determination of what constituted the act causing death was a factual one for the jury.  The directions wrongly confined the jury's consideration of the issue.  The unchallenged evidence was that the appellant presented a loaded gun to the deceased at a distance of not more than 1.25 metres and that the resulting discharge could not have occurred unless the appellant had exerted pressure on the hammer, pulling it back at least to the almost fully cocked position.  As McMurdo P recognised, it was open to the jury to find that the appellant's actions in loading the gun, presenting it to the deceased and pulling back the hammer were connected, willed, acts, which caused the death of the deceased, notwithstanding that the prosecution had not excluded the possibility that the appellant's finger slipped on the shortened spur of the hammer before he completed the action.  In this event, it was necessary for the jury to consider whether on the whole of the evidence the prosecution had excluded the reasonable possibility that the appellant acted only to frighten the deceased and not with murderous intention.  Plainly enough, the capacity of the gun to discharge as the result of the appellant's finger slipping from the hammer spur was also relevant to the latter determination.     
+
+

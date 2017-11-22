@@ -1,0 +1,71 @@
+HIGH COURT OF AUSTRALIA
+
+EDELMAN J
+
+
+
+IN THE MATTER OF AN APPLICATION BY DAVID CHARLES BARROW FOR LEAVE TO ISSUE OR FILE
+
+
+Re Barrow
+[2017] HCA 47
+7 November 2017
+M122/2017
+
+ORDER
+
+1.	Leave to issue or file the proposed writ of summons refused.
+
+2.	Application dismissed. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice:  This copy of the Court's Reasons for Judgment is subject to formal revision prior to publication in the Commonwealth Law Reports.
+
+
+
+CATCHWORDS
+
+Re Barrow
+
+Practice and procedure  Leave to issue or file document  Where applicant seeks declaration various steps are reasonable in order for him not to be incapable under s 44(i) of Constitution of being chosen as Senator  Whether declaration involves a justiciable matter. 
+
+Words and phrases  "advisory opinion", "all steps that are reasonably required", "declaration", "foreign citizenship", "hypothetical facts", "incapable of being chosen", "matter".
+
+Constitution, s 44(i).
+High Court Rules 2004 (Cth), r 6.07.2.
+
+
+
+1 EDELMAN J.   On 1 September 2017, Gordon J directed the Registrar not to issue or file a proposed writ of summons presented by the applicant without the leave of a Justice1.  The applicant now brings this ex parte application for leave to issue or to file the proposed writ of summons.  
+2 	In his proposed writ of summons, the applicant seeks a declaration from this Court that various steps he proposes to take are "reasonable" in order for him not to be incapable under s 44(i) of the Constitution of being chosen as a Senator in the next general election.  Essentially, the steps proposed by the applicant concern his proposed renunciation of British citizenship and, if he is not chosen as a Senator, his proposed withdrawal of the renunciation.  For the reasons below, the leave sought by the applicant should be refused and the application dismissed.   
+Background to the declaration sought by the applicant
+3 	The applicant's evidence is as follows.  The applicant is an Australian legal practitioner.  He was born in Australia to an Australian-born mother and a British-born father.  He is a dual British and Australian citizen.  
+4 	On 19 July 2010, ten days prior to the close of nominations for the 2010 general election, the applicant made an application to renounce his British citizenship.  The applicant nominated for the House of Representatives at that election, in the Victorian Division of La Trobe, but was not elected.  After the polling day his application to renounce his British citizenship had not been registered by the Home Department of the United Kingdom.  The applicant says that he then "abandoned" his application to renounce his British citizenship.
+5 	On 8 June 2016, one day prior to the close of nominations for the 2016 general election, the applicant made another application to renounce his British citizenship.  The applicant nominated for the House of Representatives at that election, in the New South Wales Division of Warringah, but was not elected.  Again, after the polling day his application to renounce his British citizenship had not been registered by the Home Department of the United Kingdom.  Again, he abandoned his application to renounce his British citizenship.
+6 	Prior to the 2016 general election the applicant sought a declaration from this Court that certain specified steps were "reasonable for [him] not to be incapable under s 44(i) of the Constitution of being chosen as a member of the House of Representatives".  On 13 May 2016, he discontinued those proceedings because, he says, he was not confident that the Court would determine his application before the close of candidate nominations.  The applicant says that he now intends to nominate in the next election of Senators for the Territories as a Senate candidate for the Australian Capital Territory.  He seeks leave to issue or file a writ of summons, directed to the Commonwealth, seeking a declaration that various steps are reasonable in order for him not to be incapable under s 44(i) of being chosen as a Senator due to his dual citizenship.  
+The declaration sought by the applicant
+7 	The applicant seeks a declaration that various steps are "reasonable" in order for him "not to be incapable under s 44(i) of the Commonwealth Constitution of being chosen as a [S]enator".  Those steps include sending a letter to Her Majesty's Principal Secretary of State for the Home Department, in which the applicant proposes to explain that (i) his application to renounce his British citizenship is solely because he intends to nominate as a Senate candidate for the Parliament of the Commonwealth of Australia; (ii) if he is not elected as a Senator then he will notify the Home Department, if possible, to immediately withdraw his application to renounce his British citizenship; and (iii) if his application for renunciation has been registered by the Home Department then he will correspond with the Home Secretary to take "such steps as necessary ... to endorse the formal evidence to show that [his] renunciation never took effect".  
+8 	There are difficulties with the premise of, and the applicant's approach to, this application.  The relevant question concerning disqualification in the declaration sought is expressed as whether the applicant has taken reasonable steps to renounce his foreign citizenship.  It should have been expressed as whether the applicant "has taken all steps that are reasonably required by the foreign law to renounce his or her citizenship and within his or her power"2.  Yet, despite seeking an essentially advisory opinion on a question which turns upon foreign law, the applicant has neither adduced, nor sought to adduce, any evidence of the applicable foreign law.  Although, in his initial affidavit as well as an affidavit filed yesterday, the applicant purported to express conclusions of foreign law, he provided no foundation from which he could be said to have such expertise.  In any event, there is a more fundamental problem with the application:  it impermissibly seeks an advisory opinion from this Court.  
+Advisory opinions
+9 	More than a century ago, it was held that the meaning of "matters" in Ch III of the Constitution was matters "capable of judicial determination" or "justiciable" matters3.  In In re Judiciary and Navigation Acts4, five members of this Court concluded that a justiciable matter requires "some immediate right, duty or liability to be established by the determination of the Court"5 or "must involve some right or privilege or protection given by law, or the prevention, redress or punishment of some act inhibited by law"6.  A justiciable matter was said to include neither "a declaration of the law divorced from any attempt to administer that law"7 nor "abstract questions of law without the right or duty of any body or person being involved"8.
+10 	One effect of this reasoning is that, like the circumstance where this Court exercises appellate jurisdiction9, in original jurisdiction this Court has no power to give a purely advisory opinion10.  The boundaries of what is a purely advisory opinion, such that the question would not fall within a justiciable matter, may require a degree of evaluative judgment11, and may not be susceptible to an all-encompassing definition12.  However, an advisory opinion which is generally beyond federal jurisdiction can be described as being one which is "not based on a concrete situation" and one which "does not amount to a binding decision raising a res judicata between parties"13.  An example where an opinion was sought, abstracted from concrete facts, is Luna Park Ltd v The Commonwealth14.  There, this Court refused to make the declarations sought on the basis that advice was sought on a hypothetical set of facts.  The underlying question was characterised by Knox CJ as asking:  "If the company elects to carry on its business in a certain way, will it be liable to pay a certain tax?"15
+11 	The declaration sought by the applicant falls clearly within the concept of a purely advisory opinion that is not a justiciable matter.  It is abstracted from any real dispute, has no contradictor, and involves hypothetical facts some of which are even unspecified.  Some, or all, of the facts might never arise.  The declaration sought depends, at least, upon all of the following:  (i) whether, at a future time when a general election is called, the applicant chooses to nominate as a Senate candidate for the Australian Capital Territory; (ii) whether the applicant remains a British citizen at that time; (iii) whether the applicant has, in the meantime, done unspecified acts complying with unspecified foreign law, leading to a conclusion that the applicant had done "all that is prescribed to be done by the Home Department of the United Kingdom and the laws of the United Kingdom to make an application to renounce his British [c]itizenship"; and (iv) whether the applicant sends a letter to the Home Secretary with the proposed content.   
+Conclusion
+12 	Leave to issue or file the proposed writ of summons is refused.  The application is dismissed. 
+
+
