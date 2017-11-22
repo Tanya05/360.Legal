@@ -1,0 +1,102 @@
+﻿HIGH COURT OF AUSTRALIA
+
+KIEFEL J
+
+
+
+JASON DEAN MERCANTI	APPLICANT
+
+AND
+
+TYRONE KANE MERCANTI & ORS	RESPONDENTS
+
+
+Mercanti v Mercanti
+[2017] HCA 1
+5 January 2017
+P63/2016
+
+ORDER
+
+1.	The First Respondent be restrained from exercising or purporting to exercise any powers as Appointor or Guardian of the M Mercanti Family Trust (MMF Trust) until the determination of the application for special leave to appeal to the High Court and any appeal, should leave be granted, or until further order.
+
+2.	The Second Respondent be restrained from acting or purporting to act as Trustee of the MMF Trust including (but not limited to) restraining it from dealing or purporting to deal with any of the assets of the MMF Trust or incurring or purporting to incur any liabilities on behalf of the MMF Trust, until the determination of the application for special leave to appeal to the High Court and any appeal should special leave be granted, or until further order.
+
+3.	Each of the First and Second Respondents have liberty to apply on 48 hours' notice to the Applicant to dissolve or vary these injunctions.
+
+4.	The costs of this application be costs in the cause.
+
+5.	The Applicant have leave to file an amended application for special leave on or before 4.00 pm on Friday 6 January 2017.
+
+6.	The First and Second Respondents have leave to file an amended response within 21 days after service of the amended application for special leave.
+
+
+Representation
+
+S Penglis for the applicant (instructed by Fletcher Law)
+
+A Metaxas for the first and second respondents (instructed by Metaxas and Hager Lawyers)
+
+No appearance for the third, fourth and fifth respondents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice:  This copy of the Court's Reasons for Judgment is subject to formal revision prior to publication in the Commonwealth Law Reports.
+
+CATCHWORDS
+
+Mercanti v Mercanti
+
+Practice and procedure ­– High Court – Application for interlocutory injunctions – Where injunctions in force since August 2013 – Where application for special leave to appeal pending – Where extension of injunctions sought until determination of application for special leave to appeal and any appeal should special leave be granted – Whether injunctive relief be granted.
+
+Words and phrases – "injunction", "stay", "substantial prospect that special leave to appeal will be granted".
+
+
+
+1 KIEFEL J.   An application for special leave to appeal in this matter is brought by Jason Mercanti.  It concerns a discretionary trust ("the MMF Trust") of which Slondia Nominees Pty Ltd ("Slondia") (the third respondent) was the first Trustee.  The applicant's brother Tyrone Mercanti (the first respondent) and the applicant's parents, Michael Mercanti (the fifth respondent) and Sybil (or Yvonne) Mercanti, are directors of Slondia.  Michael Mercanti was also the initial Guardian and Appointor of the MMF Trust.  The assets of the MMF Trust included a retail business established by Michael Mercanti.
+2 	In 2004, a Deed of Variation of the MMF Trust Deed was executed by Slondia in its capacity as Trustee, substituting Tyrone Mercanti as the new Guardian and Appointor.  The trial judge, Le Miere J, found1 as a fact that the applicant's parents "intended that the business [owned by the MMF Trust] should be Tyrone's" and that they wanted it to be "an advance on [his] inheritance".  They intended to make provision for their other sons in their wills2.
+3 	On 31 July 2013, Tyrone Mercanti, in his capacity as Appointor of the MMF Trust, removed Slondia as Trustee and appointed Parradele Pty Ltd (the second respondent) in its place.
+4 	The MMF Trust Deed contained a general power of amendment in cl 28.  The central issue on the application for special leave, as it was in the courts below, is whether it is a fraud on a general power to amend a Trust Deed for a Trustee to vary the terms of a family discretionary trust so as to appoint one of the beneficiaries as Guardian and Appointor with the intention and purpose of delivering to that beneficiary the business owned and operated by the Trust as an advance on his inheritance.  The applicant does not cavil with the Court of Appeal's statement of law drawn from the decision in Vatcher v Paull3, that "[t]he term fraud in connection with frauds on a power … merely means that the power has been exercised for a purpose, or with an intention, beyond the scope of or not justified by the instrument creating the power"4.
+5 	Le Miere J held the Deed of Variation to be valid and made declaratory orders to that effect5.  The Court of Appeal (Buss P, Newnes and Murphy JJA) dismissed the appeal from that decision6.
+6 	Buss P considered that the characterisation by the parents and by Tyrone Mercanti of the transfer of effective control of the MMF Trust as an advance on Tyrone Mercanti's inheritance did not render the execution of the Deed of Variation improper or liable to be set aside in equity7.  Newnes and Murphy JJA held that the parents' motivation was not relevant.  The purpose of the Trustee, Slondia, was relevant and it was simply to change the identity of the Appointor.  Although Tyrone Mercanti, as the new Appointor, had the power to remove the Trustee, that power would be required to be exercised bona fide and for proper purposes.  The appointment of Tyrone Mercanti was itself unremarkable and within the purposes contemplated by cl 28 of the Trust Deed8.
+7 	The applicant seeks injunctions of the kind made by the Supreme Court of Western Australia, restraining Tyrone Mercanti and Parradele Pty Ltd from exercising powers respectively as Appointor and Trustee.  The applicant has provided the usual undertaking as to compensation.  For their part, his parents have undertaken not to cause Slondia to exercise any power it may have.
+8 	Injunctions of the kind sought have been in place since August 2013.  On 9 October 2015, the Court of Appeal granted injunctions pending the determination of appeals in the Court of Appeal.  Following the delivery of its judgment on 29 November 2016, the Court of Appeal granted an extension of the injunctions to 19 December 2016, pending a possible application for special leave to appeal to this Court.  On 21 December 2016 the applicant obtained a further extension until 6 January 2017, hence the urgency of this application.  The application for special leave was filed on 23 December 2016.
+9 	It is not obvious why the Court of Appeal was not asked to extend the injunctions until the application for special leave to appeal was determined by this Court, although counsel for the applicant has indicated that a longer time was not sought because of a previous decision of the Court of Appeal which limited the time in circumstances where it was considered that this Court might have a different view of the merits of the case.  In Jennings Construction Ltd v Burgundy Royale Investments Pty Ltd [No 1]9, Brennan J pointed out that "[w]hen an application for special leave ... is made to this Court, a jurisdiction to stay may be exercised by the court below and ... an application" should be made in the first place to that court.  In that case, the intermediate appellate court had limited the period of its order, so as not to pre-empt the view of this Court.  His Honour said:
+"In future, there should be no inhibition on the court in which the matter is pending framing a stay order, if a stay be appropriate, to avoid the necessity for application to this Court."
+That view has been reiterated in this Court in Smith Kline & French Laboratories (Aust) Ltd v Secretary, Department of Community Services and Health10.
+10 	The parties' legal advisers in this matter are aware that, following upon changes made last year by this Court to the procedures respecting applications for special leave, the determination of such applications is able to be made more expeditiously by this Court.  In the case of all such applications, including those in which the parties are represented, they are in the first instance referred to a panel of two Justices, who determine whether oral argument is warranted.  If the Justices consider at that point that there is no basis for the grant of special leave, they list the matter for orders accordingly.  They may also order a grant of leave, without oral argument.  In the event that the matter is referred for oral argument, it can usually be heard in a relatively short period of time.
+11 	In Jennings Construction, Brennan J stated11 as a first condition for a stay made by this Court, that there be a "substantial prospect that special leave to appeal will be granted".  This should not be understood as requiring that the prospects of success on the application for special leave be high.  In applying that test, his Honour held that12, in that case, he did not "think that the prospect of a grant of special leave is insubstantial".  
+12 	It is not necessary to state the arguments for and against the grant of special leave.  They essentially come down to whether this case involves more than an application of settled principles to the facts of this case, for example, by providing an opportunity for clarification or amplification of a principle by reference to the particular facts of the case.
+13 	It does not seem to me that the prospects of a grant of special leave can be said to be insubstantial.  As to the other considerations referred to in Jennings Construction13, the applicant has not failed to take steps necessary to seek orders from the Court of Appeal, even though the term of the orders sought should have been longer in order to obviate the need for an application to this Court.  It is not apparent that the grant of a stay or injunction will cause any loss to a respondent.  Without a grant of a stay or injunction any appeal rights may be rendered futile.  The balance of convenience clearly favours the continuation of the regime of injunctions which has been in place for some time.
+14 	Orders should be made as follows:
+1.	The first respondent be restrained from exercising or purporting to exercise any powers as Appointor or Guardian of the M Mercanti Family Trust (MMF Trust) until the determination of the application for special leave to appeal to the High Court and any appeal, should leave be granted, or until further order.
+2.	The second respondent be restrained from acting or purporting to act as Trustee of the MMF Trust including (but not limited to) restraining it from dealing or purporting to deal with any of the assets of the MMF Trust or incurring or purporting to incur any liabilities on behalf of the MMF Trust, until the determination of the application for special leave to appeal to the High Court and any appeal should special leave be granted, or until further order.
+3.	Each of the first and second respondents have liberty to apply on 48 hours' notice to the applicant to dissolve or vary these injunctions.
+4.	The costs of this application be costs in the cause.
+5.	The applicant have leave to file an amended application for special leave on or before 4.00 pm on Friday 6 January 2017.
+6.	The first and second respondents have leave to file an amended response within 21 days after service of the amended application for special leave.
+
+

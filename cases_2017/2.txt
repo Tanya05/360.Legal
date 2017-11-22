@@ -1,0 +1,740 @@
+﻿HIGH COURT OF AUSTRALIA
+
+GORDON J
+
+
+
+IN THE MATTER OF QUESTIONS REFERRED TO THE COURT OF DISPUTED RETURNS PURSUANT TO SECTION 376 OF THE COMMONWEALTH ELECTORAL ACT 1918 (CTH) CONCERNING MR ROBERT JOHN DAY AO
+
+Re Day
+[2017] HCA 2
+27 January 2017
+C14/2016
+
+ORDER
+
+1.	The exhibits in the trial marked "1" and "2" are to be evidence on the hearing of the Reference before the Full Court on 7 February 2017.
+
+2.	Ms McEwen file 10 hard copies, together with an electronic copy, of Exhibit 1 (maintaining the current pagination and including a copy of Exhibit 2), for use by the Full Court on the hearing of the Reference.
+
+Representation
+
+A S Bell SC with D P Hume appearing on behalf of Mr Robert Day AO (instructed by Griffins Lawyers)
+
+N J Williams SC with B K Lim appearing on behalf of the Attorney‑General of the Commonwealth (instructed by Australian Government Solicitor)
+
+J K Kirk SC with S Gory appearing on behalf of Ms Anne McEwen (instructed by SBA Law)
+
+
+Notice:  This copy of the Court's Reasons for Judgment is subject to formal revision prior to publication in the Commonwealth Law Reports.
+
+INDEX
+
+Content
+Par
+A
+Introduction
+[1]
+B
+Powers of the Court of Disputed Returns
+[11]
+C
+Principles of proof
+[14]
+
+(1)	Nature of the allegation
+[15]
+
+(2)	Constitutional facts
+[20]
+D
+Agreed Facts and Agreed Documents
+[27]
+E
+Additional McEwen Facts Overview
+
+
+(1)	Structure
+[29]
+
+(2)	Important preliminary observations
+[32]
+
+(3)	Issue 1 – Mr Day's interest in the lease
+[39]
+
+(4)	Issue 2 – Mr Day's Statement and Declaration
+[46]
+
+(5)	Issue 3 – Distortion of the vote
+[53]
+F
+Issue 1 – Mr Day's interest in the lease
+[56]
+
+(1)	Overview of Ultimate Findings
+[57]
+
+(2)	Ultimate Finding 31 – Mr Day controls the affairs of B&B Day
+[59]
+
+(3)	Ultimate Finding 32 – At all times since its incorporation, Mr Day controlled the affairs of Fullarton Investments
+
+
+(a)	Introduction
+[69]
+
+(b)	The arrangement
+[72]
+
+(i)		Applicable legal principles
+[73]
+
+(ii)	Position adopted by Attorney-General and Mr Day, but not Ms McEwen
+[74]
+
+(iii)	Arrangement Ms McEwen asked the Court to find
+[77]
+
+(iv)	Evidence and findings
+[80]
+
+Evidence of Mr and Mrs Smith
+[81]
+
+Events after conversations
+[92]
+
+An arrangement?
+[96]
+
+Implementation of the arrangement
+[103]
+
+Period after 23 September 2015
+[109]
+
+(v)	Inconsistencies, the Vendor Finance Acknowledgement and the payment of rent
+[112]
+
+(vi)	Other Evidentiary Facts that Ms McEwen asked to be found in relation to the "Arrangement" for which she contended
+[125]
+
+(c)	Fullarton Investments
+[130]
+
+(d)	The lease
+[151]
+
+(e)	Conclusion about Ultimate Finding 32
+[162]
+
+(4)	Ultimate Finding 33 – At all times since its incorporation, the shares in Fullarton Investments have been held on trust for B&B Day as trustee for the Day Family Trust
+[163]
+
+(5)	Ultimate Finding 34 – The Fullarton Road property is held by Fullarton Investments in its capacity as trustee for B&B Day as trustee for the Day Family Trust
+[166]
+
+(6)	Ultimate Finding 35 – Alternatively, the Fullarton Road property is held by Fullarton Investments as trustee for the Fullarton Road Trust
+[167]
+
+(7)	Ultimate Finding 36 – If it is found that Fullarton Investments holds the Fullarton Road property as trustee for the Fullarton Road Trust, it would deal with the Fullarton Road property for the benefit only of one of its beneficiaries, the Day Family Trust
+[168]
+
+(8)	Ultimate Finding 37 – Rent payable by Commonwealth under its lease of the Fullarton Road property was to be paid to B&B Day or to Mr Day
+[169]
+
+(9)	Evidentiary Facts not referred to or relied upon in relation to any Ultimate Finding under Issue 1
+[172]
+G
+Issue 2 – Mr Day's statement and declaration in nominating for the Senate in 2016
+
+
+(1)	Overview of Ultimate Findings
+[190]
+
+(2)	Ultimate Findings 51, 52, 54 and 55
+[191]
+
+(3)	Ultimate Finding 49 – Mr Day's knowledge prior to transfer of Fullarton Road Property to Fullarton Investments
+[202]
+
+(4)	Ultimate Finding 50 – Mr Day's knowledge of the effect of the Arrangement
+[203]
+
+(5)	Ultimate Finding 53 – Mr Day not seek advice from appropriately qualified person on potential disqualification under s 44(v) based on a true and full disclosure.
+[204]
+
+(6)	Evidentiary Facts not referred to or relied upon in relation to any Ultimate Finding
+[205]
+H
+Issue 3 – Distortion of the vote
+
+
+(1)	Overview of findings sought
+[234]
+
+(2)	Fact 56 – Mr Day acted on behalf of Family First and within the scope of his authority with respect to Statement and Declaration
+[236]
+
+(3)	Fact 57 – In 2013 election, Mr Day was elected to the Senate ­– first preferences and quotas
+[237]
+
+(4)	Fact 58 – At 2016 election, Ms Gichuhi and Mr Day profiles
+[238]
+
+(5)	Fact 59 – In 2016 election, Ms Gichuhi and Mr Day – first preference 
+[239]
+
+(6)	Fact 60 – Political parties, voters and advertising
+[240]
+
+(7)	Fact 61 – Minor party ticket, incumbent Senator, likely substantial identification between the Senator and the party, influence voters
+[242]
+
+(8)	Fact 62 – In 2016 election 91.5% of voters in South Australia (whose votes were formal) voted above the line
+[243]
+
+(9)	Fact 63 – Had Mr Day not been on the ballot paper in the 2016 election
+[244]
+
+(10)	Fact 64 – The presence of Mr Day and Family First group above the line distorted vote at 2016 election
+[246]
+I
+Facts agreed between the Attorney-General and Mr Day – Agreed Facts 81 and 82
+[247]
+J
+Facts agreed between Mr Day and Ms McEwen – Agreed Facts  83 to 92
+[250]
+K
+Orders
+[251]
+
+
+
+
+GORDON J.
+A.	Introduction
+1 	On 7 November 2016, the Senate resolved that certain questions about a vacancy in the representation of South Australia in the Senate, for the place for which Mr Robert John Day AO was returned, should be referred to the Court of Disputed Returns pursuant to s 376 of the Commonwealth Electoral Act 1918 (Cth) ("the Electoral Act")1.  
+2 	The questions referred to the Court relevantly were2:
+"(a)	whether, by reason of s 44(v) of the Constitution, … there is a vacancy in the representation of South Australia in the Senate for the place for which Robert John Day was returned; 
+(b)	if the answer to Question (a) is 'yes', by what means and in what manner that vacancy should be filled;
+(c)	whether, by reason of s 44(v) of the Constitution, … Mr Day was at any time incapable of sitting as a Senator prior to the dissolution of the 44th Parliament and, if so, on what date he became so incapable; 
+(d)	what directions and other orders, if any, should the Court make in order to hear and finally dispose of this reference …".
+3 	Substantial materials were attached to the letter referring the questions to the Court ("the Reference").
+4 	Section 44(v) of the Constitution relevantly provides that any person who:
+"has any direct or indirect pecuniary interest in any agreement with the Public Service of the Commonwealth otherwise than as a member and in common with the other members of an incorporated company consisting of more than twenty-five persons;
+shall be incapable of being chosen or of sitting as a senator …".
+5 	On 21 November 2016, French CJ ordered that each of Mr Day, the Attorney-General of the Commonwealth and Ms Anne McEwen would be heard on the hearing of the Reference and be deemed to be a party to the Reference pursuant to s 378 of the Electoral Act.
+6 	The parties agreed certain facts and documents.  Their agreement is recorded in a document entitled "Areas of factual agreement between the parties" ("Agreed Facts")3 and in an "Agreed list of documents" ("Agreed Documents")4, both filed on 23 December 2016.  On the basis of the parties' agreement of those facts and documents, the Reference was referred to the Full Court for hearing on 7 February 2017.
+7 	The principal issue to be determined by the Full Court is whether, having regard to the Agreed Facts and the Agreed Documents, Mr Day had a direct or indirect pecuniary interest in a lease agreement between Fullarton Investments Pty Ltd ("Fullarton Investments") (the owner of his electorate office premises) and the Commonwealth (represented by a Division within the Department of Finance) as lessee and, if so, whether that interest was of a kind prohibited by s 44(v) of the Constitution.  If the answer to that question is "yes", then Question (b) arises – "by what means and in what manner that vacancy should be filled".
+8 	Notwithstanding the parties' agreement as to facts and documents, Ms McEwen sought additional findings of fact.  The additional facts were listed in a document entitled "Findings of Fact Sought by Ms McEwen", an amended and revised version of which was filed on 24 January 2017 ("Additional McEwen Facts").  Ms McEwen also filed a revised tender bundle comprising 31 documents and 314 pages ("Revised Tender Bundle")5.  The Additional McEwen Facts were, where applicable, cross‑referenced to the Agreed Facts, the Agreed Documents and the Revised Tender Bundle6.
+9 	On 23 and 24 January 2017, a trial was conducted for the Court to consider whether it would make any of the findings set out in the Additional McEwen Facts.  All parties appeared and were represented.  Ms McEwen called two witnesses – Mr John Eric Smith and Mrs Debra Kim Smith.  Each witness gave evidence viva voce and was cross-examined by counsel for Mr Day.  Mrs Smith was asked some limited questions by counsel for the Attorney-General.
+10 	Before turning to address the Additional McEwen Facts and the viva voce and documentary evidence that was adduced to seek to prove those facts, it is necessary to say something, first, about the powers of the Court of Disputed Returns to the extent that these powers were relevant to the hearing and determination of the Additional McEwen Facts and, second, about the relevant principles of proof.
+B.	Powers of the Court of Disputed Returns
+11 	The powers of the Court of Disputed Returns are set out in Part XXII of the Electoral Act.  Division 2 of that Part deals with references of questions as to the qualifications of a senator and as to a vacancy in the Senate7.
+12 	In relation to the Reference, the Court has the powers conferred by s 360 of the Electoral Act so far as they are applicable, and, in addition, has the power to declare, relevantly, that any person was not qualified to be a senator, that any person was not capable of being chosen or of sitting as a senator, and that there is a vacancy in the Senate8.
+13 	The Court sits as an open court9 and has power, amongst others, to compel attendance of witnesses and the production of documents10 and to examine witnesses on oath11.  The Court may exercise all or any of the powers under s 360 on such grounds as it, in its discretion, thinks just and sufficient12.  Further, the Court shall be guided by the substantial merits and good conscience of each case without regard to legal forms or technicalities, or whether the evidence before it is in accordance with the law of evidence or not13.
+C.	Principles of proof
+14 	The ordinary standard of proof required of a party who bears the onus in civil proceedings is proof on the balance of probabilities14.  This remains so even where the matter to be proved involves allegations of fraud15.
+(1)	Nature of the allegation
+15 	However, the seriousness of an allegation made, the inherent unlikelihood of an occurrence of a given description, or the gravity of the consequences flowing from a particular finding are considerations which must affect the answer to the question whether an issue has been proved to the reasonable satisfaction of the tribunal16.  Where, as here, fraud is alleged, "reasonable satisfaction" is not produced by inexact proofs, indefinite testimony, or indirect inferences17.  This does not mean that the standard of persuasion is any higher than the balance of probabilities18.  It does mean that the nature of the issue necessarily affects the process by which the reasonable satisfaction is reached19.  
+16 	Why?  There is a conventional perception that members of society do not ordinarily engage in fraudulent conduct and a court should not lightly make a finding that, on the balance of probabilities, a party to civil litigation has been guilty of such conduct20.
+17 	The nature of the allegation requires, as a matter of common sense, the careful weighing of testimony, the close examination of facts proved as a basis of inference and, on appeal, a comfortable satisfaction that the tribunal reached both a correct and just conclusion21.
+18 	The tribunal must feel an actual persuasion of the occurrence or existence of a fact before it can be found22.  Where direct proof is not available and satisfaction of the civil standard depends on inference, "there must be something more than mere conjecture, guesswork or surmise"23 – there must be more than "conflicting inferences of equal degrees of probability so that the choice between them is [a] mere matter of conjecture"24.  An inference will be no more than conjecture unless some fact is found which positively suggests, or provides a reason in the circumstances particular to the case, that a specific event happened or a specific state of affairs existed25.
+19 	These principles are relevant for present purposes because some of the facts which Ms McEwen alleges should be found amount to allegations of knowing misconduct by Mr Day.
+(2)	Constitutional facts
+20 	Ms McEwen contended that the Court has a wider latitude in determining "constitutional facts" than in determining facts in ordinary private litigation.  In particular, Ms McEwen contended that:
+"The usual rules of admissibly [sic] do not apply and the Court may inform itself however it sees fit:  Thomas v Mowbray (2007) 233 CLR 307, [620]ff.  The only requirement is that the 'material be sufficiently convincing' to justify the Court's conclusions:  Thomas, [649]."
+21 	That contention fails at a number of levels.  First, it fails to recognise the distinction between "adjudicative facts" and "legislative facts"26.  Adjudicative facts are "ordinary questions of fact which arise between the parties"27 and usually go to the jury – "[t]hey relate to the parties, their activities, their properties, their businesses"28.  In contrast, legislative facts are "ordinarily general and do not concern the immediate parties"29.  Constitutional facts are a species of legislative facts30.  The problem for Ms McEwen is that many, if not most, of the facts she seeks to have found are adjudicative, not legislative, facts.
+22 	Second, even if any one of the facts Ms McEwen asks the Court to find is a legislative fact, other considerations arise, including the nature of the material and the procedure adopted by the Court.  
+23 	In relation to the nature of the material that can be taken into account by a court for the purpose of ascertaining a legislative fact, any material would need "to tend logically to show the existence or non-existence of legislative facts relevant to the issue to be determined"31.  In other words, it must have probative value32.  And, of course, material ought not to be taken into account if its probative value is outweighed by other considerations bearing on the interests of justice33.
+24 	In relation to the procedure to be adopted by a court in ascertaining a legislative fact, the procedure will depend on the nature of the particular fact that might be said to bear upon the validity or content of a particular rule or statute34:
+"the centrality or marginality of those facts; whether they are specific or general; whether they are historical, contemporary or predictive; whether they are concrete or evaluative; how much they might be controversial; how much they might be known to or knowable by a party; whether and, if so, how they may be capable of proof or disproof by a party."
+25 	In the present matter, the Court determined that, to the extent that the facts could not be agreed, a trial of those facts was the procedure to be adopted.  That that was the procedure adopted was unsurprising given the nature of the facts Ms McEwen asked the Court to find.  It was a procedure that permitted each fact that Ms McEwen asked to be found to be considered in context, so that any fact, whether legislative or adjudicative, was ascertained by judicial process.  Moreover, the trial afforded procedural fairness to the parties so that they were entitled to be heard on each question of fact35.  
+26 	That there was a trial, conducted by reference to statements of facts and contentions, the adducing of evidence and submissions, is relevant in considering each fact Ms McEwen asked the Court to find.
+D.	Agreed Facts and Agreed Documents
+27 	The Agreed Facts include, amongst others, that particular agreements were made and performed.  The Attorney-General says that those transactions resulted in Mr Day having a direct or indirect pecuniary interest in an agreement contrary to s 44(v) of the Constitution.  That is the subject of the Reference to the Full Court.
+28 	A number of critical dates and facts, which are agreed, should be stated at the outset, in short form:
+Date
+Event
+19 August 1986
+The Day Family Trust, a discretionary trust, was established by Deed.  At all material times, Mr Day, Mrs Bronwyn Day (Mr Day's wife), and Mr Smith have been (and still are) beneficiaries of the Day Family Trust, and the trustee has been (and still is) B&B Day Pty Ltd ("B&B Day")36.
+5 August 2013
+The Governor of South Australia issued a writ for the election of senators for the State of South Australia37. 
+7 September 2013
+The election was held38. 
+2 October 2013
+The Australian Electoral Officer for the State of South Australia certified that Mr Day had been duly elected to serve as a senator for South Australia39.  
+16 December 2013
+Fullarton Investments was incorporated for the express purpose of purchasing the property at 77 Fullarton Road, Kent Town, South Australia, being the whole of the land comprised in Certificate of Title Vol 5091 Folio 217 ("the Fullarton Road Property") from B&B Day40.
+
+The Fullarton Road Trust, a discretionary trust, was established by Deed executed by Mrs Smith (as sole director and secretary of the trustee, Fullarton Investments)41.
+2 January 2014
+National Australia Bank ("NAB") approved a loan facility in favour of B&B Day as trustee for the Day Family Trust to a limit of $1.6 million with interest for a term of five years.  The security for the loan included a registered mortgage over the Fullarton Road Property42.  Since about September 2011, the Fullarton Road Property was subject to a mortgage in favour of NAB as part of the security for a loan by NAB to B&B Day43.
+In addition, Mr and Mrs Day gave a guarantee and indemnity for $2 million for the performance by B&B Day of its obligations under the loan agreement44.
+24 April 2014
+An agreement for the sale and purchase of the Fullarton Road Property was executed whereby Fullarton Investments purchased the Fullarton Road Property from B&B Day for a recorded price of $2.1 million45.
+30 June 2014
+Mrs Day replaced Mr Day as sole director and sole shareholder of B&B Day46.
+1 July 2014
+Mr Day commenced his term as a senator for South Australia47.
+4 September 2014
+Memorandum of transfer of the Fullarton Road Property to Fullarton Investments was executed with the consideration for the transfer recorded as $2.1 million48.  Fullarton Investments held the Fullarton Road Property on trust for the Fullarton Road Trust49.
+11 November 2014
+Memorandum of transfer of the Fullarton Road Property to Fullarton Investments was registered50.
+11 November 2014
+NAB discharged the mortgage over the Fullarton Road Property granted by B&B Day and a new mortgage was registered over the Fullarton Road Property showing Fullarton Investments as the mortgagor51.  
+Under the terms of the loan facility in favour of B&B Day52, B&B Day remained liable to make payments to NAB53.
+12 June 2015
+Fullarton Investments sent to the Commonwealth's leasing manager, DTZ, a completed "Vendor Information" form recording Mr Day as the relevant contact and nominating a bank account in the name of "Fullarton Nominees" for the receipt of rent.  The form was signed by Mr Day as "Representative" of Fullarton Investments, and Mr Day also signed the covering letter, which was on "Fullarton" letterhead54.
+1 December 2015
+Memorandum of lease of part of the Fullarton Road Property, with commencement date of 1 July 2015, was executed by Fullarton Investments (as lessor) and the Commonwealth (as lessee)55.
+The lease provided for annual rent of $66,540 plus GST56 to be paid in monthly instalments by the Commonwealth to "the account nominated by" Fullarton Investments57.
+2 June 2016
+Mr Day nominated for election as a senator for South Australia58. 
+4 August 2016
+Mr Day was declared as elected to the Senate59.
+
+E.	Additional McEwen Facts Overview
+(1)	Structure
+29 	The Additional McEwen Facts are divided into three issues:  "Mr Day's interest in the lease with the Commonwealth" (Issue 1); "Mr Day's statement and declaration in nominating for the Senate in 2016" (Issue 2); and "Distortion of the vote" (Issue 3).  
+30 	In relation to Issues 1 and 2, Ms McEwen divides the Additional McEwen Facts into two parts:  what are described as "Evidentiary facts" and then the "Ultimate" findings of fact to be found.  For each fact or finding, Ms McEwen identified the documentary or other inferential bases for that fact or finding.  Ms McEwen did not contend that the documentary or other inferential bases were themselves facts to be found.  Ms McEwen asked the Court to find only the facts in the numbered or lettered paragraphs of the Additional McEwen Facts document.  
+31 	Ms McEwen also asked the Court to make the findings agreed between Ms McEwen and Mr Day but not formally agreed to by the Attorney-General.  Those facts are recorded as Agreed Facts 83 to 92.  Those facts are addressed in Part J below.  In short, I make those findings.
+(2)	Important preliminary observations
+32 	These reasons will, of course, deal with the particular findings which Ms McEwen sought.  It is necessary, however, to make some important preliminary observations.  
+33 	First, only limited material was placed before the Court:  Agreed Facts, Agreed Documents, the Revised Tender Bundle and the oral evidence of Mr and Mrs Smith.  No other material was adduced to explore more fully what was to be made of those documents and that evidence.
+34 	Second, these reasons will show that various steps were taken and transactions were entered into for the purpose of removing the Fullarton Road Property from Day family members and any entity in which Mr Day had an interest and for the related purpose of "housing" the Fullarton Road Property in an entity that would receive the Commonwealth rental allowance.  Whether those steps and transactions had the legal effect that Mr Day no longer had a relevant interest in the Fullarton Road Property is a legal question that I am not required to and do not address.
+35 	Third, it will be observed from what later appears in these reasons that steps were taken in connection with carrying that purpose into effect that were not consistent with detailed planning or careful implementation.  The documentation was not always consistent one with the other and, in some cases, recorded aspects of the transactions said to have been made earlier.  Even taking account of those matters, I am not persuaded that I should conclude that Mr Day knew the steps and transactions were insufficient to achieve the stated purpose.  Rather, the preferable inference is that the steps were taken and the transactions were made in the manner they were in the belief that they would achieve the intended purpose and have the desired effect.  As I have said, whether they did is a question I do not address.
+36 	Fourth, the particular findings which Ms McEwen sought "evolved", as late as the last morning of the hearing.  
+37 	Fifth, and no less importantly, to the extent that there are findings of fact made and recorded in this judgment, the parties accept that the making of those findings does not indicate that any particular fact or facts found are relevant on the hearing of the Reference. 
+38 	Before turning to consider the "Ultimate" findings of fact Ms McEwen asked the Court to find in relation to Issues 1 and 2 and the matters raised under Issue 3, it is appropriate to summarise the principal conclusions.
+(3)	Issue 1 – Mr Day's interest in the lease with the Commonwealth
+39 	Ms McEwen alleged that the Court should make "Ultimate Findings" as described in seven paragraphs.  Those Ultimate Findings included that:
+(1)	Mr Day "controls" (presumably controls and has controlled at all material times) the affairs of B&B Day60;
+(2)	at all times since its incorporation, Mr Day "controlled" the affairs of Fullarton Investments61; and
+(3)	at all times since its incorporation, the shares in Fullarton Investments have been held on trust (presumably by the registered shareholder) for B&B Day as trustee for the Day Family Trust62. 
+40 	It is to be accepted (and the parties have already accepted by the Agreed Facts and the Agreed Documents) that some of the "Evidentiary Facts" described under Issue 1 are established.  For example, in relation to the Agreed Documents, it is accepted by the parties that the several emails and letters that are relied upon by Ms McEwen in relation to Issue 1 were sent to and received by the intended recipient.  Next, some of the Evidentiary Facts are established by reference to the contents of the Agreed Documents.  For example, it is agreed that B&B Day acquired the Fullarton Road Property for $2.1 million plus GST of $210,000 by a transfer lodged for registration on 30 June 201163.
+41 	Ms McEwen set out the Evidentiary Facts on which the Ultimate Findings were alleged to be founded.  For example, an allegation that Mr Day controls the affairs of B&B Day was founded on statements made by Mr Day during 2016 in which he said, in effect, that he had sold the property to Fullarton Investments and that he had retained the funding to secure the purchase of the Fullarton Road Property64.  (Ms McEwen relied upon other statements to similar effect).
+42 	Ms McEwen did not allege that any of the trust deeds or other transaction documents65 agreed between the parties (part of the Agreed Documents) do not take effect according to their terms.  It follows that Mr Day's statements of what he had done were legally inaccurate.  But those statements do not establish that I should find (contrary to the terms of the relevant Agreed Documents) that Mr Day controls the affairs of B&B Day.  He may or may not believe that he has great influence on or effective control of the affairs of B&B Day but that does not support a finding of "control".  (He would not be the first person who established a discretionary family trust to hold an inaccurate belief of that kind).
+43 	By way of further example, Mr Day accepted that there was an arrangement with terms that a company (Fullarton Investments) would be incorporated, Mrs Smith would be the sole shareholder and sole director of the company, Fullarton Investments would acquire the Fullarton Road Property (and hold it on trust for the Fullarton Road Trust) and B&B Day would pay expenses in connection with the transfer of the property66.  But that is not the "Arrangement" contended for by Ms McEwen67. 
+44 	As these reasons will show, it has not been established that Mr Day made an "Arrangement" with Mr Smith on behalf of and with the agreement of Mrs Smith68 that:
+(1)	Mrs Smith would deal with her shareholding in the new company (Fullarton Investments) in any manner that Mr Day might direct; and
+(2)	notwithstanding that Mrs Smith was the director, Mr Day would control the affairs of the new company to the exclusion of Mrs Smith.
+45 	In addition to the lack of factual bases for the Ultimate Findings, these reasons will show that many of the findings sought under Issue 1 were unable to be made because they were imprecise or lacked content.
+(4)	Issue 2 – Mr Day's statement and declaration
+46 	Ms McEwen asked the Court to make Ultimate Findings as described in seven paragraphs.  
+47 	Those Ultimate Findings included that:
+(1)	Mr Day knew that following the transfer of the Fullarton Road Property to Fullarton Investments69:
+(a)	he retained a financial interest in the Fullarton Road Property;
+(b)	he had a financial interest in the lease of the Fullarton Road Property to the Commonwealth;
+(2)	Mr Day knew, that by reason of that interest in the lease, there was a serious risk that he might be disqualified to be chosen or sit as a senator by reason of s 44(v) of the Constitution70;
+(3)	Mr Day was recklessly indifferent as to whether his nomination and associated documents ("the Statement and Declaration") were true, had no real belief in the truth of them and knew that they were not true71.
+48 	These reasons will show that, under Issue 2, I am not persuaded to find facts additional to those already agreed.  That is, I am not persuaded to find what were described as Ultimate Findings under Issue 2.  
+49 	Some of the Evidentiary Facts relied upon by Ms McEwen were predicated on my finding of the "Arrangement" to which reference has already been made:  namely, that in or about December 2013, Mr Day and Mr Smith on behalf of Mrs Smith and with the agreement of Mrs Smith entered into an arrangement that, among other things, Mrs Smith would deal with her shareholding in the new company that would hold the Fullarton Road Property (Fullarton Investments) in any manner that Mr Day might direct and that Mr Day would control the affairs of that company to her exclusion.  As indicated in relation to Issue 1, these reasons will show that it has not been established that Mr Day made an "Arrangement" with such "terms".  
+50 	Moreover, as these reasons will show, the Ultimate Findings under this Issue were all directed to an additional finding which Ms McEwen sought (though variously expressed) that Mr Day knew that despite, or perhaps because of, the transactions which had been made there was a serious risk that he might be disqualified under s 44(v) of the Constitution from being chosen or of sitting as a senator.  
+51 	The evidence adduced does not persuade me that Mr Day:
+(1)	knew, following the transfer of the Fullarton Road Property, that he retained a financial interest in the Fullarton Road Property and that he had a financial interest in the lease of the Fullarton Road Property to the Commonwealth; 
+(2)	knew, as a result of that asserted financial interest, that there was a serious risk that he might be disqualified under s 44(v) of the Constitution; or
+(3)	was recklessly indifferent as to whether the Statement and Declaration were true, had no real belief in the truth of them and knew that they were not true.  
+52 	As stated earlier, other than a document dated 1 December 2014 ("the Vendor Finance Acknowledgement")72, Ms McEwen did not allege that any of the trust deeds or other transaction documents agreed between the parties did not take effect according to their terms.  A readily available competing conclusion is that Mr Day thought that, as a result of those transactions, he was not disqualified.  
+(5)	Issue 3 – Distortion of the vote
+53 	Ms McEwen asked the Court to make findings of fact as described in eight paragraphs.  
+54 	Under this issue, there was no division between "Evidentiary Facts" and "Ultimate Findings".  In general terms, the findings sought fell into three categories:  (1) findings as to the first preference votes obtained in the 2013 and 2016 election by Family First and its candidate or candidates; (2) findings concerned with the conduct and activities of one or more of Mr Day and Ms Gichuhi; and (3) findings about voting behaviour and the outcome of a hypothetical election.  Many of the facts sought to be found were admitted by Mr Day.  These reasons will show that I refuse to make the balance of the facts sought (which fall primarily in the third category).
+55 	Against that background, it is necessary to address the findings that Ms McEwen asked the Court to find in relation to each issue separately.
+F.	Issue 1 – Mr Day's interest in the lease with the Commonwealth
+56 	The Evidentiary Facts sought in relation to this issue were divided into three sub-categories:  "The Day Family Trust", "The Fullarton Road [P]roperty" and "The lease".  
+(1)	Overview of Ultimate Findings
+57 	As stated earlier, seven Ultimate Findings were sought in relation to Issue 1.  They were as follows:
+"31.	Mr Day controls the affairs of B&B Day.
+32.	At all times since its incorporation, Mr Day controlled the affairs of Fullarton Investments.
+33.	At all times since its incorporation, the shares in Fullarton Investments have been held on trust for B&B Day as trustee for the Day Family Trust.
+34.	The Fullarton Road [P]roperty is held by Fullarton Investments in its capacity as trustee for B&B Day as trustee for the Day Family Trust.
+35.	Alternatively, the Fullarton Road [P]roperty is held by Fullarton Investments as trustee for the Fullarton Road Trust.
+36.	If it is found that Fullarton Investments holds the Fullarton Road [P]roperty as trustee for the Fullarton Road Trust, it would deal with the Fullarton Road [P]roperty for the benefit only of one of its beneficiaries, the Day Family Trust.
+37.	The rent payable by the Commonwealth under its lease of the Fullarton Road [P]roperty was to be paid to B&B Day or to Mr Day."
+58 	Ultimate Findings 31 and 32 are critical.  By reference to the documentary or other inferential bases listed below under each of the other proposed findings, it is apparent that Ultimate Finding 33 is dependent on Ultimate Findings 31 and 32 and Ultimate Findings 34 and 35 are dependent on Ultimate Findings 31 and 32 (and possibly Ultimate Finding 33).  Ultimate Finding 36, in its terms, is dependent on Ultimate Finding 35.  Ultimate Finding 37 stands alone and will be addressed separately.
+(2)	Ultimate Finding 31 – Mr Day controls the affairs of B&B Day
+59 	Evidentiary Fact 1, the single fact relied upon by Ms McEwen to support Ultimate Finding 31, was that:
+"Notwithstanding the change in directorship of B&B Day ... from Mr Day to his wife Mrs Day on 30 June 2014, Mr Day remained in effective control of B&B Day."  (emphasis added)
+60 	Ms McEwen identified specific documentary and other bases that were said to support that Evidentiary Fact.  
+61 	It is to be accepted that various documents were sent, created or record certain facts; the parties have agreed as much by their acceptance of those documents and facts.  Accordingly, it may be accepted that:
+(1)	Mr Day signed the memorandum of transfer for the Fullarton Road Property on behalf of B&B Day on 4 September 2014, despite no longer being a director of B&B Day73;
+(2)	on 29 December 2015, Mr Day stated in writing that he "spent nearly $200,000 getting [the Fullarton Road Property] up to standard"74 and, on 4 August 2016, he stated in writing that he "did the renovations [him]self" (referring to paying for the renovations to the Fullarton Road Property following the transfer)75;
+(3)	on 25 January 2016, Mr Day wrote to the Department of Finance stating that "[i]n 2014 [he] sold the property to Fullarton Investments ... on a vendor finance basis" but "[he] retained the NAB loan"76;
+(4)	a substantial portion of the approximately $200,000 for works carried out on the Fullarton Road Property was incurred after 4 September 2014 and this expenditure was met by B&B Day77;
+(5)	on 7 August 2016, Mr Day wrote to Senator Scott Ryan, then the Special Minister of State, saying that "I have an agreement with someone else who has an agreement with the Crown"78;
+(6)	B&B Day or Mr Day paid the stamp duty and other associated costs on the transfer of the Fullarton Road Property from B&B Day to Fullarton Investments79; and 
+(7)	after 30 June 2014, including in response to a letter addressed to "THE DIRECTORS" of B&B Day80, Mr Day corresponded with NAB about a loan facility in favour of B&B Day81.
+62 	However, on the basis of those matters referred to and relied upon by Ms McEwen, I am not persuaded to find that Mr Day "remained in effective control of B&B Day" after 30 June 2014.  Some of the statements made by Mr Day arguably refer to events and conduct which took place prior to 30 June 2014, when Mr Day was a director of B&B Day.  And even if, after Mr Day had ceased to be a director of B&B Day, he did the various acts, or made all of the statements claiming personal responsibility for what had been done in connection with the Fullarton Road Property, there were at least three obstacles to making the finding sought by Ms McEwen.  
+63 	First, consistent with Ms McEwen's acceptance that the Agreed Facts and the Agreed Documents record certain facts, Mr Day had no legal power with respect to B&B Day from 30 June 2014, when he resigned as the sole director of B&B Day and ceased to be the sole shareholder, or a shareholder at all, of B&B Day.  From that date, Mrs Day was the sole director and the sole shareholder of B&B Day82.  On the evidence, Mrs Day remained in those positions at least up to and including 28 September 201683 and, in her capacity as director of B&B Day, on 21 July 2014, signed a Guarantee and Indemnity in favour of NAB for up to $21.5 million to secure facilities provided to Nationwide Australian Investments Pty Ltd84.
+64 	Second, the phrase "remained in effective control" was not given any legal content in submissions.  It is imprecise.  During final submissions, counsel for Ms McEwen submitted that the phrase meant that "in practice [Mr Day] was the controlling mind of the company and thus the trust ... at all material times from 30 June 2014 onwards"85.  That submission does not explain the legal content of the phrase.
+65 	Third, even if the phrase "remained in effective control" had legal content (and, here, it does not), the evidence does not go so far as to show that Mr Day was and remained in effective control of B&B Day.  At its highest, what the evidence identified above establishes is that, after 30 June 2014, in respect of some of the activities of B&B Day:
+(1)	Mr Day was a person who made, or participated in making, decisions that affected a substantial part of the business of B&B Day86;
+(2)	although Mr Day was not validly appointed as a director, he is shown to have done acts in the position of a director87.
+66 	There were two other matters referred to by Ms McEwen in support of Evidentiary Fact 1.  They do not alter the conclusion just reached.  The first was that at all times since its incorporation, Mr Day controlled the affairs of Fullarton Investments and did so for the benefit of B&B Day as trustee for the Day Family Trust.  The underlying fact – that at all times since its incorporation, Mr Day controlled the affairs of Fullarton Investments – is the subject of Ultimate Finding 32.  That finding is addressed next and is not found.  
+67 	The second matter referred to by Ms McEwen was that Mr and Mrs Day were in the best position to give evidence on whether or not Mr Day remained in effective control of B&B Day after 30 June 2014 and that because they did not give evidence, an inference should be drawn that their evidence would not have assisted Mr Day's case88.  However, as explained in Part C(1) above, an inference will be no more than conjecture unless some fact is found which positively suggests, or provides a reason in the circumstances particular to the case, that a specific event happened or a specific state of affairs existed89.  Having regard to the facts and matters referred to by Ms McEwen, there are not facts found which positively suggest, or which provide a reason in the circumstances particular to this case to infer, that "Mr Day remained in effective control of B&B Day" after 30 June 2014.
+68 	I am not persuaded to find Evidentiary Fact 1.  It was the sole basis relied upon by Ms McEwen to support Ultimate Finding 31.  Ultimate Finding 31 is not found.
+(3)	Ultimate Finding 32 – At all times since its incorporation, Mr Day controlled the affairs of Fullarton Investments 
+(a)	Introduction
+69 	The specific documentary and other bases that Ms McEwen said supported Ultimate Finding 32 were:
+(1)	the terms of an alleged "Arrangement" and its purpose90;
+(2)	Fullarton Investments had one asset – the Fullarton Road Property – and one activity – entering into the lease with the Commonwealth – and Mr Day was centrally involved in that activity91;
+(3)	Mr Day directed the preparation of the management accounts for Fullarton Investments92;
+(4)	Mr Day directed Mrs Smith to transfer her shares in Fullarton Investments to a Mr Colin Steinert93;
+(5)	B&B Day spent over $200,000 on improving the Fullarton Road Property94 and it is to be inferred that Mr Day made the decision that the improvements were to be made to the property; and 
+(6)	the evidence of Mrs Smith. 
+70 	I am not persuaded that the evidence establishes that, at all times since its incorporation, Mr Day controlled the affairs of Fullarton Investments.  As these reasons will show, the specific documentary and other bases that were said by Ms McEwen to support Ultimate Finding 32 (including many of Evidentiary Facts 8 to 30) were not made out.  Moreover, the legal and factual issues that were identified in relation to Ultimate Finding 3195 apply equally so as not to permit the making of Ultimate Finding 32.
+71 	I turn to consider each of the specific documentary and other bases that were said by Ms McEwen to support Ultimate Finding 32.  In the course of that analysis, it will be necessary to address a number of Evidentiary Facts that Ms McEwen asked the Court to find.
+(b)	The arrangement
+72 	This section of the judgment is structured as follows:
+	(i)	applicable legal principles of an arrangement;
+	(ii)	Position adopted by the Attorney-General and Mr Day, but not Ms McEwen – Agreed Fact 81;
+	(iii)	the Arrangement that Ms McEwen asked the Court to find;
+	(iv)	the evidence and findings;
+	(v)	inconsistencies, the Vendor Finance Acknowledgement and the payment of rent; and
+	(vi)	other Evidentiary Facts that Ms McEwen asked to be found in relation to the "Arrangement" for which she contended.
+I will deal with each in turn.
+(i)	Applicable legal principles of an arrangement
+73 	The applicable principles may be summarised as follows.  An arrangement is something less than a binding contract or agreement96.  It may be informal as well as unenforceable and the parties may be free to withdraw from it or to act inconsistently with it, notwithstanding their adoption of it97.  An arrangement should be consensual, and there should be some adoption of it.  But it is not essential that the parties are committed to it or are bound to support it98.  
+(ii)	Position adopted by the Attorney-General and Mr Day, but not Ms McEwen – Agreed Fact 81
+74 	The Attorney-General and Mr Day agreed, and the Attorney‑General asked the Court to find, that there was an agreement or understanding99 between B&B Day (as trustee for the Day Family Trust) and Fullarton Investments (as trustee for the Fullarton Road Trust), that Fullarton Investments (as trustee for the Fullarton Road Trust) would make repayments to B&B Day (as trustee for the Day Family Trust) from rent received from the Commonwealth.  The Attorney-General and Mr Day agreed, and the Attorney-General asked the Court to find, that the agreement or understanding was in place from no later than the date of the execution of the memorandum of transfer for the sale of the Fullarton Road Property on 4 September 2014.
+75 	Ms McEwen contended that such an agreement or understanding did not exist for two reasons.  First, Ms McEwen submitted that there was no evidence establishing an agreement between Fullarton Investments and B&B Day if Mrs Smith was said to control Fullarton Investments100.  As these reasons will demonstrate, I reject that contention101.  The alternative contention – that if Mr Day controlled Fullarton Investments, then it was "possible that he reached an agreement with himself"102 – does not arise because, as these reasons will demonstrate, I am not persuaded that Mr Day "controlled" Fullarton Investments103.  
+76 	Second, Ms McEwen submitted that the word "repayments" presupposed some obligation to repay and she did not concede that there was such an obligation to repay; rather, the arrangement was that rent would go from the Commonwealth into an account controlled by Mr Day104.  That contention is addressed at [123]-[124] below.
+(iii)	Arrangement that Ms McEwen asked the Court to find
+77 	The Arrangement ultimately contended for by Ms McEwen seeks to build on an arrangement that Mr Day admitted, namely an arrangement that105:
+(1)	a company, in the event, Fullarton Investments, would be incorporated;
+(2)	Mrs Smith would be the director and shareholder in that company;
+(3)	Fullarton Investments would acquire the Fullarton Road Property;
+(4)	Fullarton Investments would own the Fullarton Road Property on trust for the Fullarton Road Trust106;
+(5)	B&B Day would pay expenses in connection with the transfer of the Fullarton Road Property.
+78 	Ms McEwen ultimately contended that in about December 2013, Mr Day and Mr Smith on behalf of, and with the agreement of, Mrs Smith entered into an Arrangement with the following additional terms107:
+"(a)	Mrs Smith would deal with her shareholding in the company to be incorporated (in the event Fullarton Investments) in any manner that Mr Day might direct;
+(b)	Notwithstanding that Mrs Smith was the director, Mr Day would control the affairs of the new company to the exclusion of Mrs Smith;
+(c)	Mr Day or B&B Day would pay all expenses associated with the transfer of the Fullarton Road [P]roperty from B&B Day to Fullarton Investments, including stamp duty and registration fees, and in connection with the holding of the property;
+(d)	Fullarton Investments would deal with the Fullarton Road [P]roperty (whether by way of lease, transfer or otherwise) in such manner as Mr Day would direct;
+(e)	Any financial benefit (either income or an increase in value) derived from, or any losses incurred (including a decline in value) as a result of holding, the Fullarton Road [P]roperty would be for the benefit of or suffered by (as the case may be) B&B Day as trustee of the Day Family Trust;
+(f)	Fullarton Investments would lease the Fullarton Road [P]roperty to the Commonwealth if terms could be agreed.  The terms were to be acceptable to Mr Day;
+(g)	If the property was leased to the Commonwealth, the rent would be paid to B&B Day as trustee of the Day Family Trust."
+79 	As these reasons will demonstrate, it has not been established that an Arrangement with those additional terms was made and, in particular, with terms that:
+(1)	Mrs Smith would deal with her shareholding in the new company (Fullarton Investments) in any manner that Mr Day might direct; and
+(2)	notwithstanding that Mrs Smith was the director, Mr Day would control the affairs of the new company to the exclusion of Mrs Smith.
+(iv)	Evidence and findings
+80 	The evidence comprises documentary and oral evidence.  It is appropriate to consider the evidence, so far as it permits, chronologically.  That also requires consideration of the sworn evidence, given viva voce, by Mr and Mrs Smith.  Although Mrs Smith gave evidence before her husband, it is necessary to consider the evidence of Mr Smith first.
+Evidence of Mr and Mrs Smith
+81 	Ms McEwen called Mr Smith to give evidence.  The history between Mr Smith and Mr Day was not challenged.  Mr Smith met Mr Day in high school and went into partnership with him in a plumbing business in 1975.  Then, in the late 1970s, they started building homes together.  In 1983, they incorporated their first building company, Homestead Homes Pty Ltd.  They remained in business together until 2014, when Mr Smith resigned as a director of the Home Australia Group and transferred his shares to Mr Day.  The reason for that was not explained.
+82 	Mr Smith gave evidence about a conversation he had with Mr Day concerning the Fullarton Road Property.  Mr Day did not suggest that the conversation did not take place and Mr Smith's credibility was not challenged.  
+83 	However, counsel for Mr Day submitted that Mr Smith's evidence was "completely problematic" for four reasons and that, as a result, the Court could not reach a comfortable degree of satisfaction about what was said by Mr Day to Mr Smith.  The problems identified were: what was communicated; when it was communicated; whether what was communicated between Mr Day and Mr Smith was then communicated or relayed by Mr Smith to Mrs Smith; and finally, whether the conversation preceded an email sent by a Mr Vic Rasera to Mr and Mrs Smith on 2 December 2013, copied to Mr Day108.  Those matters will be addressed in the course of the findings. 
+84 	Mr Smith could not recall the length or the location of the conversation.  He could not recall if the conversation took place in Adelaide or Queensland.  
+85 	As counsel for Mr Day submitted, Mr Smith's recollection of when the conversation took place was inconsistent.  On a number of occasions, Mr Smith's evidence was that the conversation took place after 30 June 2014, being after Mr Day had resigned as a director of all the companies in the Home Australia Group.  Mr Smith also gave evidence that he thought it took place in September or October 2013. 
+86 	Mr Smith accepted that he did not have a precise recollection of what Mr Day said to him "word for word" during the conversation109.  Counsel for Mr Day also pointed to inconsistencies between the various versions of the conversation that he provided in the course of his evidence.  
+87 	Notwithstanding those deficiencies, which I accept, Mr Smith's evidence was, and I find, that Mr Smith had a conversation with Mr Day in or about late 2013 (but prior to 2 December 2013) when Mr Day, in substance:
+(1)	told Mr Smith that he (Mr Day) could not retain ownership of the Fullarton Road property in his own name or anything close to his own name;
+(2)	told Mr Smith that he could not be paid any rent or receive any lease payments while the Fullarton Road Property was in his name or could be in any way associated with him dealing with it;
+(3)	asked Mr Smith if he would oppose him, or Mr Smith, asking Mr Smith's wife to take ownership of the Fullarton Road Property "by way of shares in trust or something"110; 
+(4)	told him that the person had to be someone removed from their partnership and business, the Fullarton Road Property and Mr Day's family.
+88 	Mr Smith's evidence was, and I find, that he replied by saying words to the effect that Mr Day's proposal was "fine" so long as he (Mr Smith) did not have to do anything and there were no costs or expenses that he (Mr Smith) would have to pay111.  Mr Smith's further evidence was, and I find, that Mr Day responded by saying words to the effect that he would "take care of everything"112.  
+89 	Mr Smith then gave evidence, which I accept, that he had a conversation with his wife, Mrs Smith.  It is necessary to say something about that conversation.  Mr Smith's evidence was that he told Mrs Smith he had had a discussion with Mr Day and that her response was "Okay, that's fine"113.  When asked in evidence in chief how long the conversation was, his evidence was "[a]bout as long as that"114.  He stated, and I accept, that it was not a long conversation and that he did not go into any real detail about the matter.  
+90 	Mrs Smith's evidence was not inconsistent with Mr Smith's account.  Her evidence was that during a "very short" conversation at their home, she was told by Mr Smith that Mr Day wanted to put the Fullarton Road Property into her name and for her to "take over the property at Fullarton Road, as the owner of it"115.  Mrs Smith's evidence was that there was no discussion about what taking over the property involved.
+91 	What then happened is not clear.  There was no evidence adduced that Mr Smith told Mr Day that Mrs Smith had agreed.  
+Events after conversations
+92 	In any event, on 2 December 2013, sometime after the conversation Mrs Smith had with Mr Smith, Mr Rasera of Wilson Colman & Co Pty Ltd, an accounting firm, sent an email to both of them (copied to Mr Day), which stated, relevantly, that116:
+"[Mr Day] has sought advice on establishing an entity in which the Senate Office on Fullarton Road can be housed so as to be able to avail himself of the rental allowance provided by the government.  I propose incorporating a new company with [Mrs Smith] as sole director and shareholder, to act as trustee for a discretionary trust.  This removes the property from Day family members and any entity in which [Mr Day] has an interest, and by having [Mrs Smith] as sole director, puts further distance between the Trust and [Mr Day's] business interests and partner of nearly 40 years.
+The trust will simply hold the property and collect rent on a regular basis.  That rent will then pass back to the Day Family Trust so there will be no profit nor loss in the new trust.
+Are you happy for me to proceed? I will have paper work for signing within a week."  (emphasis added)
+93 	There are a number of matters to note about this email.  It was sent by Mr Rasera, not Mr Day.  The evidence disclosed that he was the accountant for Mr Day, for Mr and Mrs Smith and for their joint and individual companies.  Next, it records the following facts and matters117:
+(1)	Mr Day had sought advice on establishing an entity in which the Fullarton Road Property could be housed so that he could avail himself of the rental allowance provided by the government;
+(2)	Mr Rasera proposed incorporating a new company with Mrs Smith as sole director and shareholder to act as trustee for a discretionary trust;
+(3)	the purpose of (1) and (2) was to remove the Fullarton Road Property from Day family members and any entity in which Mr Day had an interest, and having Mrs Smith as sole director would put further distance between the Fullarton Road Property and Mr Day's business interests and his business partner of nearly 40 years, namely Mr Smith;
+(4)	the new trust would simply hold the Fullarton Road Property and collect rent on a regular basis, and the rent would then pass back to the Day Family Trust so there would be no profit or loss in the new trust.
+94 	On the same day and without consulting Mr Smith, Mrs Smith responded by email to Mr Rasera and Mr Smith, but not to Mr Day, stating: "I'm happy [Mr Rasera], if everyone else is.  Boy, [Mr Day] will have to owe me big time for this … surely???"118.  
+95 	After Mrs Smith sent that response, she did not give any other instructions to any person about setting up a new company, about Fullarton Investments or about the Fullarton Road Property.  Mrs Smith also stated that she did not pay the incorporation costs for Fullarton Investments or any costs associated with running Fullarton Investments and does not know who paid those costs.
+An arrangement?
+96 	There are three questions – what was the arrangement (if any), what were its terms and what was its stated purpose?  
+97 	In light of the evidence, I make the following findings and answer the first question – "what was the arrangement (if any)" – as follows:
+(1)	from no later than 16 December 2013 (when Mrs Smith signed the Fullarton Road Trust Deed)119, there was an arrangement in the terms set out in the 2 December 2013 email which was agreed to by Mr and Mrs Smith120;
+(2)	in relation to Fullarton Investments, Mrs Smith was to be its sole director and shareholder;
+(3)	Mrs Smith, through Fullarton Investments, would be the "owner" of the Fullarton Road Property and Fullarton Investments would hold the property on trust for the Fullarton Road Trust;
+(4)	the purpose of the arrangement was to remove the Fullarton Road Property from Day family members and any entity in which Mr Day had an interest;
+(5)	another and related purpose of the arrangement was that the Fullarton Road Trust would hold the Fullarton Road Property, it would collect the rental allowance provided by the government and it would then pass the rent back to the Day Family Trust;
+(6)	there would be no profit or loss in the Fullarton Road Trust121. 
+98 	As noted earlier, whether that arrangement was legally effective is not relevant to, or to be determined as part of, this aspect of the Reference122.  
+99 	As will become self-evident, I am not persuaded and do not find that the arrangement included any of the additional terms sought by Ms McEwen under Evidentiary Fact 10123 and that fact is not found.  Subject to an aspect of par (c) of Evidentiary Fact 10, those additional terms were not established to the requisite standard by the evidence before the Court (whether as part of the arrangement I have found or at all).  In relation to pars (a), (b), (d) and (f) of Evidentiary Fact 10, there was no evidence before the Court that each of those matters might or would be done at the direction of Mr Day or under the control of Mr Day.  
+100 	In relation to par (e) of Evidentiary Fact 10124, I am not persuaded that the evidence supports a finding that that was a term of any arrangement.  What the evidence disclosed, and I find, is that the Fullarton Road Trust was to hold the Fullarton Road Property, it would collect the rental allowance provided by the government and it would then pass the rent back to the Day Family Trust with the result that there would be no profit or loss in the Fullarton Road Trust125.
+101 	Paragraph (g) of Evidentiary Fact 10 was not established by the evidence of Mr Smith and is not reflected in the final paragraph of the 2 December 2013 email sent by Mr Rasera.  That email records that the rent was to be paid to the Fullarton Road Trust.  
+102 	That leaves par (c) of Evidentiary Fact 10126.  Mr Smith insisted that the arrangement was to come at no expense to him.  Moreover, it was a term of the arrangement that there was to be no profit or loss in the Fullarton Road Trust.  Consistent with those findings, the parties have agreed that B&B Day or Mr Day paid the stamp duty on the transfer of the Fullarton Road Property from B&B Day to Fullarton Investments (in the amount of $109,330), the fee on the registration of the transfer (in the amount of $15,319.50) and the conveyancers' professional fees, for a total of $125,549.19127.  In addition, Mr Day admitted that since the transfer of the Fullarton Road Property to Fullarton Investments, all outgoings in relation to that property have been paid by the Home Australia Group, the Family First Party, B&B Day, Mr Day and the Bert Kelly Research Centre128.
+Implementation of the arrangement
+103 	Two issues remain:  whether the arrangement set out at [97] above was implemented; and whether it continued to subsist (and be implemented) after 23 September 2015, when Mrs Smith resigned as sole director and ceased to be the sole shareholder of Fullarton Investments129.  The answer to both questions is "yes".
+104 	As to implementation of the arrangement in [97] above, although Mrs Smith's evidence in chief was that she did not, from time to time, sign documents relating to Fullarton Investments, the evidence disclosed, and I find, that Mrs Smith in fact did so on a number of occasions after the 2 December 2013 email.  In particular, as director of Fullarton Investments, Mrs Smith signed the following eight documents130:
+(1)	the Deed establishing the Fullarton Road Trust, dated 16 December 2013131;
+(2)	the Agreement for the Sale and Purchase of the Land between B&B Day and Fullarton Investments in relation to the Fullarton Road Property, dated 24 April 2014132;
+(3)	an Extract of Minutes of Declarations of Sole Director, dated 8 May 2014, recording declarations made by Mrs Smith as sole director of Fullarton Investments in relation to, amongst other documents, the Guarantee and Indemnity and the Memorandum of Mortgage referred to below133;
+(4)	a Guarantee and Indemnity in favour of the NAB dated 4 August 2014 (which she signed personally as personal guarantor and as a director of Fullarton Investments)134;
+(5)	the Memorandum of Transfer of the Fullarton Road Property from B&B Day to Fullarton Investments, dated 4 September 2014135;
+(6)	the Memorandum of Mortgage dated 11 September 2014136;
+(7)	a Heads of Agreement between Fullarton Investments and the Department of Finance signed by Mrs Smith as a director of Fullarton Investments on 24 November 2014137.  Mrs Smith accepted in evidence that she wrote the word "Director" under her name; and
+(8)	a document headed "Agreement" between B&B Day and Fullarton Investments, dated 1 December 2014, acknowledging the provision of vendor finance from B&B Day to Fullarton Investments to secure the purchase of the Fullarton Road Property referred to in these reasons as the Vendor Finance Acknowledgement138.
+105 	Mr Smith gave evidence that he received documents concerning the Fullarton Road Property on more than two occasions and possibly four or five occasions.  Mr Smith's evidence was that the correspondence was always addressed to him, and that he read the covering letters, told his wife that they were the documents relating to the Fullarton Road Property that Mr Day wanted her to hold by way of "shares in trust"139, told her to sign them where indicated and sent them back.  
+106 	There are two important points to note.  First, the covering letters were not in evidence before the Court.  The Court does not know, and cannot find, who sent the documents to Mr Smith.  Second, there is no evidence before the Court that Mrs Smith executed any of those documents at the direction of Mr Day.
+107 	Mrs Smith gave evidence, which I accept, that she believes she is an honest person who would not sign a document that she thought was false or wrong.  She also accepted that if she did not understand something she was asked to sign, she could have asked her husband or Mr Rasera.  Mrs Smith's evidence was that she did not "pore[ ]" over the documents she signed but glanced at each so that she had the "gist" of what the document was about and where she had to sign140.  
+108 	In addition to the various documents Mrs Smith executed as the sole director of Fullarton Investments, there are other later documents that support the finding that the arrangement was implemented, including the Memorandum of Lease between Fullarton Investments and the Commonwealth executed on 1 December 2015, with a commencement date of 1 July 2015141.
+Period from 23 September 2015
+109 	In relation to the period from 23 September 2015, it is sufficient to record that a Mr Colin Steinert replaced Mrs Smith as sole director and sole shareholder of Fullarton Investments142.  The parties agreed that, at all relevant times, Mr Steinert was a principal of the Colin Steinert Group and had advised Mr Day on the transfer of the Fullarton Road Property from B&B Day to Fullarton Investments143.
+110 	On the evidence of Mr Smith, which I accept, the transfer of the directorship and the ownership of Fullarton Investments from Mrs Smith to Mr Steinert became necessary because Mr Smith and Mr Day were no longer business partners and Mr Smith no longer wanted Mrs Smith to be involved with Fullarton Investments.  What occurred in and from January 2015 included the following facts and matters:
+(1)	on 17 January 2015, Mr Day sent an email to Mr Smith stating "[Mr] Steinert has agreed to take over Fullarton Investments …  I've spoken to [Mr Rasera] re doing the paperwork"144;
+(2)	on 30 August 2015, Mr Day emailed Mr Rasera, stating that he wished to get the transfer to Mr Steinert "underway"145;
+(3)	on 3 September 2015, Mr Rasera responded stating that he would do the transfer as of that date, and asked: "If and when Fullarton Investments makes a profit who do you envisage that profit will be distributed to and who is going to pay the tax on it?"146.  A short time later, Mr Day responded: "That will never happen"147;
+(4)	on 7 October 2015, Mr Steinert emailed his accountant attaching a copy of the balance sheet and profit and loss for Fullarton Investments148.  Mr Steinert stated:  "[Mr] Day wants the shares transferred to me.  Please asses [sic] then phone me to discuss.  I am following up Stamp Duties Office as regards any stamp duty payable on the share transfer"149;
+(5)	on 8 October 2015, Mr Steinert emailed Mr Rasera stating that he would not agree to become director of Fullarton Investments until he had cleared it with his accountant150.  Mr Steinert asked Mr Rasera to answer the following questions that had been raised by his accountant151:
+"Fullarton Investments ... is merely the trustee of the Fullarton Road Trust.
+We'll also need to see the Trust Deed for the trust.  Is it a discretionary trust or unit trust?
+The company is merely holding the asset in trust for the trust.
+If its [sic] a unit trust then you also need the units transferred to you and we need to check who the appointer of the trust is as that person/entity controls the trust at all times.  If its [sic] a discretionary trust then that makes even less sense in retaining the structure."
+(6)	by a document dated 23 September 2015, Mrs Smith resigned as sole director of Fullarton Investments by signing a letter of resignation and transferred her shares in Fullarton Investments to Mr Steinert152.  Mrs Smith did not receive the $2 consideration for the transfer153.
+(7)	on 1 December 2015, the Memorandum of Lease between Fullarton Investments and the Commonwealth, with a commencement date of 1 July 2015 was executed by Mr Steinert as a director, and on behalf, of Fullarton Investments154;
+(8)	on 18 December 2015, Mr Steinert sent an email to Mr Day attaching an invoice from the Australian Securities and Investments Commission and an invoice from Wilson Colman155.  The invoice from Wilson Colman was directed to "Fullarton Investments Pty Ltd c/- Mr C Steinert".  The email stated that the invoices were for Mr Day to pay;
+(9)	on 12 March 2016, Mr Steinert, as director of Fullarton Investments, signed a form that was sent to the property agent for Department of Finance nominating Ms Joy Montgomery (Mr Day's executive assistant whilst he was a senator156) as the accounts contact for the lease in the name of Fullarton Investments, and nominating a bank account in the name "Fullarton Nominees" (including the bank account details) as the account into which the rent was to be paid157;
+(10)	on 29 December 2015, Mr Day sent an email to Senator Mathias Cormann, then the Special Minister of State158, attaching a letter which stated, in part: "I would like to request that the Department pay rent for the [Fullarton Road Property] starting 1.7.15 ie one year after my election".
+111 	In light of that evidence, I find that the arrangement continued to subsist and be implemented after 23 September 2015.
+(v)	Inconsistencies, the Vendor Finance Acknowledgement and the payment of rent
+112 	As stated earlier, the steps taken in connection with carrying the arrangement, and its intended purpose, into effect were not consistent with detailed planning or careful implementation.  The documents were not always consistent one with the other.  
+113 	Two documents, and the facts that they record, need to be considered separately.  
+114 	I have made a finding that another and related purpose of the arrangement was that the Fullarton Road Trust would hold the Fullarton Road Property, it would collect the rental allowance provided by the government and then pass the rent back to the Day Family Trust and there would be no profit or loss in the Fullarton Road Trust.  
+115 	That finding was made, in part, on the following paragraph of the email sent by Mr Rasera on 2 December 2013159:
+"The trust will simply hold the property and collect rent on a regular basis.  That rent will then pass back to the Day Family Trust so there will be no profit nor loss in the new trust."
+116 	As will be self-evident, how that term of the arrangement was to be implemented was not described or disclosed.  The documents that relate to or appear to concern the implementation of that term are not consistent one with the other.  
+117 	In particular, it is necessary to address the inconsistencies in the evidence as to whether the purchase of the Fullarton Road Property by Fullarton Investments was funded by vendor finance.
+118 	In relation to whether the purchase of the Fullarton Road Property by Fullarton Investments was funded by vendor finance, the evidence before the Court was that:
+(1)	on 24 April 2014, the agreement for the sale and purchase of Fullarton Road Property was executed whereby Fullarton Investments purchased the property from B&B Day for a recorded price of $2.1 million160;
+(2)	Mr Day has agreed that the cash consideration of $2.1 million has not in fact been paid to date161;
+(3)	the Fullarton Road Property was subject to a mortgage in favour of NAB registered on 11 November 2014162 but there is no evidence before the Court as to the identity of the borrower or the nature of the underlying indebtedness;
+(4)	on 29 November 2014, Mr Day sent an email to Mr Rasera in the following terms163:
+"Can you draw up a loan agreement between Fullarton Investments and B&B Day re the [Fullarton Road Property].  
+Basically the agreement should say Fullarton Investments owes B&B Day $2.1m".
+(5)	on 6 May 2015, Mr Day wrote an email to Mr Rasera saying164: 
+"Fullarton Investments ... owes B&B Day … $2.1m from the sale of [the Fullarton Road Property].  
+The bank valuation of [the Fullarton Road Property] is also $2.1m.
+The $1.5m loan is owed by B&B Day to the NAB.
+Can you check on the Stamp Duty rules regarding the transfer of shares to make sure the $2.1m debt off-sets the $2.1m asset so that no Stamp Duty is payable?"  
+(6)	the Balance Sheet (and the associated notes numbered 4 and 5) in the Management Report for Fullarton Investments (as trustee for the Fullarton Road Trust) for the year ended 30 June 2015 record that, as at 30 June 2015, Fullarton Investments had the following non-current liabilities:  an unsecured loan of $679,497.24 from the Day Family Trust and a secured loan of $1,500,000 from NAB165.  There is no evidence of that NAB loan before the Court.  However, Mr Day agreed that the Fullarton Road Property continued to be used to secure loans made by NAB to companies associated with Mr and Mrs Smith as well as Mr Day166;
+(7)	consistent with the preceding item, the Balance Sheet (and the associated note numbered 6) in the Management Report for B&B Day (as trustee for the Day Family Trust) for the year ended 30 June 2015, record a non-current asset described as an unsecured loan of $679,497.24 to the Fullarton Road Trust167;
+(8)	on 25 January 2016, Mr Day sent an email to the Department of Finance saying, relevantly: "In 2014 I sold the [Fullarton Road Property] to Fullarton Investments ... on a vendor finance basis.  I retained the NAB loan.  Fullarton Investments was to receive rent from the Commonwealth and then make vendor finance payments to me using those funds"168;
+(9)	on 29 August 2016, Mr Day responded by email to a series of questions Special Minister of State Ryan had asked him on 26 August 2016169.  
+Question 5 was: "Can you please provide a copy of the full repayment schedule for the [Fullarton Road Property] for Fullarton Investments ... ?  Are [sic] Fullarton Investments ... still bound to make repayments under the vendor finance arrangement if no rent is received?"170.  
+Mr Day's answer was: "There is no repayment schedule.  Fullarton Investments ... has a debt to B&B Day … equal to the purchase price (Fullarton Investments ... has provided a copy of its latest financial statement – see attached)"171.  
+Question 6 was: "Do you or any other party have the ability to repossess the property if Fullarton Investments ... fails to make its repayments under the vendor finance agreement?"172.  
+Mr Day's answer was, relevantly: "If the department does not pay rent to Fullarton Investments ... , Fullarton Investments ... does not have the ability to service the vendor finance payments"173;
+(10) 	on 21 September 2016174, Mr Rasera emailed Mrs Smith the Vendor Finance Acknowledgement, bearing the date 1 December 2014, which contained a single provision that read175:
+"This agreement acknowledges the provision of a Vendor Finance loan by B&B Day … to Fullarton Investments … in the sum of $2,100,000 to secure the purchase of the [Fullarton Road Property] …". (emphasis added)
+Mr Rasera's covering email relevantly stated: "Attached is a document which I neglected to get executed back in December 2014.  As you were Director of Fullarton Investments ... at that time, are you able to sign and return to me".  I find that the reference to "December 2014" is a reference to Mr Day's email of 29 November 2014, referred to in item (4) above;
+(11)	the Vendor Finance Acknowledgement was executed by Mrs Day as a director, and on behalf, of B&B Day and by Mrs Smith as a director, and on behalf, of Fullarton Investments.  
+119 	The parties agreed that the document was signed on about 21 September 2016176, and, in light of the email referred to in the previous item, I find that the Vendor Finance Acknowledgement was executed on or after 21 September 2016.  There was no evidence adduced that the Vendor Finance Acknowledgement was not executed and did not operate according to its terms – in its terms it was an acknowledgement of a prior agreement.  
+120 	On the state of the evidence before the Court, and despite the inconsistencies and deficiencies in that evidence, I am not persuaded to make the finding sought by Ms McEwen that the Vendor Finance Acknowledgement did not operate according to its terms177.  In particular, the evidence that on 29 November 2014178 (just 18 days after the transfer was registered) Mr Day sent an email to Mr Rasera asking him to prepare such an agreement contradicts that finding.  That email, read with the Vendor Finance Acknowledgement, is evidence contrary to Ms McEwen's submission that179:
+"these arrangements were being made up retrospectively as they went along.  There was never any such vendor finance loan, let alone any meeting of the minds with Fullarton Investments".  
+121 	It is neither appropriate nor necessary for me to determine the legal consequences (if any) of the factual findings and, for example, whether the loan recorded in the Vendor Finance Acknowledgement, which appeared to have no date for repayment, was "at call"180.  
+122 	The second matter is related to the vendor finance.  It does not concern inconsistencies in the evidence but the characterisation of facts not in dispute.  As indicated earlier, the Attorney‑General and Mr Day agreed, but Ms McEwen disputed, that that there was an agreement or understanding between B&B Day (as trustee for the Day Family Trust) and Fullarton Investments (as trustee for the Fullarton Road Trust) that Fullarton Investments (as trustee for the Fullarton Road Trust) would make repayments to B&B Day (as trustee for the Day Family Trust) from rent received from the Commonwealth181.  
+123 	I am not persuaded to make a finding that it was a "term" of the arrangement that Fullarton Investments (as trustee for the Fullarton Road Trust) would make repayments to B&B Day (as trustee for the Day Family Trust) from rent received from the Commonwealth.  As I have indicated, the evidence did not disclose that level of detail and it is neither necessary nor appropriate that I characterise the way in which it was proposed to deal with the rent as "repayments" or by some other label.
+124 	What the evidence before the Court discloses is, and I find, that:
+(1)	on 12 June 2015, Fullarton Investments sent to DTZ (the Commonwealth's leasing manager) a completed "Vendor Information" form.  Under the heading "Contact Information", the form recorded "[Mr] Day" as the contact name together with a phone number and an email address, being "bobday@77fullarton.com.au".  Under "Bank Account Details" it nominated "Fullarton Nominees", which is a business name owned by Mr Day182.  The form was signed by Mr Day as "Representative" of Fullarton Investments.  Mr Day also signed the covering letter, which was on "Fullarton" letterhead183;
+(2)	on 1 December 2015, the Memorandum of Lease of part of the Fullarton Road Property, with a commencement date of 1 July 2015, was executed by Fullarton Investments (as lessor) and the Commonwealth (as lessee)184.  The lease provided for annual rent of $66,540 plus GST to be paid in monthly instalments by the Commonwealth to "the account nominated by" Fullarton Investments185;
+(3)	on 26 February 2016, Ms Joy Montgomery provided the Department of Finance with a rental form directing the Commonwealth to pay the rent to "Fullarton Nominees" and giving its banking details186.  The form was in the name of Fullarton Investments and signed by Mr Steinert as director of Fullarton Investments187;
+(4)	on 22 March 2016, Ms Montgomery sent two tax invoices to the Department of Finance's property services provider, dated 22 March 2016, on the letterhead of Fullarton Investments.  The first was for rent "arrears payment for 1 July 2015 – 30 March 2016" and showed the amount due as $54,895.50.  The second was for rent for the period "1 April ­ 31 May 2016" and showed the amount due as $6,099.50.  The invoices described the bank details for payment as "Fullarton Nominees".  The invoices were sent under cover of an email from "Joy Montgomery [o]n behalf of Fullarton Investments Pty Ltd".  Ms Montgomery's email address was shown as "jmontgomery@77fullarton.com.au"188;
+(5)	on 25 August 2016, Ms Montgomery sent a further invoice to the Department of Finance for rent for the period "15 August 2016 – 14 September 2016", which showed the amount due as $6,099.50.  On 9 September 2016, Ms Montgomery sent another invoice to the Department of Finance's property services provider for rent for the period "15 September 2016 – 14 October 2016" which showed the amount due, with arrears, as $12,199.00.  These further invoices also described the bank details for payment as "Fullarton Nominees"189;
+(6)	the parties have agreed that Fullarton Nominees is a business name owned by Mr Day190 and has been described by Mr Day as the "owner" of the bank account into which rental payments were to be made191;
+(7)	counsel for Mr Day accepted that the only available inference was that that the Fullarton Nominees bank account into which rental payments were to be made was owned by Mr Day192.
+There is nothing to suggest that these arrangements would not have continued.
+(vi)	Other Evidentiary Facts that Ms McEwen asked to be found in relation to the "Arrangement" for which she contended
+125 	Against that background, it is appropriate to consider some of the other factual findings that Ms McEwen asked be made.  
+126 	Evidentiary Fact 9 – The purpose for the arrangement proposed by Mr Rasera was expressed to be "to remove the [Fullarton Road Property] from Day family members and any entity in which [Mr Day] has an interest" – is agreed by Mr Day and is found193.  
+127 	It is important to record that the finding (and the agreement about the finding) extends to the arrangement proposed by Mr Rasera in his 2 December 2013 email (which is a basis of the Court's earlier finding at [97]) and not the Arrangement contended for by Ms McEwen.  
+128 	Evidentiary Fact 11 – The Arrangement was put into effect when, in addition to the other steps that have been agreed: (a) on 24 April 2014 a purported contract for the sale of the Fullarton Road Property to Fullarton Investments was signed; (b) on 11 November 2014, a fresh mortgage was granted over the Fullarton Road Property by Fullarton Investments to NAB to secure a loan from NAB to a member of the Home Australia Group – is not found.  
+129 	Evidentiary Fact 11 is dependent on a positive finding in relation to Evidentiary Fact 10.  However, for the reasons already set out, Evidentiary Fact 10 is not found.  In particular, the Arrangement contended for by Ms McEwen is not found.  Moreover, contrary to the assertion in Evidentiary Fact 11, there was no evidence that would provide a basis for finding that the contract for the sale of the Fullarton Road Property to Fullarton Investments, dated 24 April 2014, could properly be called a "purported" contract.  It was executed by both parties and a memorandum of transfer was registered and the sale was perfected194.
+(c)	Fullarton Investments
+130 	Ms McEwen asked the Court to make a number of other findings relating to Fullarton Investments.  They were relevantly listed as Evidentiary Facts 12 to 22.  It is appropriate to address those matters at this point in the judgment.  
+131 	Evidentiary Fact 12 – The cost of incorporation of Fullarton Investments was not paid by Mr or Mrs Smith and it is to be inferred that this cost was paid by B&B Day or Mr Day – is not found.  However, I make the following findings.
+132 	Mr and Mrs Smith gave evidence, which I accept, that they did not pay the cost of incorporation of Fullarton Investments.  In addition, Mr Smith's evidence was, and I find, that when he said to Mr Day that his proposal was "fine" so long as there were no costs or expenses that he (Mr Smith) would have to pay, Mr Day responded by saying words to the effect that "he'd take care of everything"195.  
+133 	Evidentiary Fact 13 – Fullarton Investments did not pay the $2.1 million consideration (or any amount) to B&B Day in connection with the transfer of the Fullarton Road [P]roperty to Fullarton Investments – is not found.  A more limited finding is made.  Mr Day has agreed that the cash consideration of $2.1 million has not in fact been paid to date196.  The question of the payment of the purchase price has been addressed in Part F(3)(b)(v) above and the findings in that Part are relevant to this Evidentiary Fact.
+134 	Evidentiary Fact 14 – No request for any payment by Fullarton Investments has been made by B&B Day since the transfer of the Fullarton Road [P]roperty to Fullarton Investments – is not found.  There is no evidence of these matters before the Court.  
+135 	The parties have agreed, and I find, that no rental payments have ever been made by the Commonwealth for the premises at the Fullarton Road Property197.  In addition, the facts and matters in Part F(3)(b)(v) above and the findings in that Part are relevant to this Evidentiary Fact.
+136 	Evidentiary Fact 15 – Despite the heading "Agreement" in the "vendor finance loan", there are no terms for the purported agreement recorded in the document signed on or about 21 September 2016 (eg as to interest, repayment obligations, the consequences of failure to make payments, termination, or otherwise).  No agreement recording such terms exists – is not found.  
+137 	The facts and matters in Part F(3)(b)(v) above and the findings in that Part are relevant to this Evidentiary Fact.
+138 	Evidentiary Fact 16 – The purported "vendor finance loan" in the amount of $2.1 million is not recorded in the Management Accounts for Fullarton Investment[s] for the year ending 30 June 2015, which only records an unsecured loan of $679,497.24 from the Day Family Trust – is not found.  The facts and matters in Part F(3)(b)(v) above and the findings in that Part are relevant to this Evidentiary Fact.
+139 	Evidentiary Fact 17 – Nor is a loan in the amount of $2.1 million recorded in the financial accounts for B&B Day as trustee for the Day Family Trust.  Rather, those accounts record an unsecured loan for $679,497.24 to the Fullarton Road Trust – is found.  The facts and matters in Part F(3)(b)(v) above and the findings in that Part are relevant to this Evidentiary Fact.
+140 	As stated above, the Balance Sheet (and the associated note numbered 6) in the Management Report for B&B Day (as trustee for the Day Family Trust) for the year ended 30 June 2015198 record, and I find that they record, an unsecured loan of $679,497.24 to the Fullarton Road Trust as a non-current asset199.
+141 	Evidentiary Fact 18 – Notwithstanding that the contract of sale records that Fullarton Investments agreed to pay $2.1 [million] for the Fullarton Road [P]roperty and that the transfer of land records that Fullarton Investments had paid $2.1 million for the Fullarton Road Property, as Mr Day, Mrs Smith and Mr Rasera knew, Fullarton Investments did not have, and would never have, the capacity to pay $2.1 million to B&B Day (emphasis added) – is not found.  
+142 	The evidence adduced does not persuade me that Mr Day, Mrs Smith and Mr Rasera knew that Fullarton Investments did not have, and would never have, the capacity to pay $2.1 million to B&B Day.  
+143 	There are also a number of other facts and matters that do not support the finding.  First, there could have been no doubt that the Commonwealth would honour any rental obligations due under any lease it might have entered into (which might have been used to pay the $2.1 million).  Second, if the Commonwealth did not enter into the lease, the Fullarton Road Property could still have been let with rent being used to fund the purchase.  Third, there were other offices available for other tenants to lease in the Fullarton Road Property200.  Fourth, the debt could have been paid by the sale of the Fullarton Road Property.  
+144 	Evidentiary Fact 19 – Mrs Smith had no knowledge of any vendor finance loan until she was emailed the document by Mr Rasera on 21 September 2016201 – is not found.  The facts and matters in Part F(3)(b)(v) above and the findings in that Part are relevant to this Evidentiary Fact.
+145 	Evidentiary Fact 20 – Notwithstanding what is recorded in the contract of sale, the transfer and the "vendor finance loan", neither Mr Day (and through him B&B Day) nor Mrs Smith intended that the $2.1 million would be paid to B&B Day (emphasis added) – is not found.  There is no evidence of these matters before the Court.  The facts and matters in Part F(3)(b)(v) above and the findings in that Part are relevant to this Evidentiary Fact.
+146 	Evidentiary Fact 21 – Following the transfer of the Fullarton Road [P]roperty: (a) B&B Day or Mr Day paid fees associated with Fullarton Investments, including the ASIC annual registration fee; (b) B&B Day or Mr Day paid all outgoings owing in respect of the Fullarton Road [P]roperty, and Fullarton Investments did not do so; and (c) the Fullarton Road [P]roperty continued to be used to secure loans made by NAB to companies associated with Mr Day – is the subject of the following findings only.  There is no evidence of the other matters before the Court.  
+147 	Mr Day admitted par (a) and it is found202.  In addition, Mr Day also agreed that:
+(1)	B&B Day or Mr Day paid (1) the stamp duty for the transfer of the Fullarton Road Property; (2) the fee on registration of the transfer; and (3) the conveyancers' professional fees203; and 
+(2)	since the transfer of the Fullarton Road Property to Fullarton Investments, all outgoings in relation to the property have been paid by the Home Australia Group, the Family First Party, B&B Day, Mr Day and the Bert Kelly Research Centre204.  
+148 	In relation to par (c), Mr Day has agreed that the Fullarton Road Property continued to be used to secure loans made by NAB to companies associated with Mr and Mrs Smith as well as Mr Day205.  
+149 	Evidentiary Fact 22 – Mr Day directed the preparation of the management accounts for Fullarton Investments – is not found.  There is no evidence of these matters before the Court.  
+150 	The fact that there is an email dated 30 August 2015 from Mr Day to Mr Rasera asking "How are the Fullarton Investments accounts going?"206 does not establish the finding that Ms McEwen asked to be made.
+(d)	The lease
+151 	Ms McEwen also asked the Court to make a number of other findings relating to the lease between Fullarton Investments and the Commonwealth.  They were relevantly listed as Evidentiary Facts 23 to 30.  It is appropriate to address those matters at this point in the judgment.  
+152 	Evidentiary Fact 23 – The Heads of Agreement between Fullarton Investments and the Commonwealth was executed by Mrs Smith at Mr Day's direction (emphasis added) – is not found.  There is no evidence of these matters before the Court.  In particular, Ms McEwen's reference to and reliance on the "terms and nature of the Arrangement", as well as its purpose, does not assist.  The Arrangement and the purpose of that Arrangement as contended for by Ms McEwen were not the subject of a positive finding207.  
+153 	Evidentiary Fact 24 – Mrs Smith transferred her shares to Mr Steinert at Mr Day's direction, after Mr Smith and Mr Day decided to separate their business affairs (emphasis added) – is not found.  The facts and matters in Part F(3)(b)(iv) above and the findings in that Part are relevant to this Evidentiary Fact.
+154 	Evidentiary Fact 25 – Mr Steinert acquired the shares in Fullarton Investments knowing of the advice referred to in [Evidentiary Fact 8] and the terms of Arrangement, which he adopted (emphasis added) – is not found.  There is no evidence of these matters before the Court.  In particular, Ms McEwen's reference to and reliance on the "terms of [the] Arrangement" does not assist.  The Arrangement as contended for by Ms McEwen was not the subject of a positive finding of fact208.  The facts and matters in Part F(3)(b)(iv) above and the findings in that Part are also relevant to this Evidentiary Fact.
+155 	Evidentiary Fact 26 – Mr Day approved the terms of the lease entered into between the Commonwealth and Fullarton Investments on 1 December 2015 – was agreed to by Mr Day, and is found.  
+156 	Evidentiary Fact 27 – Mr Steinert executed the lease on behalf of Fullarton Investments at the direction of Mr Day (emphasis added) – is not found.  There is no evidence of these matters before the Court.  The facts and matters in Part F(3)(b)(iv) above and the findings in that Part are also relevant to this Evidentiary Fact. 
+157 	Evidentiary Fact 28 – Under the lease Fullarton Investments was entitled to direct the Commonwealth to pay rent to any person – was agreed to by Mr Day, and is found.  
+158 	The lease provided for annual rent of $66,540 plus GST to be paid in monthly instalments by the Commonwealth to "the account nominated by" Fullarton Investments209.  The nomination of this account is addressed earlier in these reasons at [124] above.
+159 	Evidentiary Fact 29 – Ms Montgomery sent the rental form directing the Commonwealth to pay the rent to "Fullarton Nominees" (being Mr Day's bank account) and the two invoices directing rent to be paid to "Fullarton Nominees" at Mr Day's direction (emphasis added) – is not found.  
+160 	There is no evidence that any of the acts alleged were done at Mr Day's direction.  The facts and matters in Part F(3)(b)(v) above and the findings in that Part are also relevant to this Evidentiary Fact.
+161 	Evidentiary Fact 30 – The correspondence sent by Ms Montgomery to the Department of Finance in June 2015 and October 2016 referred to at Agreed Facts 57 and 68 was sent at Mr Day's direction (emphasis added) – is not found.  There is no evidence of these matters before the Court.  The facts and matters in Part F(3)(b)(v) above and the findings in that Part are also relevant to this Evidentiary Fact.
+(e)	Conclusion about Ultimate Finding 32
+162 	For all those reasons, I am not persuaded that the specific documentary and other bases that were said by Ms McEwen to support a finding of Ultimate Finding 32 were established.  I am not persuaded that the limited findings that are made support that Ultimate Finding.  The finding is not made.  
+(4)	Ultimate Finding 33 – At all times since its incorporation, the shares in Fullarton Investments have been held on trust for B&B Day as trustee for the Day Family Trust
+163 	I am not persuaded that the evidence referred to and relied upon by Ms McEwen establishes that, at all times since its incorporation, the shares in Fullarton Investments have been held on trust for B&B Day as trustee for the Day Family Trust.  Again, the finding sought is imprecise.  Held on trust by whom?  Presumably, by the registered shareholder of Fullarton Investments.
+164 	Two specific bases that were said by Ms McEwen to support Ultimate Finding 33 – first, the Arrangement and its purpose and, second, that B&B Day (or Mr Day) paid for the incorporation of Fullarton Investments210.  
+165 	The Arrangement was not found211.  Evidentiary Fact 12, the second basis, was not found212.  Ultimate Finding 33 will not be made.
+(5)	Ultimate Finding 34 – The Fullarton Road [P]roperty is held by Fullarton Investments in its capacity as trustee for B&B Day as trustee for the Day Family Trust 
+166 	There is no evidence of these matters before the Court.  Mr Day agreed, and it is found213, that the Fullarton Road Property is held by Fullarton Investments as trustee for the Fullarton Road Trust.  That agreement is consistent with the evidence before the Court214.  Ultimate Finding 34 is not found.
+(6)	Ultimate Finding 35 – Alternatively, the Fullarton Road [P]roperty is held by Fullarton Investments as trustee for the Fullarton Road Trust
+167 	Mr Day agreed, and it is found, that the Fullarton Road Property is held by Fullarton Investments as trustee for the Fullarton Road Trust. 
+(7)	Ultimate Finding 36 – If it is found that Fullarton Investments holds the Fullarton Road [P]roperty as trustee for the Fullarton Road Trust, it would deal with the Fullarton Road [P]roperty for the benefit only of one of its beneficiaries, the Day Family Trust
+168 	This fact is not found.  First, there is no evidence of these matters before the Court.  Second, it is too imprecise.  Third, the parties agreed, and I accept, that the agreements and documents referred to in the Agreed Facts and the Agreed Documents were made and performed.  The fact sought is contrary to the terms of the Deed establishing the Fullarton Road Trust and, in particular under the terms of that Deed, that the trustee, Fullarton Investments, has a number of absolute and uncontrolled discretions215.
+(8)	Ultimate Finding 37 – The rent payable by the Commonwealth under its lease of the Fullarton Road [P]roperty was to be paid to B&B Day or to Mr Day (emphasis added)
+169 	This fact is not found.  
+170 	I am not persuaded to find that the rent payable by the Commonwealth under the lease of the Fullarton Road Property was to be paid to B&B Day or to Mr Day.    
+171 	During the final submissions at trial216, counsel for Ms McEwen submitted that a more limited finding should be made – that from at least 12 June 2015, the rent payable by the Commonwealth under the lease was to be paid to B&B Day or to Mr Day.  That more limited finding is also not made.  The finding sought is too compressed217.  The facts and matters in Part F(3)(b)(v) above and the findings in that Part are relevant to this Evidentiary Fact.  
+(9)	Evidentiary Facts not referred to or relied upon in relation to any Ultimate Finding under Issue 1
+172 	Evidentiary Fact 2 – Mr Day has at all material times been a creditor of B&B Day in its capacity as trustee for the Day Family Trust – was the initial finding sought by Ms McEwen.  It is not found.   
+173 	As at the years ended 30 June 2013, 2014 and 2015, Mr Day was recorded in the financial statements for B&B Day (as trustee for the Day Family Trust) as owing over $1.5 million, over $2.2 million and over $2.6 million respectively to B&B Day in its capacity as trustee for the Day Family Trust218.  He was a debtor.
+174 	During the final submissions at trial, counsel for Ms McEwen sought a different finding – Mr Day has at all material times been a creditor or debtor of B&B Day in its capacity as trustee for the Day Family Trust219.  In light of the financial statements referred to in the preceding paragraph, I find that as at the years ended 30 June 2013, 2014 and 2015, Mr Day was a debtor of B&B Day in its capacity as trustee for the Day Family Trust.
+175 	Evidentiary Fact 3 – In the years the Day Family Trust earned a profit, the profit was distributed to Mr Day and Mrs Day – was the finding initially sought by Ms McEwen.  The Agreed Documents220 referred to and relied upon by Ms McEwen did not support such a finding.  
+176 	For example, for the year ended 30 June 2012, contrary to Ms McEwen's contentions221, the trust did not distribute "the whole of its income ($248,398.99) and some capital" to Mr Day (in the sum of $709,652.22) and Mrs Day (in the sum of $333,042.80).  The Income and Expenditure Statement for B&B Day (as trustee for the Day Family Trust) for the year ended 30 June 2013 records that, as at 30 June 2012222:
+(1)	total income was $327,604.27;
+(2)	the net profit was $91,308.67;
+(3)	the accumulated income at the beginning of the 2012 year was $157,089.52;
+(4)	the total available for distribution to beneficiaries was $248,398.19 but there was no distribution to beneficiaries of that sum; and
+(5)	the total accumulated income was $248,398.19.
+177 	That there was no distribution to beneficiaries of the total available for distribution in the 2012 year is confirmed in the same Income and Expenditure Statement, which records that, at the beginning of the 2013 year, there was "accumulated income" of $248,398.19223, as well as in the Balance Sheet for B&B Day (as trustee for the Day Family Trust) as at 30 June 2013, which records undistributed profits in the same amount for 2012224.
+178 	The Notes to the Financial Statements for B&B Day (as trustee for the Day Family Trust) for the year ended 30 June 2013 do record distributions to Mr Day (in the sum of $709,652.22) and Mrs Day (in the sum of $333,042.80) in both the 2012 and 2013 years225.  But the note at which those distributions are recorded (note 7) is inconsistent with the Income and Expenditure Statement for B&B Day (as trustee for the Day Family Trust) as at 30 June 2013, which records no "Distribution to Beneficiaries" in the 2012 year and an amount of $1,364,150.99 in the 2013 year226.  
+179 	The position is further complicated by the form and contents of the Management Report for B&B Day (as trustee for the Day Family Trust) for the year ended 30 June 2014227, which appear to be inconsistent with the Income and Expenditure Statement for B&B Day (as trustee for the Day Family Trust) for the year ended 30 June 2013 referred to above.  In the financial statements, the second page headed "Profit and Loss Statement" for the year ended 30 June 2014228 records that in the 2013 year there was a profit available for distribution of $1,115,752.80, that distributions were made to Mr Day (in the sum of $709,652.22) and Mrs Day (in the sum of $333,042.80) and that there were retained earnings of $73,057.78.  The distributions there recorded to Mr and Mrs Day reflect those recorded in note 7, which were described above.  As is self‑evident, it is not possible to reconcile these financial statements229.  
+180 	On the final day of the hearing, by reference to those matters just identified, Ms McEwen asked the Court to instead make a finding that:  "The Day Family Trust made distributions to Mr and Mrs Day from time to time"230.  Mr Day did not object to that finding being made.  However, having regard to the inconsistencies between the documents, it is not possible to make specific findings about the timing and amount of the distributions.
+181 	Evidentiary Fact 4 – That policy [the one described in Evidentiary Fact 3] was likely to continue – was the finding Ms McEwen initially sought.  It is not found.  On the final day of the hearing it was amended to read231:  "There was a reasonable expectation that this would continue".  That finding is not made.  The "this" refers to Evidentiary Fact 3 (as amended), which was a finding lacking specificity for the reasons set out above, and has not been made.  In any event, the amended Evidentiary Fact 4 is, at best, speculative.  
+182 	Evidentiary Fact 5 – B&B Day acquired the Fullarton Road [P]roperty for $2.1 million plus GST of $210,000 by a transfer dated 27 June 2011 and lodged for registration on 30 June 2011 – is found.  This fact is not in dispute.  It is recorded in the Agreed Documents232.  Mr Day submitted that the transfer was not registered until 18 July 2011.  That submission is supported by the same Agreed Documents and I make that finding.
+183 	Evidentiary Fact 6 – By late 2013, or at some point before 24 February 2014 and again sometime before 20 March 2014, the Commonwealth told Mr Day that it would not take a lease of the [F]ullarton Road Property unless Mr Day disposed of his interest in the property – is not found.  
+184 	During the final submissions at trial233, that fact was refined and limited to "by late 2013".  That amended Evidentiary Fact 6 is not found.  "Disposed of his interest" is vague and the documentary and other bases identified by Ms McEwen do not assist.  
+185 	Mr Day agreed, and I find, that "from late 2013, Mr Day believed that the Commonwealth was likely to be unwilling to lease the Fullarton Road Property while Mr Day, or an entity he owned, owned the fee simple"234.  In addition, the following facts and matters are found:
+(1)	a ministerial submission to the Special Minister of State dated 24 February 2014 stated that "Senator-elect Day has indicated to Finance that he has a financial interest in the building of his current work premises and that if he was allowed to remain at [the Fullarton Road Property], he would sell the building and make it a condition of sale that the new owner lease his office to the Commonwealth"235;
+(2)	on 20 March 2014, Senator Michael Ronaldson, then the Special Minister of State, wrote to Mr Day stating: "I confirm your advice to me that you have disposed of your interest in [the Fullarton Road Property]"236; and 
+(3)	on 25 March 2014, Mr Day emailed Mr Steinert stating: "The Government has given approval for me to locate my Senate office at Fullarton Road - subject to me disposing of my interest in [the Fullarton Road Property]"237.  
+186 	Evidentiary Fact 7 – From late 2013, Mr Day believed that the Commonwealth would not take a lease of the Fullarton Road [P]roperty while Mr Day or his company had some kind of interest in the Fullarton Road [P]roperty – is not found.  
+187 	During the final submissions at trial238, counsel for Ms McEwen sought to replace the phrase "some kind of" interest with "an ownership or financial" interest.  That amended finding is also not found.  
+188 	The finding sought (whether in its original or amended form) is vague both as to the nature of the interest, and the party or parties that are said to have held such an interest.  That conclusion is reinforced by the documentary material on which Ms McEwen sought to rely.  For example, the email dated 25 March 2014 from Mr Day to Mr Steinert in which Mr Day talks about "disposing of [his] interest", does not identify the nature of that interest239.  
+189 	However, as noted above, Mr Day agrees, and I find, that "from late 2013, Mr Day believed that the Commonwealth was likely to be unwilling to lease the Fullarton Road Property while Mr Day, or an entity he owned, owned the fee simple240. 
+G.	Issue 2 – Mr Day's statement and declaration in nominating for the Senate in 2016
+(1)	Overview of Ultimate Findings
+190 	Seven Ultimate Findings were sought.  In addition, 11 Evidentiary Facts were sought.  Given the nature of the findings sought, it is necessary and appropriate to consider Ultimate Findings 51, 52, 54 and 55 first.
+(2)	Ultimate Findings 51, 52, 54 and 55
+191 	The findings that Ms McEwen asked to be found were:
+"51.	Mr Day knew that following the transfer of the Fullarton Road [P]roperty to Fullarton Investments he: (a) retained a financial interest in the Fullarton Road [P]roperty; (b) had a financial interest in the lease.
+52.	Mr Day knew from at least 16 February 2016 (or alternatively from at least 2 June 2016, when he submitted the forms at [CB 1(319-324)]), that by reason of his interest in the lease to the Commonwealth there was a serious risk that he might be disqualified241, to be chosen or sit as a Senator by reason of s 44(v) of the Constitution.
+…
+54.	At the time Mr Day made the statement identified at AF [73(b)] that he was not, by virtue of s 44 of the Constitution, incapable of being chosen or of sitting as a Senator and when he declared that he was qualified under the Constitution to be elected as a Senator Mr Day:
+(a) 	was recklessly indifferent as to whether the statement and declaration were true;
+(b) 	had no real belief in the truth of what he stated in the statement and declaration regarding his qualification under the Constitution to be elected as a Senator and knew that the declaration and statement were not true in that respect.
+55.	Mr Day made the statement and declaration with the intention (among others) of inducing, which statement and declaration did induce, the electoral officer to include Family First's group, comprising [Mr] Day and Ms Gichuhi, on the ballot paper above the line." (emphasis added)
+192 	In her contentions to the Full Court on the Reference, Ms McEwen submits, among other things, that by Mr Day's Statement and Declaration242, he declared himself to be qualified to be elected243.  Ms McEwen further submits that one consequence of the Statement and Declaration was that Mr Day induced the electoral officer to make provision for above the line voting for Family First (a group of which Mr Day was a member and the first-listed candidate)244.  
+193 	Ms McEwen says that Mr Day induced that result knowing that he "maintained a pecuniary interest in" the Fullarton Road Property and that the Commonwealth had entered into a lease over part of that property and "thus he was recklessly indifferent as to whether the [S]tatement and [D]eclaration were true" (emphasis added)245.  Ms McEwen characterised the procurement of that result as a fraud for public law purposes246.
+194 	As developed in argument, the additional finding which McEwen sought (though variously expressed) was that Mr Day knew that he was incapable of being chosen or of sitting as a senator because Mr Day knew that despite, or perhaps because of, the transactions which had been made there was a serious risk that he might be disqualified under s 44(v) of the Constitution247.  The references which Ms McEwen made to "reckless indifference" were all predicated on the premise that Mr Day knew that he maintained a pecuniary interest in the Fullarton Road Property.  
+195 	The evidence adduced does not persuade me that Mr Day knew that there was a serious risk that he might be disqualified under s 44(v) of the Constitution.  Nor am I persuaded that he was recklessly indifferent as to whether the Statement and Declaration were true, and that he had no real belief in the truth of them and knew that they were not true.  
+196 	A readily available competing conclusion (and the one more likely on the evidence before the Court) is that Mr Day thought that, as a result of the steps taken and the transactions entered into, he was not disqualified.  There is no direct evidence to the contrary of the competing conclusion and it is, in my view, the more probable view of the facts. 
+197 	For those reasons, I am not persuaded to find Ultimate Findings 51, 52, 54 and 55.
+198 	For the same reasons, Evidentiary Fact 38 – Mr Day's purpose in entering the Arrangement was (a) to make it appear that he did not have a pecuniary interest in, and control of, the Fullarton Road [P]roperty, whilst in fact maintaining a pecuniary interest and control; and (b) to create that perception so that the Commonwealth would enter into a lease of part of the Fullarton Road property for his office as a senator (emphasis added) – is not found.  
+199 	During the final submissions at trial, Ms McEwen's counsel sought to amend the finding to insert "financial" instead of "pecuniary" in the proposed finding.  I refuse to make that amended finding. 
+200 	As stated earlier, I am not persuaded that the evidence establishes that the Arrangement contended for by Ms McEwen was entered into248.  In any event, even if the evidence did establish the Arrangement (and it does not), I am not persuaded that the evidence establishes that Mr Day's purpose in entering that Arrangement (or the arrangement I have found) was: (a) to make it appear that he did not have a pecuniary interest in, and control of, the Fullarton Road Property, whilst in fact maintaining a pecuniary interest and control; and (b) to create that perception so that the Commonwealth would enter into a lease of part of the Fullarton Road [P]roperty for his office as a senator.  
+201 	As already stated, a readily available competing conclusion (and the one more likely on the evidence before the Court) is that Mr Day thought that as a result of the steps taken and the transactions entered into, he was not disqualified.  There is no direct evidence to the contrary of the competing conclusion and it is, in my view, the more probable view of the facts.  
+(3)	Ultimate Finding 49 – Mr Day knew that prior to the transfer of the Fullarton Road [P]roperty to Fullarton Investments: (a) he had a financial interest in the Fullarton Road [P]roperty and (b) he would, unless he disposed of that interest, have a financial interest in any lease with the Commonwealth in respect of the Fullarton Road [P]roperty (emphasis added).
+202 	Given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation to Ultimate Finding 49 and I refuse to do so.  In any event, there was no finding that the Arrangement contended for by Ms McEwen was made249.
+ (4)	Ultimate Finding 50 – Mr Day's knowledge of the effect of the Arrangement 
+203 	Given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation the Ultimate Finding 50 and I refuse to do so.  
+(5)	Ultimate Finding 53 – Mr Day did not seek advice from an appropriately qualified person on his potential disqualification under s 44(v) based on a true and full disclosure of the arrangements between himself, Mr Smith, Mrs Smith, and Fullarton Investments regarding Fullarton Investments or the Fullarton Road Property
+204 	Given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation to Ultimate Finding 53 and I refuse to do so.  
+(6)	Evidentiary Facts not referred to or relied upon in relation to any Ultimate Finding
+205 	Evidentiary Fact 39 – Sometime in the week before 20 March 2014, Mr Day informed the Special Minister of State that he had disposed of his or his company's interest in the Fullarton Road [P]roperty (emphasis added) – is not found.  
+206 	The finding sought is imprecise.  Agreed Fact 13 is in the following relevant terms250:
+"In a letter to Mr Day dated 20 March 2014, Senator Ronaldson noted that 'I confirm your advice to me that you have disposed of your interest in the [Fullarton Road Property]'.  The letter also noted that Senator Ronaldson was prepared to give further consideration to Mr Day's proposal to remain in the [Fullarton Road Property], but subject to certain conditions, including that rent on the [Fullarton Road Property] space would not be charged for the remaining period of the existing lease on 19 Gilles Street and that there will be no offset if the Commonwealth is successful in sub‑leasing the office at Gilles Street."  (emphasis added)
+The letter251 contains the italicised statement. 
+207 	Evidentiary Fact 40 – The statement recorded in Agreed Fact 13 was false (or, alternatively, misleading) – is not made.  
+208 	Ms McEwen submitted that the italicised statement in the letter referred to in Evidentiary Fact 39 was, at least, misleading in at least two respects252.  First, she submitted that the phrase "had disposed of" was misleading because, as at 20 March 2014, there had been no disposal.  Second, she submitted that the statement was misleading because Mr Day "retained an ongoing financial interest" in the Fullarton Road Property.  
+209 	The following evidence referred to and relied upon by Ms McEwen does not persuade me to make those findings and I do not make them:
+	(1)	on 25 March 2014, Mr Day sent an email to Mr Steinert253 asking him to prepare a contract for sale of the Fullarton Road Property from B&B Day to Fullarton Investments for a sale that was "negotiated and agreed to in December" 2013 with settlement on 18 June 2014; and
+	(2)	on 24 April 2014, an agreement for the sale and purchase of the Fullarton Road Property was executed whereby Fullarton Investments purchased the property from B&B Day for a recorded price of $2.1 million254.
+210 	Moreover, given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation to Evidentiary Fact 40 and I refuse to do so.  
+211 	Evidentiary Fact 41 – At various other times in 2014, Mr Day also told the Commonwealth that he had disposed or would dispose of his or his company's interest in the property – is found.  Mr Day admits this fact.
+212 	Evidentiary Fact 42 – Each of the statements referred to in Evidentiary Fact 41 was false (or, alternatively, misleading) – is not found.  
+213 	Given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation to Evidentiary Fact 42 and I refuse to do so.  
+214 	Evidentiary Fact 43 – Mr Day told the Department of Finance on 25 January 2016 that B&B Day had provided vendor finance to Fullarton Investments.  This implied (and was intended to mean) that Fullarton Investments had borrowed money from B&B Day which it was required to repay.  This was false (or, alternatively, misleading) – is not found.  
+215 	Mr Day admits, and I find, that on 25 January 2016, Mr Day told the Department of Finance that255:
+"In 2014 I sold the [Fullarton Road Property] to Fullarton Investments … on a vendor finance basis.  I retained the NAB loan.  Fullarton Investments was to receive rent from the Commonwealth and then make vendor finance payments to me using those funds.  No rent, no vendor finance payments. …"
+216 	Given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make any other finding in relation to Evidentiary Fact 43 and I refuse to do so.  
+217 	Evidentiary Fact 44 – At various times after 25 January 2016, Mr Day repeated that vendor finance had been provided, including on 4 August 2016 (to the Special Minister of State) and 29 August 2016 (to the Special Minister of State).  This was false (or, alternatively, misleading) – is found, in part.  
+218 	The parties agreed, and I find, that at various times after 25 January 2016, Mr Day repeated that vendor finance had been provided, including on 4 August 2016 (to the Special Minister of State) and 29 August 2016 (to the Special Minister of State)256. 
+219 	Given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation to the balance of Evidentiary Fact 44 and I refuse to do so.
+220 	Evidentiary Fact 45 – By at least 16 February 2016, Mr Day had become aware that, by reason of the lease between Fullarton Investments and the Commonwealth, he was potentially disqualified from being chosen or of sitting as a senator by means of s 44(v) of the Constitution – is not found.  
+221 	However, Mr Day admitted, and I find, that on or before 16 February 2016, Mr Day had become aware that a question had arisen as to whether the lease between Fullarton Investments and the Commonwealth engaged s 44(v) of the Constitution.  
+222 	Mr Day referred and relied upon an email dated 16 February 2016 sent by Mr Day to a Mr David Fredericks257 which read258:  
+"As discussed, I have researched the question as to whether I have a pecuniary interest in the (lease) agreement which the Commonwealth has with Fullarton Investments … and am satisfied that I do not.  I base this on information I have obtained from the Parliamentary Library (see below) and my own assessment that any business arrangements I may have with Fullarton Investments does not create a pecuniary interest between me as a Senator and the Commonwealth.  Applying the logic of the case cited below, if individual contracts awarded to a Senator's family company were found to be outside the scope of S44, then a property lease with a company which may have business contracts with a Senator's family company must surely be even more outside the scope of s44."
+223 	The email then set out an extract that referred to the scope of s 44(v) and then quoted from the judgment of Barwick CJ in Re Webster259.  
+224 	Given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation to Evidentiary Fact 45 and I refuse to do so.
+225 	Evidentiary Fact 46 – Mr Day had been told of his potential disqualification by the Department of Finance prior to 16 February 2016 – is not found. 
+226 	Ms McEwen submitted that the finding should be inferred from the contents of the 16 February 2016 email sent by Mr Day to Mr Fredericks extracted in relation to Evidentiary Fact 45260.  That email does not persuade me that I should find that Mr Day "had been told of his potential disqualification by the Department of Finance prior to 16 February 2016".  The email records, as Mr Day accepts, that on or before 16 February 2016, Mr Day had become aware that a question had arisen as to whether the lease between Fullarton Investments and the Commonwealth engaged s 44(v) of the Constitution.  Whether that question concerned "potential disqualification" and, further, he had been told of that possibility by the Department of Finance is not established.
+227 	Moreover, given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation to Evidentiary Fact 46 and I refuse to do so.
+228 	Evidentiary Fact 47 – Sometime around 16 February 2016, Mr Day sought, and was provided with, information from the Parliamentary Library relating to his qualification to be chosen as or to sit as a Senator – is found.  It is agreed261.
+229 	Evidentiary Fact 48 – Mr Day did not provide the Parliamentary Library with the details of the Arrangement or his (or his company's) interest in the Fullarton Road [P]roperty for the purposes of obtaining that information referred to in Evidentiary Fact 47 – is not found.  
+230 	There is no evidence before the Court of what Mr Day disclosed to, or asked, the Parliamentary Library.  As the heading indicates, this Evidentiary Fact was not referred to or relied upon by Ms McEwen in support of the Ultimate Findings 31 to 37.
+231 	Ms McEwen submitted that the finding was to be inferred from the contents of the email dated 16 February 2016 sent by Mr Day to Mr Fredericks which has been extracted in relation to Evidentiary Fact 45 above262.  
+232 	Contrary to Ms McEwen's submissions263, that document does not provide a sufficient foundation for inferring that Mr Day did not provide "full disclosure" (whatever that entailed) to the Parliamentary Library.  The email records that Mr Day researched the question whether he had a pecuniary interest in the lease by reference to "information" obtained from the Parliamentary Library and his "own assessment".  The email does not record what information he provided to the Parliamentary Library or whether the whole of the information provided by the Library has been extracted by Mr Day.
+233 	In any event, given the view I have formed in relation to Ultimate Findings 51, 52, 54 and 55, it is unnecessary to make a finding in relation to Evidentiary Fact 48 and I refuse to do so.
+H.	Issue 3 – Distortion of the vote
+(1)	Overview of findings sought
+234 	Nine findings were initially sought.  In general terms, the findings sought fell into three categories:  (1) findings as to the first preference votes obtained in the 2013 and 2016 elections by Family First and its candidate or candidates (Facts 57, 59 and 62); (2) findings concerned with the conduct and activities of one or both of Mr Day and Ms Gichuhi (Facts 56 and 58); and (3) findings about voting behaviour and the outcome of a hypothetical election (Facts 60, 61, 63 and 64).
+235 	Each will be considered in turn.
+(2)	Fact 56 – Mr Day acted on behalf of Family First and within the scope of his authority (including as the relevant registered officer of Family First) in: (a) providing the Form CC to the Electoral Officer; (b) jointly requesting, with Ms Gichuhi, that their names be grouped together on the ballot with Mr Day's name appearing above Ms Gichuhi; and (c) endorsing himself and Ms Gichuhi as candidates representing Family First and requesting that Family First's registered abbreviation of the party name and the party logo appear next to their group square above the line
+236 	Mr Day has agreed this fact and I make that finding264.   
+(3)	Fact 57 – In 2013, Mr Day was elected to the Senate: (a) having obtained 2,757 first preferences below the line (0.27% of formal votes, being 0.0186 of a quota); (b) having obtained the benefit of 36,152 votes for Family First above the line (3.48% of formal votes, being 0.2437 of a quota); and (c) achieving the balance of his quota via preference allocations from the registered group tickets of 18 other parties, and from below the line preference allocations
+237 	Mr Day has agreed this fact265 and I make that finding.
+(4)	Fact 58 – At the time of the 2016 election: (a) Ms Gichuhi did not hold political office in South Australia, and had not previously stood for or held political office in South Australia; (b) in contrast to Mr Day, Ms Gichuhi did not feature prominently in Family First's election campaign, or in media coverage relating to Family First in South Australia
+238 	Mr Day has agreed this fact and I make that finding.  
+(5)	Fact 59 – In the 2016 election, Ms Gichuhi received 152 or 0.01% first preference votes below the line.  Mr Day received 5,945 or 0.52% first preference votes below the line.  Family First received 24,817 or 2.34% first preference votes above the line  
+239 	Mr Day has agreed this fact and I make that finding. 
+(6)	Fact 60 – Political parties seek to influence voters to vote for them and their candidates by undertaking political advertising in various forms, and by communicating publicly through the media.  They would not do so if such advertising and communication did not have some such effect in influencing voters
+240 	Mr Day has agreed that "[p]olitical parties seek to influence voters to vote for them and their candidates by undertaking political advertising in various forms, and by communicating publicly through the media" and I make that finding.   
+241 	Ms McEwen submitted that the balance of the fact should be found based on "obvious facts"266.  I refuse to make that further finding.  It is too imprecise to be useful.  Moreover, adopting what John Wanamaker, a department store merchant in the late 19th and early 20th century, is reputed to have said:  "I know half the money I spend on advertising is wasted, but I can never find out which half"267.
+(7)	Fact 61 – Where there is a minor party ticket comprising two candidates, the first of whom: (a) is an incumbent Senator; and (b) features prominently in the party's election campaign; then it is likely that there will [be] a substantial identification between the Senator and the party in the minds of a significant number of voters, which identification is likely to influence whether voters vote for that party
+242 	The parties have agreed that "Mr Day featured prominently in Family First's election campaign"268.  Ms McEwen submitted that the balance should be inferred in the same manner as Fact 60 and, in particular, from the knowledge of who was standing as a candidate.  There is no evidence of the other matters before the Court.  I refuse to make this finding.  
+(8)	Fact 62 – In the 2016 election 91.5% of voters in South Australia (whose votes were formal) voted above the line
+243 	Mr Day agreed this fact and I make that finding.
+(9)	Fact 63 – Had Mr Day not been on the ballot paper in the 2016 election it is likely that: (a) Family First would have received a significantly lower number of votes above the line in South Australia; (b) Ms Gichuhi would not have received enough votes to be elected as a Senator to represent South Australia
+244 	During the final submissions at trial, counsel for Ms McEwen described par (b) as "ambitious"269.  That is not surprising.  It is, at best, hypothetical.  It is not made.  
+245 	I refuse to find Fact 63.  There is no evidence to support the finding.  Ms McEwen submitted that the fact was to be inferred from Facts 58, 60 and 61 and from Agreed Fact 92270.  None of those facts and matters, alone or in any combination, provide any, or any sufficient, basis to draw the inference that Ms McEwen asks the Court to make. 
+(10)	Fact 64 – The presence of Mr Day and of the Family First group above the line distorted the vote at the 2016 election
+246 	During the final submissions at trial, counsel for Ms McEwen informed the Court that Ms McEwen no longer asked this Court to make this finding and I do not make it271.  
+I.	Agreed Facts between the Attorney-General and Mr Day – Agreed Facts 81 and 82
+247 	As the heading suggests, these facts were agreed between the Attorney-General and Mr Day, but not by Ms McEwen.  
+248 	Agreed Fact 81 – There was an agreement or understanding between B&B Day as trustee for the Day Family Trust and Fullarton Investments as trustee for the Fullarton Road Trust, that Fullarton Investments as trustee for the Fullarton Road Trust would make repayments to B&B Day as trustee for the Day Family Trust from rent received from the Commonwealth.  This agreement or understanding was in place from no later than the date of the execution of the memorandum of transfer for the sale of the property on 4 September 2014 – has been addressed and the findings are set out in Part F(3)(b) above.
+249 	Agreed Fact 82 – Counsel for Ms McEwen accepted that the income received by Fullarton Investments for the financial year ended 30 June 2015 was rent of $10,000 and I make that finding.
+J.	Facts agreed between Mr Day and Ms McEwen – Agreed Facts 83 to 92
+250 	As the heading suggests, these facts were agreed between Mr Day and Ms McEwen, but not by the Attorney-General.  On 17 January 2017, the Attorney-General informed the Court that the Attorney-General did not object to these facts being found.  Accordingly, I make the following additional findings of fact:
+AF [83]	As at late 2013, Mr Smith was a friend (and then business partner) of Mr Day.
+AF [84]	The Day Family Trust derives income (including dividends, interest and rent) from its activities.
+AF [85]	The Fullarton Road Trust was established by deed dated 16 December 2013272.  The Day Family Trust is a beneficiary of the Fullarton Road Trust.
+AF [86]	On 25 March 2014 Mr Day emailed Mr Steinert saying "The Government has given approval for me to locate my Senate office at Fullarton Road – subject to me disposing of my interest in the property"273. 
+AF [87]	B&B Day or Mr Day paid the stamp duty on the transfer of the Fullarton Road Property from B&B Day to Fullarton Investments (in the amount of $109,330), the fee on the registration of the transfer (in the amount of $15,319.50) and the conveyancers' professional fees, for a total of $125,549.19274.
+AF [88] 	The share transfer from Mrs Smith to Mr Steinert of the shares in Fullarton Investments dated 23 September 2015 records that Mrs Smith received $2.00 as consideration275.
+AF [89]	At the time of the share transfer from Mrs Smith to Mr Steinert dated 23 September 2015 (and at all material times since), Mr Steinert was a principal of the Colin Steinert Group and had advised Mr Day on the transfer of the Fullarton Road Property from B&B Day to Fullarton Investments.
+AF [90]	When on 2 June 2016 Mr Day made his Statement and Declaration276 and when he requested that his and Ms Gichuhi's names be grouped in the ballot paper, Mr Day knew that the Commonwealth had entered into a lease over part of the Fullarton Road Property. 
+AF [91]	Mr Day was at all material times the Federal Chairman of Family First.
+AF [92]	Mr Day featured prominently in Family First's election campaign. 
+K.	Orders
+251 	The Revised Tender Bundle marked Exhibit 1, and the two page Settlement Statement, dated 11 April 2014, on the letterhead of "Eckermann Steinert Conveyancers" marked Exhibit 2, are to be evidence on the hearing of the Reference before the Full Court on 7 February 2017.
+252 	I direct Ms McEwen to provide the Court with a copy of the Revised Tender Bundle maintaining the current pagination, including Exhibit 2, for use by the Full Court on the hearing of the Reference.
+
+					
+

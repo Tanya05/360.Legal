@@ -1,0 +1,94 @@
+﻿HIGH COURT OF AUSTRALIA
+
+KIEFEL CJ,
+BELL, GAGELER, KEANE AND GORDON JJ
+
+
+
+STATE OF NEW SOUTH WALES	APPELLANT
+
+AND
+
+DC & ANOR	RESPONDENTS
+
+
+New South Wales v DC
+[2017] HCA 22
+14 June 2017
+S35/2017
+
+ORDER
+
+1.	Special leave to appeal in relation to ground 2 of the notice of appeal dated 23 February 2017 revoked.
+
+2.	The appellant pay the respondents' costs. 
+
+
+On appeal from the Supreme Court of New South Wales
+
+
+Representation
+
+N J Williams SC with I L Harvey and L A Coleman for the appellant (instructed by Crown Solicitor (NSW))
+
+A S Morrison SC with J R K Pryde and N F Morrissey for the respondents (instructed by Graham Jones Lawyers)
+
+
+
+Notice:  This copy of the Court's Reasons for Judgment is subject to formal revision prior to publication in the Commonwealth Law Reports.
+
+
+
+CATCHWORDS
+
+New South Wales v DC
+
+Negligence – Duty of care – Statutory power to report abuse of child to police – Where duty of care in exercise of statutory powers conceded – Where scope or extent of duty disputed – Where primary judge found that no authority acting reasonably could regard failure to report abuse to police as reasonable exercise of statutory powers in present case – Where State conceded that only reasonable exercise of statutory powers in some cases may be to report abuse to police – Whether appropriate in light of concessions to consider scope or extent of duty – Special leave to appeal revoked.
+
+Tort – Vicarious liability – Where State conceded vicarious liability for breach of duty of care – Where statute providing for vicarious liability of Crown not in force – Where concession may not have reflected applicable law at relevant times – Special leave to appeal revoked.
+
+Words and phrases – "duty of care", "scope or extent of duty", "statutory discretionary power", "vicarious liability".
+
+Child Welfare Act 1939 (NSW), Pt XIV, s 148B(5).
+Civil Liability Act 2002 (NSW), s 43A.
+Law Reform (Vicarious Liability) Act 1983 (NSW), s 8.
+
+
+
+1 KIEFEL CJ, BELL, GAGELER, KEANE AND GORDON JJ.   Two sisters, the respondents, were subjected to sustained physical and sexual abuse by their stepfather for many years.  On or shortly before 20 April 1983, one of the sisters, TB, made a complaint about the abuse to the Department of Youth and Community Services ("the Department"), a department of the appellant, the State of New South Wales.  TB and the other sister, DC, were then aged 15 and 12 years respectively.  Each was interviewed by a case officer of the Department.  
+2 	At that time, provisions relating to child protection were contained in the now repealed Child Welfare Act 1939 (NSW) ("the CW Act").  The sisters were dealt with by officers of the Department under Pt XIV of the CW Act, entitled "Committal of Neglected or Uncontrollable Children or Young Persons or of Juvenile Offenders", and related provisions. 
+3 	Section 76 in Pt XIV of the CW Act relevantly provided that any officer authorised by the Minister or any constable of police could, without warrant, "apprehend" any child who the officer or police constable had reason to believe was a neglected child.  For the purposes of Pt XIV, "[n]eglected child" was defined to include a child who in the opinion of the court1 was "under incompetent or improper guardianship"2.  Under s 78, a child apprehended on that basis was to be taken to a shelter (which could include a place of safety3) and brought before a court as soon as practicable.
+4 	Section 82 set out powers that a court could exercise if it found that a child was a neglected child.  Those powers included admonishing and discharging the child; releasing the child on probation; committing the child to the care of some person or the Minister, or to an institution; and releasing the child on terms and conditions as the court thought fit and as were willingly undertaken to be observed by the child's parents, one of the child's parents or another person approved by the court.
+5 	Section 148B of the CW Act, located in Pt XVII ("Procedure, Penalties and General Provisions"), made provision for notification and reporting.  Section 148B(2) relevantly provided that any person who formed the belief upon reasonable grounds that a child had been assaulted or was a neglected child within the meaning of Pt XIV could notify the Director4 of the Department of their belief and the grounds for it.  
+6 	Section 148B(5) imposed certain statutory duties on, and provided that certain powers could be exercised by, the Director where a notification had been made.  In terms, s 148B(5) provided:
+"Where the Director has been notified under subsection (2) or (3), he shall—
+(a)	promptly cause an investigation to be made into the matters notified to him; and
+(b)	if he is satisfied that the child in respect of whom he was notified may have been assaulted, ill‑treated or exposed, take such action as he believes appropriate, which may include reporting those matters to a constable of police." 
+7 	Following the complaint by TB, officers of the Department took immediate steps including interviewing each of the sisters, organising for the sisters to reside temporarily away from the family home and bringing proceedings in the Children's Court seeking findings that each of the sisters was a neglected child.  The Department did not report the complaint to the police.  
+8 	In 2008, the sisters commenced proceedings in negligence in the Supreme Court of New South Wales against the State and one of the Department's officers claiming damages for personal injury and mental harm caused by the continued sexual and physical abuse by their stepfather after the Department was notified of the complaint in April 1983.  An extension of the limitation period to commence the proceedings was granted.  The sisters made no complaint about the steps in fact taken by the Department.  Rather, the sisters contended that the Department breached its duty of care to them by not reporting the abuse to the police.  
+9 	In the proceedings, the parties proceeded on the basis that the complaint by TB in April 1983 constituted a notification for the purposes of s 148B(2) and that steps taken by officers of the Department thereafter were in discharge of the powers, duties or functions under s 148B(5).  No issue was raised by the State in those proceedings as to whether s 148B was engaged on the facts of the case5. 
+10 	In relation to the claim against the Department, the primary judge6 (Campbell J) found that:
+(1)	the Department owed each sister a duty actionable under the law of negligence to use reasonable care in the exercise of its powers for the protection of children at risk conferred by s 148B(5) of the CW Act;
+(2)	the Department had breached that duty by failing to notify the police of the serious physical and sexual abuse suffered by the sisters; 
+(3)	no authority acting reasonably could properly consider the failure to report the abuse of the sisters to the police to be a reasonable exercise of the powers conferred upon it by s 148B(5)(b) of the CW Act7; and
+(4)	the Department reporting the abuse to the police would "in all probability" have led to the stepfather being charged and the sisters thereby being protected from any further abuse.
+11 	However, the primary judge was not satisfied on the balance of probabilities that the stepfather had continued to abuse the sisters after the abuse he had previously inflicted was notified to the Department.  On that basis, his Honour found that the Department's breach was not a necessary condition of the harm suffered by the sisters.  
+12 	In relation to the claim against the officer of the Department, the primary judge concluded that she may have owed the sisters a duty of care in the provision of welfare services but that this duty was not the same as that owed by the Department and that, as the powers in s 148B(5) were not conferred upon her, she owed no duty in relation to their exercise.  The primary judge also concluded that if the officer owed a duty in relation to the exercise of the powers conferred by s 148B(5), she discharged that duty by notifying a child protection unit in the Department and reporting the abuse to her superior officers.  There was no appeal from those conclusions. 
+13 	The sisters appealed to the Court of Appeal of the Supreme Court of New South Wales8.  A majority of the Court of Appeal (Ward JA and Sackville AJA, Basten JA dissenting) overturned the findings of the primary judge on the question of continuing abuse, concluding that the stepfather's abuse of the sisters continued after the complaint to the Department in April 1983.  The continuation of the abuse after April 1983 formed the basis for the sisters' claim that they suffered harm, including serious psychiatric injury, because of abuse post­dating the complaint to the Department.  The majority's finding that the abuse continued after April 1983 was not the subject of the appeal to this Court.
+14 	The majority of the Court of Appeal held that the Department owed a duty of care to the sisters to take all reasonable steps in the circumstances of the case to protect the sisters from the risk of further physical and sexual abuse (and consequent physical and mental harm) at the hands of the stepfather.  That duty was found to have been breached because the Department did not exercise its statutory discretionary power under s 148B(5) of the CW Act to report the abuse to the police.  The majority held that the State was therefore liable for the harm that the sisters suffered, including serious psychiatric injury, because of the continuing abuse.
+Revocation of special leave
+15 	In its appeal by special leave to this Court, the State did not dispute that, in the exercise of its statutory powers under s 148B(5) of the CW Act, a common law duty was owed by the State to the sisters.  
+16 	The grounds of the State's appeal to this Court encompassed, first, the extent or scope of that duty (ground 2) and, second, if that duty was breached, whether the State was vicariously liable (ground 3).  The appeal grounds were expressed in the following terms:
+"2.	The Court of Appeal should have found that any duty of care owed to the [sisters] by the [State] through the Director of Child Welfare in 1983 did not extend to exercising a statutory power to report to police allegations of criminality by the [sisters'] stepfather following interviews with the [sisters] by officers of the [State] in April 1983.
+3.	The Court of Appeal erred in failing to identify the basis upon which the [State] could be held liable by reason of a direct duty owed to the [sisters] or vicariously liable for omissions of an officer or officers of the [State] in circumstances where there was no finding that any such officer was negligent in the performance of any duty." 
+17 	During the course of argument, it came to the attention of the Court that ground 3 was based upon a concession made by the State in its defence to each of the sisters' claims that if the duty owed was breached, the State was vicariously liable for that breach.  The Court accepted that the concession was made for good reasons.  However, that concession may not have reflected the true state of the applicable law at the relevant times, because the Law Reform (Vicarious Liability) Act 1983 (NSW), which provided (and continues to provide) for vicarious liability of the Crown9, did not commence until 28 October 1983 and did not operate retrospectively.  Accordingly, in the circumstances of this matter, ground 3 did not invite elucidation of any legal principle by the Court and special leave to appeal in relation to that ground was revoked.  
+18 	Ground 2 raised a live and contentious issue concerning the scope or extent of the common law duty owed in the exercise of a statutory discretionary power10.  After revoking special leave in relation to ground 3, the Court reserved its decision on the question whether special leave to appeal in relation to ground 2 should be revoked until after hearing argument.  
+19 	We consider that special leave to appeal on ground 2 should also be revoked for the reason that the appeal does not squarely raise the question of principle that the State seeks to have this Court determine. 
+20 	The State accepted that there was a common law duty to use reasonable care in the exercise of the powers conferred by s 148B(5) of the CW Act for the protection of children at risk.  In relation to the scope or extent of that common law duty, the State further accepted, during the course of argument, that there will be cases where, in the circumstances, the only reasonable exercise of the powers conferred by s 148B(5) would be to report the matter to the police. 
+21 	Here, the primary judge made a finding that, in this particular case, "no authority acting reasonably could properly consider the failure to report the abuse of TB and DC to the police to be a reasonable exercise of the powers conferred upon it" by s 148B(5) of the CW Act (emphasis in original).  His Honour held that the failure to report the abuse to the police constituted a breach of duty.  
+22 	Moreover, the primary judge made findings on causation that were not challenged.  His Honour found that, if the abuse had been reported to the police, "in all probability" charges would have been laid against the stepfather.  His Honour found that there was a "strong possibility" that the stepfather would have been denied bail, and further found that, if bail had been granted, the stepfather would have complied with what would have been stringent conditions as to his conduct whilst on bail awaiting trial.
+23 	Having regard to the course taken by the State at trial, and in the appeals to the Court of Appeal and to this Court, this case is not an appropriate vehicle for considering the scope or extent of the common law duty owed in the exercise of the powers under the CW Act.  
+Conclusion and orders
+24 	Special leave to appeal in relation to ground 2 should be revoked.  The State should pay the sisters' costs of the proceedings in this Court.
+
+
