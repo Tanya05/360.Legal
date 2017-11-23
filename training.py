@@ -49,14 +49,11 @@ for dirpath, dirs, files in os.walk(path):
             token_dict[f] = text.translate(None, string.punctuation)
             #stored text corresponding to file in dictionary
 
-tfidf = TfidfVectorizer(tokenizer=tokenize)
+tfidf = TfidfVectorizer(tokenizer=tokenize)#expects list
 #Fit the TfIdf model, and Transform a document into TfIdf coordinates
 tfs = tfidf.fit_transform(token_dict.values())
 
-# for file in token_dict:
-#     print token_dict[file]
-feature_names = tfidf.get_feature_names()
-
+print tfs
+# feature_names = tfidf.get_feature_names()
+# print feature_names
 print tfidf.vocabulary_
-
-#features = vec.get_feature_names()
