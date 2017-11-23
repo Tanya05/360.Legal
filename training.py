@@ -7,8 +7,9 @@ import os
 from re import sub
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
+import pandas as pd
 
-path = './cases_2017'
+path = './cases'
 token_dict = {}
 
 #function to tokenize, remove stop words and stem the remaining
@@ -30,7 +31,7 @@ def tokenize(text):
         if (word.lower() not in stop_words):
             final_tokens.append(str(PorterStemmer().stem(word.lower())))
     stripped_text = " ".join(final_tokens)
-    # print stripped_text
+    print stripped_text
     return stripped_text
 
 for dirpath, dirs, files in os.walk(path):
@@ -40,14 +41,18 @@ for dirpath, dirs, files in os.walk(path):
         print "fname=", fname
         with open(fname) as pearl:
             text = pearl.read()
-            stripped_text = tokenize(text)
-            token_dict[f] = stripped_text.translate(None, string.punctuation)
+            token_dict[f] = text.translate(None, string.punctuation)
             #stored text corresponding to file in dictionary
 
 tfidf = TfidfVectorizer(tokenizer=tokenize)
+#Fit the TfIdf model, and Transform a document into TfIdf coordinates
 tfs = tfidf.fit_transform(token_dict.values())
 
-for file in token_dict:
-    print token_dict[file]
+# for file in token_dict:
+#     print token_dict[file]
 
-print tfs
+print tfs.toarray()
+print tfidf.get_feature_names()
+# print tfidf.vocabulary_
+
+#features = vec.get_feature_names()
