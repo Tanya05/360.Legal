@@ -62,9 +62,8 @@ feature_names = tfidf.get_feature_names()
 #print tfidf.vocabulary_
 print tfs.shape
 
-# svd = TruncatedSVD(n_components = 5)
-# svdMatrix = svd.fit_transform(tfs)
-tfs_matrix = [[0 for x in range(tfs.shape[1])] for y in range(tfs.shape[0])] 
+#creating a 2D TF/IDF matrix from tfs
+tfs_matrix = [[0 for x in range(tfs.shape[1])] for y in range(tfs.shape[0])] #initialised to prevent list comprehension
 i = 0
 while i < tfs.shape[0]:
     j = 0
@@ -73,22 +72,24 @@ while i < tfs.shape[0]:
         j=j+1
     i=i+1
 
-
+#Sigma comes out as a list rather than a matrix
 u,sigma,vt = scipy.linalg.svd(tfs_matrix)
 
- #Reconstruct MATRIX'
+#Reconstruct MATRIX
 reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[0],len(vt))),vt)
 print reconstructedMatrix
 i = 0
 count = 0
+
 # Parse the  reconstucted matrix and take dot product of each row with
 # every row to get similarity of every two documents. Find out the max 
 # similarity of each document.
+
 while i < tfs.shape[0]:
     maxSimilarity=0
-    maxSimilarityI=-1
-    maxSimilarityY=-1
-    j = 0
+    doc1=-1
+    doc2=-1
+    j = i
     while j < tfs.shape[0]:
         if i != j:
             X = np.array(reconstructedMatrix[i])
@@ -96,16 +97,14 @@ while i < tfs.shape[0]:
             similarity = X.dot(THETA)
             if similarity > maxSimilarity:
                 maxSimilarity=similarity
-                maxSimilarityI=i
-                maxSimilarityY=j
+                doc1=i
+                doc2=j
         j=j+1
         count = count + 1
     i=i+1
     print maxSimilarity
     keys = token_dict.keys()
-    print keys[maxSimilarityI]
-    print keys[maxSimilarityY]
-
-    
+    print keys[doc1]
+    print keys[doc2]
 
 print count
