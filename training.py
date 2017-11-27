@@ -10,8 +10,9 @@ from nltk.stem.porter import PorterStemmer
 from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
 import scipy
+import numpy as np
 
-path = './cases_2017'
+path = './cases'
 token_dict = {}
 
 #function to tokenize, remove stop words and stem the remaining
@@ -78,3 +79,6 @@ u,sigma,vt = scipy.linalg.svd(tfs_matrix)
  #Reconstruct MATRIX'
 reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[0],len(vt))),vt)
 print reconstructedMatrix
+X = np.array(reconstructedMatrix[0])
+THETA = np.array(reconstructedMatrix[1])
+print X.dot(THETA)
