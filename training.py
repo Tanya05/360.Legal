@@ -12,7 +12,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import scipy
 import numpy as np
 
-path = './cases'
+path = './cases_2017'
 token_dict = {}
 
 #function to tokenize, remove stop words and stem the remaining
@@ -79,6 +79,18 @@ u,sigma,vt = scipy.linalg.svd(tfs_matrix)
  #Reconstruct MATRIX'
 reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[0],len(vt))),vt)
 print reconstructedMatrix
-X = np.array(reconstructedMatrix[0])
-THETA = np.array(reconstructedMatrix[1])
-print X.dot(THETA)
+i = 0
+count = 0
+while i < tfs.shape[0]:
+    j = 0
+    while j < tfs.shape[0]:
+        if i != j:
+            X = np.array(reconstructedMatrix[i])
+            THETA = np.array(reconstructedMatrix[j])
+            print X.dot(THETA)
+        j=j+1
+        count = count + 1
+    i=i+1
+    
+
+print count
