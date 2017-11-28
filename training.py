@@ -11,6 +11,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
 import scipy
 import numpy as np
+import matplotlib.pyplot as plt
 
 path = './cases'
 token_dict = {}
@@ -78,20 +79,21 @@ u,sigma,vt = scipy.linalg.svd(tfs_matrix)
 #Reconstruct MATRIX
 reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[0],len(vt))),vt)
 print reconstructedMatrix
-i = 0
-count = 0
 
 # Parse the  reconstucted matrix and take dot product of each row with
 # every row to get similarity of every two documents. Find out the max 
 # similarity of each document.
 
-while i < tfs.shape[0]:
+i = 0
+count = 0
+while i < tfs.shape[0]-1:
     maxSimilarity=0
     doc1=-1
     doc2=-1
-    j = i
+    j = i+1
     while j < tfs.shape[0]:
         if i != j:
+            #calculating dot product
             X = np.array(reconstructedMatrix[i])
             THETA = np.array(reconstructedMatrix[j])
             similarity = X.dot(THETA)
