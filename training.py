@@ -81,16 +81,31 @@ reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[
 print reconstructedMatrix
 i = 0
 count = 0
+# maxSimilarity=0
+# maxSimilarityI=-1
+# maxSimilarityY=-1
 while i < tfs.shape[0]:
+    maxSimilarity=0
+    maxSimilarityI=-1
+    maxSimilarityY=-1
     j = 0
     while j < tfs.shape[0]:
         if i != j:
             X = np.array(reconstructedMatrix[i])
             THETA = np.array(reconstructedMatrix[j])
-            print X.dot(THETA)
+            similarity = X.dot(THETA)
+            if similarity > maxSimilarity:
+                maxSimilarity=similarity
+                maxSimilarityI=i
+                maxSimilarityY=j
         j=j+1
         count = count + 1
     i=i+1
+    print maxSimilarity
+    keys = token_dict.keys()
+    print keys[maxSimilarityI]
+    print keys[maxSimilarityY]
+
     
 
 print count
