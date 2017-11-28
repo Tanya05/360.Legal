@@ -12,7 +12,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import scipy
 import numpy as np
 
-path = './cases_2017'
+path = './cases'
 token_dict = {}
 
 #function to tokenize, remove stop words and stem the remaining
@@ -81,9 +81,9 @@ reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[
 print reconstructedMatrix
 i = 0
 count = 0
-# maxSimilarity=0
-# maxSimilarityI=-1
-# maxSimilarityY=-1
+# Parse the  reconstucted matrix and take dot product of each row with
+# every row to get similarity of every two documents. Find out the max 
+# similarity of each document.
 while i < tfs.shape[0]:
     maxSimilarity=0
     maxSimilarityI=-1
