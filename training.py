@@ -66,13 +66,11 @@ def findSimilar(path, filename):
     fileIndex = keys.index(filename)
     print fileIndex
 
-
-    
-    #
+    #taken tokenising function, tokenises the files, and generates the tf/idf values for each (file,word)
     tfidf = TfidfVectorizer(tokenizer=tokenize)#expects list
-    #Fit the TfIdf model, and Transform a document into TfIdf coordinates
-    tfs = tfidf.fit_transform(token_dict.values())
 
+    #Fit the Tf/Idf model, and Transform a document into TfIdf coordinates
+    tfs = tfidf.fit_transform(token_dict.values())
     #print tfs
     feature_names = tfidf.get_feature_names()
     #print feature_names
