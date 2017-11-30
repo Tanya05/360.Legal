@@ -64,7 +64,6 @@ def findSimilar(path, filename):
         print "Filename error. File not in corpus"
         return
     fileIndex = keys.index(filename)
-    print fileIndex
 
     #taken tokenising function, tokenises the files, and generates the tf/idf values for each (file,word)
     tfidf = TfidfVectorizer(tokenizer=tokenize)#expects list
