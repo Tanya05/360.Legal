@@ -1,8 +1,7 @@
-Good Similarity of 8.txt is maximum with: 15.txt: 0.187042893674
 Good Similarity of 2.txt is maximum with: 1.txt: 0.656397926121
 Bad Similarity of 24.txt is maximum with: 22.txt: 0.105663146316
 Average Similarity of 18.txt is maximum with: 17.txt: 0.0962829992633
-Average Similarity of 26.txt is maximum with: 6.txt: 0.0717021004061
+Good Similarity of 26.txt is maximum with: 6.txt: 0.0717021004061
 Average Similarity of 5.txt is maximum with: 1.txt: 0.118256612819
 Good Similarity of 25.txt is maximum with: 2.txt: 0.333459268959
 Good Similarity of 16.txt is maximum with: 3.txt: 0.0699299831434
@@ -28,3 +27,6 @@ Average Similarity of 17.txt is maximum with: 18.txt: 0.0962829992633
 Good Similarity of 20.txt is maximum with: 12.txt: 0.0836549271217
 Bad Similarity of 7.txt is maximum with: 3.txt: 0.0736463337816
 Good Similarity of 29.txt is maximum with: 14.txt: 0.190507796406
+Good: 21
+Bad: 4
+Average: 4
