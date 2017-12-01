@@ -41,72 +41,83 @@ def tokenize(text):
     # stripped_text = " ".join(final_tokens)
     return final_tokens
 
-for dirpath, dirs, files in os.walk(path):
-    #os.walk() generates the file names in a directory tree by walking the tree
-    for f in files:
-        fname = os.path.join(dirpath, f) #creates filename as path+file
-        #print "fname=", fname
-        with open(fname) as pearl:
-            text = pearl.read()
-            #remove unwanted utf-8 characters
-            text=sub(r'[^\x00-\x7f]|[\x11]',r' ',text)
-            token_dict[f] = text.translate(None, string.punctuation)
-            #stored text corresponding to file in dictionary
 
-tfidf = TfidfVectorizer(tokenizer=tokenize)#expects list
-#Fit the TfIdf model, and Transform a document into TfIdf coordinates
-tfs = tfidf.fit_transform(token_dict.values())
 
-#print tfs
-feature_names = tfidf.get_feature_names()
-#print feature_names
-#print tfidf.vocabulary_
-print tfs.shape
 
-#creating a 2D TF/IDF matrix from tfs
-tfs_matrix = [[0 for x in range(tfs.shape[1])] for y in range(tfs.shape[0])] #initialised to prevent list comprehension
-i = 0
-while i < tfs.shape[0]:
-    j = 0
-    while j < tfs.shape[1]:
-        tfs_matrix[i][j] = tfs[i,j]
-        j=j+1
-    i=i+1
 
-#Sigma comes out as a list rather than a matrix
-u,sigma,vt = scipy.linalg.svd(tfs_matrix)
+def findSimilar(path, filename):    
+    for dirpath, dirs, files in os.walk(path):
+        #os.walk() generates the file names in a directory tree by walking the tree
+        for f in files:
+            fname = os.path.join(dirpath, f) #creates filename as path+file
+            #print "fname=", fname
+            with open(fname) as pearl:
+                text = pearl.read()
+                #remove unwanted utf-8 characters
+                text=sub(r'[^\x00-\x7f]|[\x11]',r' ',text)
+                token_dict[f] = text.translate(None, string.punctuation)
+                #stored text corresponding to file in dictionary
 
-#Reconstruct MATRIX
-reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[0],len(vt))),vt)
-print reconstructedMatrix
+    #find fileIndex of our target document.
+    keys = token_dict.keys()
+    if filename not in keys:
+        print "Filename error. File not in corpus"
+        return
+    fileIndex = keys.index(filename)
+    print fileIndex
 
-# Parse the  reconstucted matrix and take dot product of each row with
-# every row to get similarity of every two documents. Find out the max 
-# similarity of each document.
 
-i = 0
-count = 0
-while i < tfs.shape[0]-1:
+    
+    #
+    tfidf = TfidfVectorizer(tokenizer=tokenize)#expects list
+    #Fit the TfIdf model, and Transform a document into TfIdf coordinates
+    tfs = tfidf.fit_transform(token_dict.values())
+
+    #print tfs
+    feature_names = tfidf.get_feature_names()
+    #print feature_names
+    #print tfidf.vocabulary_
+    print tfs.shape
+
+    #creating a 2D TF/IDF matrix from tfs
+    tfs_matrix = [[0 for x in range(tfs.shape[1])] for y in range(tfs.shape[0])] #initialised to prevent list comprehension
+    i = 0
+    while i < tfs.shape[0]:
+        j = 0
+        while j < tfs.shape[1]:
+            tfs_matrix[i][j] = tfs[i,j]
+            j=j+1
+        i=i+1
+
+    #Sigma comes out as a list rather than a matrix
+    u,sigma,vt = scipy.linalg.svd(tfs_matrix)
+
+    #Reconstruct MATRIX
+    reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[0],len(vt))),vt)
+    print reconstructedMatrix
+
+    # Parse the  reconstucted matrix and take dot product of each row with
+    # every row to get similarity of every two documents. Find out the max 
+    # similarity of each document.
+    i = 0
+    count = 0
     maxSimilarity=0
+    THETA = np.array(reconstructedMatrix[fileIndex])
     doc1=-1
-    doc2=-1
-    j = i+1
-    while j < tfs.shape[0]:
-        if i != j:
-            #calculating dot product
+    while i < tfs.shape[0]:
+        doc2=fileIndex
+        if i != fileIndex:
+                #calculating dot product
             X = np.array(reconstructedMatrix[i])
-            THETA = np.array(reconstructedMatrix[j])
             similarity = X.dot(THETA)
             if similarity > maxSimilarity:
                 maxSimilarity=similarity
                 doc1=i
-                doc2=j
-        j=j+1
-        count = count + 1
-    i=i+1
-    print maxSimilarity
-    keys = token_dict.keys()
-    print keys[doc1]
-    print keys[doc2]
+            count = count + 1
+        i=i+1
+    print "Similarity of " + keys[doc2] + " is maximum with: "+ keys[doc1] + ": " + str(maxSimilarity)
+    
 
-print count
+filename = raw_input("What is the name of the target file?: ")
+
+findSimilar(path, filename)
