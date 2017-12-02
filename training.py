@@ -66,7 +66,7 @@ def findSimilar(path, filename):
     #Fit the Tf/Idf model, and Transform a document into TfIdf coordinates
     tfs = tfidf.fit_transform(token_dict.values())
     #print tfs
-    feature_names = tfidf.get_feature_names()
+    #feature_names = tfidf.get_feature_names()
     #print feature_names
     #print tfidf.vocabulary_
     print "Shape of tfidf matrix = " + str(tfs.shape)
