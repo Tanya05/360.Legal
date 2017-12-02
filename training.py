@@ -11,7 +11,6 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.metrics.pairwise import cosine_similarity
 import scipy
 import numpy as np
-import matplotlib.pyplot as plt
 
 path = './cases'
 token_dict = {}
@@ -40,10 +39,6 @@ def tokenize(text):
             final_tokens.append(str(PorterStemmer().stem(word.lower())))
     # stripped_text = " ".join(final_tokens)
     return final_tokens
-
-
-
-
 
 def findSimilar(path, filename):    
     for dirpath, dirs, files in os.walk(path):
@@ -74,7 +69,7 @@ def findSimilar(path, filename):
     feature_names = tfidf.get_feature_names()
     #print feature_names
     #print tfidf.vocabulary_
-    print tfs.shape
+    print "Shape of tfidf matrix = " + str(tfs.shape)
 
     #creating a 2D TF/IDF matrix from tfs
     tfs_matrix = [[0 for x in range(tfs.shape[1])] for y in range(tfs.shape[0])] #initialised to prevent list comprehension
@@ -91,6 +86,7 @@ def findSimilar(path, filename):
 
     #Reconstruct MATRIX
     reconstructedMatrix= scipy.dot(scipy.dot(u,scipy.linalg.diagsvd(sigma,tfs.shape[0],len(vt))),vt)
+    print "Reconstructed Matrix: "
     print reconstructedMatrix
 
     # Parse the  reconstucted matrix and take dot product of each row with
