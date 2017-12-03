@@ -37,7 +37,6 @@ def tokenize(text):
             #remove numberd from words - trail231 becomes trial
             word = sub(r'\d+', '', word)
             final_tokens.append(str(PorterStemmer().stem(word.lower())))
-    # stripped_text = " ".join(final_tokens)
     return final_tokens
 
 def findSimilar(path, filename):    
